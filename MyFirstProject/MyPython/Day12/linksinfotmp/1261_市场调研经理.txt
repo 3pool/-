@@ -1,0 +1,287 @@
+<html lang="zh"><head>
+
+  <!-- RGVzaWduZXI6JUUzJTgwJTkwJUUzJTgwJTkxJTIwRGV2ZWxvcGVyOiVFMyU4MCU5MFdIJUU1JTkxJUE4JUU1JUI4JUI4JUU3JTgyJTlDJUUzJTgwJTkxJTIwUE06JUUzJTgwJTkwV0glRTUlOTElQTglRTYlOTglOEUlRTglODMlOUMlRTMlODAlOTElMjBEYXRlOjIwMjEtMDUtMDg= -->
+
+  <meta charset="UTF-8">
+
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+
+  <meta content="width=1280" name="viewport">
+
+  <title>广东普拉迪科技股份有限公司2021社会招聘</title>
+
+  <meta content="广东普拉迪科技股份有限公司招聘 前程无忧官方网站，提供最新 广东普拉迪科技股份有限公司招聘职位，校园招聘信息， 广东普拉迪科技股份有限公司面试技巧等。帮助您顺利踏入广东普拉迪科技股份有限公司的大门，与众多广东普拉迪科技股份有限公司精英们开启一段崭新的职业生涯。" name="description">
+
+  <meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+  <meta content="0" http-equiv="expires">
+
+  <meta content="no-cache" http-equiv="pragma">
+
+  <meta content="no-cache" http-equiv="cache-control">
+
+  <meta content="no-siteapp" http-equiv="cache-control">
+
+  <meta content="telephone=no" name="format-detection">
+
+  <meta content="all" name="robots">
+
+  <meta content="webkit|ie-comp|ie-stand" name="render">
+
+  <meta content="IE=edge,chrome=1" http-equiv="x-ua-compatible">
+
+  <link href="style/swiper.min.css" rel="stylesheet">
+
+  <link href="style/animate.min.css" rel="stylesheet">
+
+  <link href="style/jobs.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+  <div class="header-float animated slideInDown">
+
+    <div class="logo">
+
+      <img src="image/logo.png">
+
+    </div>
+
+    <div class="slogan">
+
+      <img src="image/slogan.png">
+
+    </div>
+
+  </div>
+
+  <div class="header-bg swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
+
+    <div class="swiper-wrapper" style="height: 299px; transform: translate3d(-779px, 0px, 0px); transition-duration: 0ms;">
+
+      <div class="swiper-slide swiper-slide-prev" style="width: 779px;">
+
+        <img src="image/banner-1.jpg">
+
+      </div>
+
+      <div class="swiper-slide swiper-slide-active" style="width: 779px;">
+
+        <img src="image/banner-2.jpg">
+
+      </div>
+
+      <div class="swiper-slide swiper-slide-next" style="width: 779px;">
+
+        <img src="image/banner-3.jpg">
+
+      </div>
+
+      <div class="swiper-slide" style="width: 779px;">
+
+        <img src="image/banner-4.jpg">
+
+      </div>
+
+      <div class="swiper-slide" style="width: 779px;">
+
+        <img src="image/banner-1.jpg">
+
+      </div>
+
+    </div>
+
+  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+  <nav>
+
+    <div class="nav-links">
+
+      <a class="nav-link" href="intro.html"><span>公司简介</span></a>
+
+      <div class="nav-link sub-nav active"><span>招聘专区</span>
+
+        <div class="sub-nav-links">
+
+          <a class="sub-nav-link active" href="jobs.html"><span>招聘需求</span></a>
+
+          <a class="sub-nav-link" href="develop.html"><span>职业发展</span></a>
+
+        </div>
+
+      </div>
+
+      <a class="nav-link" href="welfare.html"><span>福利待遇</span></a>
+
+      <a class="nav-link" href="contact.html"><span>联系我们</span></a>
+
+      <a class="nav-link" href="http://www.pratic-cnc.com/" target="_blank"><span>公司官网</span></a>
+
+    </div>
+
+  </nav>
+
+</header>
+
+<section>
+
+  <div class="wrapper">
+
+    <div class="diagram textCenter title" style="display: none;">
+
+      <img src="image/jobs-title-a.png">
+
+    </div>
+
+    <div class="social-jobs" style="display: none;">
+
+      <div class="table-container">
+
+        <table>
+
+          <tbody><tr><th>职&nbsp;&nbsp;位</th><th>职&nbsp;&nbsp;能</th><th>工作性质</th></tr><tr><td><a href="jobs.html?jobid=133813238&amp;ctmid=1773259">应收应付会计</a></td><td>会计</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127482806&amp;ctmid=1773259">售后储备工程师</a></td><td>售前/售后技术支持工程师,技术支持/维护工程师</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127663177&amp;ctmid=1773259">销售经理（福建）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665906&amp;ctmid=1773259">销售经理（江苏）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665988&amp;ctmid=1773259">销售经理（浙江）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665989&amp;ctmid=1773259">销售经理（浙江）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665990&amp;ctmid=1773259">销售经理（浙江）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665991&amp;ctmid=1773259">销售经理（浙江）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127665992&amp;ctmid=1773259">销售经理（浙江）</a></td><td>销售经理</td><td>全职</td></tr><tr><td><a href="jobs.html?jobid=127666128&amp;ctmid=1773259">销售经理（安徽）</a></td><td>销售经理</td><td>全职</td></tr></tbody>
+
+        </table>
+
+        <div class="pagination-container">
+
+          <div class="pagination">
+
+            <div class="prev"><img src="image/pagination.png"></div>
+
+            <div class="tar curr"><span>1</span></div>
+
+            <div class="next"><img src="image/pagination2.png"></div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="diagram textCenter title" style="display: none;">
+
+      <img src="image/jobs-title-b.png">
+
+    </div>
+
+    <div class="school-jobs" style="display: none;">
+
+      <div class="table-container">
+
+        <table>
+
+          <tbody>
+
+          <tr><th>职&nbsp;&nbsp;位</th><th>职&nbsp;&nbsp;能</th><th>工作性质</th></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125313465&amp;ctmid=4936957">储备工程师（电气）</a></td><td>机电工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125314189&amp;ctmid=4936957">储备工程师（工业工程）</a></td><td>工业工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125313825&amp;ctmid=4936957">储备工程师（工业设计）</a></td><td>技术研发工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125377294&amp;ctmid=4936957">储备工程师（机电）</a></td><td>机电工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=127651368&amp;ctmid=4936957">储备工程师-（机电）</a></td><td>机电工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125309219&amp;ctmid=4936957">储备工程师（机械）</a></td><td>机械工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125377464&amp;ctmid=4936957">储备工程师（计算机）</a></td><td>高级软件工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=125316798&amp;ctmid=4936957">储备工程师（软件工程）</a></td><td>嵌入式软件开发(Linux/单片机/PLC/DSP…)</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=131303054&amp;ctmid=4936957">储备工程师（信计/软件/计算机）（常州）</a></td><td>系统工程师</td><td>全职</td></tr><tr><td><a href="https://xyz.51job.com/external/apply.aspx?jobid=131303058&amp;ctmid=4936957">储备工程师（信计/软件/计算机）（连云港）</a></td><td>系统工程师</td><td>全职</td></tr></tbody>
+
+        </table>
+
+        <div class="pagination-container">
+
+          <div class="pagination">
+
+            <div class="prev"><img src="image/pagination.png"></div>
+
+            <div class="tar curr"><span>1</span></div><div class="tar"><span>2</span></div><div class="tar"><span>3</span></div><div class="tar"><span>4</span></div><div class="tar"><span>5</span></div><div class="tar"><span>6</span></div><div class="tar"><span>7</span></div>
+
+            <div class="next"><img src="image/pagination2.png"></div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="detail-container" style="display: block;">
+
+      <div class="job-title">
+
+        <p>市场调研经理</p>
+
+      </div>
+
+      <div class="job-detail"><p>1、统筹制作行业销售资料（适应产品资料、视频等），融入行业制作报告：</p><p>2、配合行业经理完成行业报告调研及完善调研方向；</p><p>3、规划、申报行业推广（每月），行业重点信息采集；</p><p>4、收集行业中潜在客户信息，以专业的行业知识，提供销售部，帮助业务部签单。</p><p style="font-weight: bolder; font-size: 16px;">任职要求：</p><p>1、具有市场调研经验或销售经验，懂得信息获取的渠道、挖掘信及能独立进入陌生企业了解相关信息能力；</p><p>2、性格外向、抗压能力强、务实；</p><p>3、能够熟练运用office.</p><p><b>【备注：佛山入职工作1-2个月，后期常驻华东区域】</b></p></div>
+
+      <div class="job-operation">
+
+        <button class="applyNow active">立即申请 &gt;&gt;</button>
+
+        <button class="getBack">返回职位列表</button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<div class="toTop">&gt;</div>
+
+<div class="toast" style="display: none">
+
+  <div class="container">
+
+    <div class="wrapper">
+
+      <img class="toastImg">
+
+      <p class="toastTxt"></p>
+
+    </div>
+
+    <a class="back" href="#">返回</a>
+
+  </div>
+
+</div>
+
+<footer>
+
+  <img src="image/five.png">&nbsp;&nbsp;未经51job.com&nbsp;同意，不得转载本网站之所有招聘信息及作品
+
+  无忧工作网版权所有&nbsp;©&nbsp;1999-<span id="copyYear">2021</span>
+
+</footer>
+
+<script src="script/jquery.min.js"></script>
+
+<script src="script/swiper.min.js"></script>
+
+<script src="script/main.min.js"></script>
+
+<script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+
+<script src="script/data.min.js"></script>
+
+<!--<script>-->
+
+<!--  var _tkd = _tkd || []-->
+
+<!--  var param = 'webId=4&accountId=&ctmId=4936957&guid=&dType=1&jobId=&type=&urlType=4'-->
+
+<!--  _tkd.push(['_setParams', param])-->
+
+<!--  _tkd.push(['_setAutoButtonClick', true, 'a'])-->
+
+<!--  _tkd.push(['_setAutoPageview', true])-->
+
+<!--  document.write(-->
+
+<!--    unescape('%3Cscript src=\'http://trace.51jingying.com/trackBigdata.js\' type=\'text/javascript\'%3E%3C/script%3E'))-->
+
+<!--</script>-->
+
+
+
+</body></html>

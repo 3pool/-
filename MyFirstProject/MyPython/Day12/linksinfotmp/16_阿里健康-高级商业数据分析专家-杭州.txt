@@ -1,0 +1,272 @@
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+<!--images of client -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>【DHL招聘，求职】DHL前程无忧官方招聘网站</title>
+<meta content="DHL招聘 前程无忧官方网站，提供最新DHL招聘职位，校园招聘信息，DHL面试技巧等。帮助您顺利踏入DHL的大门，与众多DHL精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<link href="./styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./swfobject_modified.js"></script>
+<script type="text/javascript" src="./fanstip.js"></script>
+<script type="text/javascript" src="./jquery.min.js"></script>
+<script src="./Scripts/swfobject_modified.js" type="text/javascript"></script>
+<link rel="stylesheet" href="swiper.min.css">
+<script language="javascript">
+$(document).ready(function()
+{
+var ScrHeight = $(window).height();
+var ScrWidth = $(window).width();
+var wid =  -325 + ScrWidth ;
+var hit = -355 + ScrHeight ;
+$("#popup").css({"top": ScrHeight , "left": wid , "position": "fixed"});
+$("#popup").fadeIn(100).animate({"top": hit}, 200).fadeTo(10000,0.99).fadeOut(500);
+$("#popup > .close").click(function () {
+      $("#popup").css({"display": "none"});
+    })
+})
+</script>
+<style type="text/css" media="screen">#FlashID {visibility:hidden}</style></head>
+
+<body>
+<table bgcolor="#FFFFFF" width="1016" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+        <header>
+            <div class="top">
+              <div class="inner">
+                <div class="logo">
+                  <img src="images/logo.png" alt="">
+                </div>
+                <img src="./images/plane.png" alt="" class="plane">
+              </div>
+            </div>
+            <div class="banner-box">
+              <ul class="nav">
+                <li><a href="./jj_1.html" tracename="公司简介Company Introduction"><p>公司简介</p><span>Company Introduction</span></a></li>
+                <li class="on"><a href="./job_list.html" tracename="社会招聘Social recruitment"><p>社会招聘</p><span>Social recruitment</span></a></li>
+                <li><a href="http://campus.51job.com/dhl2021/" target="_blank" tracename="校园招聘Campus recruitment"><p>校园招聘</p><span>Campus recruitment</span></a></li>
+                <li><a href="./old_px.html" tracename="培训与职业发展Training and careerdevelopment"><p>培训与职业发展</p><span>Training and career</span><span>development</span></a></li>
+                <li><a href="./px.html" tracename="人才储备项目Talent reserve project"><p>人才储备项目</p><span>Talent reserve project</span></a></li>
+              </ul>
+              <div id="banner-sw">
+                <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+                  <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1612px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 806px;"><img src="./images/banner303.jpg" alt=""></div>
+                      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 806px;"><img src="./images/banner301.jpg" alt=""></div>
+                      <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 806px;"><img src="./images/banner302.jpg" alt=""></div>
+                      <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 806px;"><img src="./images/banner303.jpg" alt=""></div>
+                  <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 806px;"><img src="./images/banner301.jpg" alt=""></div></div>
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+              </div>
+            </div>
+          </header>
+    </td>
+  </tr>
+  <tr>
+    <td width="1016" valign="top" class="main_bk4"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="239" height="650" style="background-image:url(./images/ren.jpg); background-repeat:no-repeat; background-position: center bottom" valign="top"><style>
+#winpop {position:fixed; right:0; bottom:85px;margin:0; padding:1px; overflow:hidden; display:none;}
+.fans_topic{width:237px; height:64px; background:url(./images/beforyearbg.gif) no-repeat;}
+.beforyearlogo{padding:2px;}
+.beforyearclose{float:right; padding:2px 2px 0 0;}
+</style>
+
+
+<script type="text/javascript">
+function tips_pop(){
+var MsgPop=document.getElementById("winpop");//获取窗口这个对象,即ID为winpop的对象
+var popH=parseInt(MsgPop.style.height);//用parseInt将对象的高度转化为数字,以方便下面比较
+if (popH==0){         //如果窗口的高度是0
+MsgPop.style.display="block";//那么将隐藏的窗口显示出来
+show=setInterval("changeH('up')",2);//开始以每0.002秒调用函数changeH("up"),即每0.002秒向上移动一次
+}
+else {         //否则
+hide=setInterval("changeH('down')",2);//开始以每0.002秒调用函数changeH("down"),即每0.002秒向下移动一次
+}
+}
+function changeH(str) {
+var MsgPop=document.getElementById("winpop");
+var popH=parseInt(MsgPop.style.height);
+if(str=="up"){     //如果这个参数是UP
+if (popH<=59){    //如果转化为数值的高度小于等于59
+MsgPop.style.height=(popH+4).toString()+"px";//高度增加4个象素
+}
+else{
+clearInterval(show);//否则就取消这个函数调用,意思就是如果高度超过59象度了,就不再增长了
+}
+}
+if(str=="down"){
+if (popH>=4){       //如果这个参数是down
+MsgPop.style.height=(popH-4).toString()+"px";//那么窗口的高度减少4个象素
+}
+else{        //否则
+clearInterval(hide);    //否则就取消这个函数调用,意思就是如果高度小于4个象度的时候,就不再减了
+MsgPop.style.display="none";  //因为窗口有边框,所以还是可以看见1~2象素没缩进去,这时候就把DIV隐藏掉
+}
+}
+}
+window.onload=function(){    //加载
+document.getElementById('winpop').style.height='0px';//我不知道为什么要初始化这个高度,CSS里不是已经初始化了吗,知道的告诉我一下
+setTimeout("tips_pop()",100);     //3秒后调用tips_pop()这个函数
+}
+</script>
+
+<!--<div class="fans_topic" id="winpop">
+	<div class="beforyearclose"><a href="javascript:;" onclick="tips_pop()" ><img src="./images/beforyearclose.gif" width="13" height="13" border="0" /></a></div>
+	<div class="beforyearlogo"><a href="http://fans.51job.com/payservice/fans/fans_company_info.html?c=2188650&key=8808a26f3498e7a55496a070bd77a3f9" target="_blank"><img src="./images/beforyearlogo.gif" border="0" /></a></div>
+</div>--><table width="222" align="right" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><img src="./images/rzzw.jpg" border="0"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#fff7d3" style="padding-top:10px; padding-bottom:10px;">
+
+
+ <table width="95%" align="center" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr><td class="boder_btn2" align="center">暂无职位信息！</td> 
+  
+</tr></tbody></table>
+        
+              </td>
+            </tr>
+            <tr>
+              <td><img src="./images/zwss.jpg" border="0"></td>
+            </tr>
+            <tr>
+              <td bgcolor="#fff7d3" style="padding-top:10px; padding-bottom:10px;">
+              <table width="95%" align="center" border="0" cellspacing="0" cellpadding="0">
+<script language="javascript">
+function clearfield()
+{
+	if (document.quicksearch.keyword.value == "请输入职位关键字")
+		document.quicksearch.keyword.value = "";
+}
+</script>
+
+<input type="hidden" name="keywordtype" value="2">
+  <tbody><tr>
+    <td height="30" class="text_cen">
+     <select name="jobarea" size="1" style="width:186px" id="city">
+		<option value="">请选择工作地点</option>
+     <option value="010000">北京</option><option value="011200">顺义区</option><option value="011400">大兴区</option><option value="020000">上海</option><option value="020800">虹口区</option><option value="020900">杨浦区</option><option value="021000">浦东新区</option><option value="021100">闵行区</option><option value="021500">松江区</option><option value="030000">广东省</option><option value="030200">广州</option><option value="030203">海珠区</option><option value="030205">白云区</option><option value="030206">黄埔区</option><option value="030207">番禺区</option><option value="030208">花都区</option><option value="030300">惠州</option><option value="030501">香洲区</option><option value="030600">佛山</option><option value="030700">中山</option><option value="030800">东莞</option><option value="031500">江门</option><option value="031700">湛江</option><option value="031800">肇庆</option><option value="040000">深圳</option><option value="040100">福田区</option><option value="040300">南山区</option><option value="040500">宝安区</option><option value="040600">龙岗区</option><option value="070000">江苏省</option><option value="070300">苏州</option><option value="070800">扬州</option><option value="070900">南通</option><option value="071400">张家港</option><option value="080000">浙江省</option><option value="080200">杭州</option><option value="080204">江干区</option><option value="080300">宁波</option><option value="080301">海曙区</option><option value="080307">慈溪市</option><option value="080312">高新区</option><option value="080400">温州</option><option value="080500">绍兴</option><option value="080600">金华</option><option value="080700">嘉兴</option><option value="080800">台州</option><option value="080900">湖州</option><option value="081400">义乌</option><option value="090000">四川省</option><option value="090200">成都</option><option value="090220">高新区</option><option value="110000">福建省</option><option value="110200">福州</option><option value="110300">厦门</option><option value="110400">泉州</option><option value="110500">漳州</option><option value="110600">莆田</option><option value="120000">山东省</option><option value="120300">青岛</option><option value="120500">潍坊</option><option value="121500">滨州</option><option value="150000">安徽省</option><option value="150200">合肥</option><option value="150300">芜湖</option><option value="160000">河北省</option><option value="160200">石家庄</option><option value="170000">河南省</option><option value="170215">经开区</option><option value="180000">湖北省</option><option value="180211">江夏区</option><option value="200000">陕西省</option><option value="200200">西安</option><option value="200400">宝鸡</option><option value="230000">辽宁省</option><option value="230200">沈阳</option><option value="230304">甘井子区</option><option value="310000">新疆</option><option value="310200">乌鲁木齐</option></select>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" class="text_cen">
+     <select name="funtype" size="1" style="width:186px" id="type">
+		<option value="">请选择工作类别</option>
+		
+    <option value="0100">后端开发</option><option value="0107">--软件工程师</option><option value="0200">销售管理</option><option value="0202">--销售经理</option><option value="0208">--客户经理/主管</option><option value="0300">市场/营销</option><option value="0305">--市场助理</option><option value="0329">--其他</option><option value="0400">财务/审计/税务</option><option value="0403">--财务主管/总账主管</option><option value="0407">--财务分析员</option><option value="0412">--税务专员/助理</option><option value="0457">--会计助理</option><option value="0458">--财务专员</option><option value="0500">工程/机械/能源</option><option value="0560">--工业工程师</option><option value="0600">人力资源</option><option value="0604">--人事专员</option><option value="0611">--HRBP</option><option value="0626">--招聘专员/助理</option><option value="0630">--人力资源信息系统专员</option><option value="0700">高级管理</option><option value="0711">--企业秘书/董事会秘书</option><option value="0800">物流/仓储</option><option value="0801">--物流经理</option><option value="0802">--物流主管</option><option value="0811">--报关与报检</option><option value="0812">--单证员</option><option value="0813">--快递员</option><option value="0814">--物流专员/助理</option><option value="0815">--船务/空运陆运操作</option><option value="0823">--仓储理货员</option><option value="0824">--其他</option><option value="0825">--供应链经理</option><option value="0829">--货运代理</option><option value="0831">--调度员</option><option value="0833">--项目经理/主管</option><option value="0836">--搬运工</option><option value="0838">--分拣员</option><option value="1700">储备干部/培训生/实习生</option><option value="1702">--储备干部</option><option value="1703">--实习生</option><option value="1800">交通运输服务</option><option value="1831">--货运司机</option><option value="2600">技术管理</option><option value="2606">--项目经理</option><option value="3000">销售人员</option><option value="3001">--销售代表</option><option value="3002">--渠道/分销专员</option><option value="3005">--电话销售</option><option value="3009">--大客户销售</option><option value="3014">--区域销售代表</option><option value="3100">销售行政及商务</option><option value="3101">--销售行政经理/主管</option><option value="3102">--销售行政专员</option><option value="3108">--业务分析经理/主管</option><option value="3109">--业务分析专员/助理</option><option value="3200">客服及支持</option><option value="3204">--客服专员/助理</option><option value="3208">--咨询热线/呼叫中心服务人员</option><option value="3211">--投诉专员</option><option value="3213">--网络/在线客服</option><option value="3500">生产/营运</option><option value="3503">--项目经理/主管</option><option value="3504">--项目工程师</option><option value="3511">--其他</option><option value="3600">质量安全</option><option value="3609">--环境/健康/安全经理/主管（EHS）</option><option value="4300">公关/媒介</option><option value="4301">--公关经理</option><option value="5300">兼职</option><option value="5301">--兼职</option><option value="7500">数据</option><option value="7501">--数据分析师</option><option value="7900">运维/技术支持</option><option value="7909">--技术支持/维护工程师</option><option value="7910">--配置管理工程师</option><option value="7913">--网络工程师(IT工程师)</option><option value="7914">--网络管理(Helpdesk)</option></select>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" class="text_cen">
+     <select name="division" size="1" style="width:186px" id="coms">
+		<option value="">请选择业务部门</option>
+		
+	 <option value="4386171">北亚枢纽</option><option value="4377503">销售部</option><option value="4327425">IT部门</option><option value="4327258">董事总经理办公室</option><option value="4307558">信息服务部</option><option value="4289022">口岸部</option><option value="4229995">其他</option><option value="4155816">快件物流部</option><option value="4154581">作业部</option><option value="4154473">客户服务部</option><option value="4154472">人力资源部</option><option value="4154471">财务部</option><option value="4154433">全球客户物流部</option><option value="4154432">信息服务部</option><option value="4154392">销售和市场部</option></select>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" class="text_cen">
+     <select name="issuedate" size="1" style="width:186px" id="days">
+         <option value="">请选择发布时间</option>
+         <option value="01">近一天</option><option value="02">近二天</option><option value="03">近三天</option><option value="07">近一周</option><option value="14">近两周</option><option value="30">近一月</option><option value="42">近六周</option><option value="60">近两月</option>     </select>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" class="text_cen">
+     <input placeholder="请输入职位关键字" name="keyword" size="30" style="width:186px" id="word">
+    </td>
+  </tr>
+  <tr>
+    <td height="30" class="text_cen"><input type="image" src="./images/ss.jpg" border="0" id="sea"></td>
+  </tr>
+</tbody></table>
+              </td>
+            </tr>
+          </tbody></table></td>
+          <td valign="top">
+            <table width="734" border="0" align="center" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="36" background="./images/r_top.jpg"><img src="./images/shzp1.jpg" border="0"></td>
+  </tr>
+  <tr>
+    <td background="./images/r_cen.jpg" valign="top"> 
+
+		
+      <table width="92%" align="center" border="0" cellspacing="0" cellpadding="0" id="job-tb"><tbody><tr><td height="50" class="text_cen f_ht">销售数据分析师(统计/数学)</td></tr><tr><td><table width="100%" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC" style="padding:4px"><tbody><tr><td width="16%" height="30" bgcolor="#EAEAEA">发布日期：</td><td width="36%" bgcolor="#FFFFFF">2021-08-01</td><td width="12%" bgcolor="#EAEAEA">工作地点：</td><td width="36%" bgcolor="#FFFFFF">杭州-江干区</td></tr><tr><td height="30" bgcolor="#EAEAEA">工作年限：</td><td bgcolor="#FFFFFF">2年</td><td bgcolor="#EAEAEA">学　　历：</td><td bgcolor="#FFFFFF">本科</td></tr></tbody></table></td></tr><tr><td height="10"></td></tr><tr><td><p>工作地点：杭州江干区同协路</p><p><br>主要职责： <br>- 开发和维护直销渠道客户管理系统 <br>- 完成销售部各项相关指标监控报告 <br>- 通过每日/每周/每月的业务分析报告观察分区及分公司的销售业绩，并结合市场分析及时提供主要问题的分析报告，并建议解决方案 <br>- 同全国销售部共同维护数据平台和分析平台。确保分区和分公司之间的分析流程顺畅、有效 <br>- 根据全国市场部制定的价格管理政策监督分区各级分公司协议价格达成情况和利润达成情况 <br><br>职位基本要求： <br>- 良好的销售数据管理、销售分析和业务统计的能力 <br>- <strong>必须精通使用SQL SERVER, 并可以熟练使用 Word、Excel、Access</strong>，<span>熟悉</span><span>Python</span><span>、</span><span>R</span><span>；有建模经验优先<br><span>- </span><span>了解</span><span>JSP</span><span>等</span><span>Web</span><span>程序设计语言</span></span><br>- 有较强的处理和分析大量数据的实际工作能力 <br>- 较强的沟通技能，良好的英语书面及口头表达能力 <br>- 从事分析或数据库管理工作经验优先，有在大型动态销售环境下制定并执行KPI和统计表的经验优先<br>- 全日制本科及以上学历，统计、数学、计算机等相关专业，硕士学历优先 <br><br>薪酬福利及职业发展： <br>- 公司每年年终奖及年度薪酬上涨 <br>- 公司与员工签署正式劳动合同，提供完善的社会保险及公积金 <br>- 公司提供免费员工补充商业医疗，意外保险 <br>- 公司提供免费员工子女医疗商业保险 <br>- 公司提供免费员工体检，员工生日，各种节日慰问品 <br>- 法定节假日上班安排调休或支付3倍工资 <br>- 公司提供不少于10天带薪年假，不少于15天带薪陪产假等带薪假期 <br>- 公司提供各种专业的业务培训 <br>- 公司提供丰富多彩的员工活动</p></td></tr><tr><td height="60" align="center" valign="bottom"><a href="https://jobs.51job.com/all/128662940.html"><img src="./images/btn_sq2.jpg" border="0"></a></td></tr></tbody></table>
+		 
+</td>
+  </tr>
+  <tr>
+            <td height="36" style="background-image:url(./images/r_btn.jpg); background-repeat:no-repeat; background-position:top; text-align:right;"><br>
+<br>
+<br>
+</td>
+  </tr>
+</tbody></table>
+
+          </td>
+        </tr>
+    </tbody></table></td>
+  </tr> 
+
+
+
+  <tr>
+    <td width="1016" height="44" style="background-image:url(./images/foot.jpg); background-repeat:repeat-x; text-align:center;">
+     <img src="./images/hand.gif" border="0" align="absmiddle">&nbsp;未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有 ©1999-2021 
+    </td>
+  </tr> 
+</tbody></table>
+<div style="position: absolute; right: 0px; top: 529px;" id="ad"><a href="http://weibo.com/dhlexpresscareer" target="_blank" tracename="img-3-gz.jpg"><img src="./images/gz.jpg"></a></div>
+<script language="JavaScript" type="text/javascript">
+function rightBottomAd(){
+ var abc = document.getElementById("ad");
+ abc.style.top = document.documentElement.scrollTop+document.documentElement.clientHeight-50+"px"; 
+ setTimeout(function(){rightBottomAd();},50);
+}
+rightBottomAd();
+swfobject.registerObject("FlashID");
+</script>
+
+<div id="popup" style="top: 224px; left: 454px; position: fixed; opacity: 0.99479;">
+<div class="close"></div>
+<div style="text-align:center; font-weight:bold;">声明</div>
+
+近期有冒充中外运敦豪的机构联系求职者，要求求职者到某地参加培训并自付相关费用。中外运敦豪的入职培训一律安排在入职之后（即签署劳动合同或者协议之后），正常支付工资，而不会要求求职者支付任何费用、押金等，请广大求职者提高警惕。
+
+</div>
+
+
+
+<script src="./js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">			
+    var _tkd = _tkd || [];
+    var param = 'webId=4&accountId=&ctmId=0&guid=&dType=1&jobId=&type=&urlType=1';//参数请对应查看日志传参
+
+    _tkd.push(['_setParams', param]);
+    _tkd.push(["_setAutoButtonClick", true, 'a']);
+    _tkd.push(["_setAutoPageview", true]);
+
+    document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://trace.51jingying.com/trackBigdata.js" type="text/javascript"></script>
+<script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+<script src="./js/get.js"></script>
+<script src="./js/detail.js"></script>
+<script src="./js/swiper.js"></script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    loop: true, // 循环模式选项
+    
+    autoplay:true,
+    // 如果需要分页器
+  })        
+</script></body></html>

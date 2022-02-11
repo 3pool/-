@@ -1,0 +1,373 @@
+<html lang="zh" style="font-size: 48.01px;"><head>
+
+    <!--Designer:【WH 胡徐】 Developer:【】 PM:【WH PM人员名称】 Date: -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>爱旭科技2021校园招聘</title>
+
+    <meta content="爱旭科技招聘 前程无忧官方网站，提供最新 爱旭科技招聘职位，校园招聘信息， 爱旭科技面试技巧等。帮助您顺利踏入爱旭科技的大门，与众多爱旭科技精英们开启一段崭新的职业生涯。" name="description">
+
+    <meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+    <meta http-equiv="expires" content="0">
+
+    <meta http-equiv="pragma" content="no-cache">
+
+    <meta http-equiv="cache-control" content="no-cache">
+
+    <meta name="format-detection" content="telephone=no">
+
+    <meta name="robots" content="all">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+
+    <meta name="viewport" content="width=1440">
+
+    <meta http-equiv="cache-control" content="no-siteapp">
+
+    <meta name="render" content="webkit|ie-comp|ie-stand">
+
+    <meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+
+    <link rel="stylesheet" href="./css/reset.min.css">
+
+    <script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+
+    <!--Designer:【WH 胡徐】 Developer:【WH 胡徐】 PM:【WH 胡徐】 Date: 2020-07-21-->
+
+    <link rel="stylesheet" href="css/index.css">
+
+    <link rel="stylesheet" href="css/swiper.min.css">
+
+    <link rel="stylesheet" href="css/animate.min.css">
+
+    <!-- <link rel="stylesheet" href="./css/scrollbar.css"> -->
+
+    <script src="js/swiper.js"></script>
+
+    <!-- <script src="js/scrollbar.js"></script> -->
+
+    <style>
+
+        html,
+
+        body {
+
+            height: 100vh;
+
+            width: 100%;
+
+        }
+
+
+
+        .bt {
+
+            background: url(image/about-bkg1.png);
+
+            background-size: 100% 100%;
+
+        }
+
+    </style>
+
+
+
+    <script type="text/javascript">
+
+        // var wdh = window.screen.width; //浏览器当前窗口可视区域宽度
+
+        // if (wdh < 750) {
+
+        //     window.location.href = "about.html";
+
+        // }
+
+        (function (document) {
+
+            var dcl = document.documentElement,
+
+                wh;
+
+
+
+            function setRootRem() {
+
+                wh = dcl.clientHeight;
+
+                dcl.style.fontSize = 100 * (wh / 1206) + 'px'; // 1206为设计稿高度
+
+            }
+
+            setRootRem();
+
+            document.addEventListener('DOMContentLoaded', setRootRem, false);
+
+            window.addEventListener('resize', setRootRem, false);
+
+        })(document);
+
+    </script>
+
+</head>
+
+
+
+<body>
+
+    <div class="cover posa">
+
+        <div class="iphone Rotate"></div>
+
+        <p>为了更好的用户体验，请将屏幕横向浏览！</p>
+
+    </div>
+
+    <div class="bigbox">
+
+
+
+        <!-- 横屏 -->
+
+
+
+        <div class="banner" style="width: 100%;height: 100%;">
+
+            <img src="image/banner.png" alt="" style="width: 100%;display: block;height: 100%;">
+
+            <!-- <img src="image/b1.png" alt="" style="width: 100%;display: block;height: 100%;position: absolute;top: 0;"> -->
+
+            <div class="nav">
+
+
+
+                <div class="header">
+
+                    <img src="image/logo.png" alt="" style="float: left;">
+
+                    <ul style="float: right;">
+
+
+
+                        <li><a href="index.html">首页
+
+                            </a></li>
+
+                        <li><a href="demo01.html">走进爱旭
+
+
+
+                            </a></li>
+
+                        <li><a href="demo02.html">校园招聘
+
+
+
+                            </a></li>
+
+                        <li><a href="demo03.html">校招Q＆A
+
+
+
+                            </a></li>
+
+                        <li><a href="demo04.html" class="change">社会招聘
+
+
+
+                            </a></li>
+
+                        <li style="margin-right: 0;"><a href="http://www.aikosolar.com/">公司官网
+
+
+
+                            </a></li>
+
+
+
+
+
+
+
+
+
+
+
+                    </ul>
+
+
+
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <div class="content">
+
+
+
+            <div class="company clearfix" style="text-align: left;">
+
+                <!-- <ul class="about" style="width: 16%;">
+
+                    <div class="swiper-container">
+
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide" id="con">
+
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="swiper-scrollbar"></div>
+
+                    </div>
+
+                </ul> -->
+
+
+
+                <ul class="about" style="text-align: right;">
+
+                    <img src="image/job-title.png" alt="">
+
+                </ul>
+
+                <div class="ifont" style="display: block;">
+
+                    <div class="swiper-container">
+
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide" id="ten" style="padding-bottom: 400px;">
+
+                                <!-- <div id="ten"></div> -->
+
+                               
+
+                                <div class="bt">
+
+                                    职位名称
+
+                                    
+
+                                </div>
+
+                              <div class="nr" style="display: block;border: none;"><p>&nbsp;&nbsp; 1. 负责制造相关的品质、产能、成本报表的开发；<br>&nbsp;&nbsp; 2. 负责报表相关前端UI的开发；<br>&nbsp;&nbsp; 3. 负责维护制造报表相关系统，提供7*24小时电话支持服务，保证系统稳定运行。</p><p><br></p><p>岗位要求：&nbsp;</p><p>&nbsp;&nbsp; 1. 有前端开发经验，有uni-app或vue开发技能；<br></p><p>&nbsp;&nbsp; 2. 有Spotfire、Fine Report使用经验；<br>&nbsp;&nbsp; 3. 了解SQL开发技能，有Oracle、Postgres、Impala等SQL开发经验； <br>&nbsp;&nbsp; 4. 有制造行业（如半导体）报表经验，了解制造业生产报表需求；<br>&nbsp;&nbsp; 5. 了解CDH系统，有Hadoop、Impala使用经验。</p><p><br></p><p>工作地点：浙江省义乌市苏溪镇好派路655号 &nbsp;</p></div>
+
+                              <a href="https://jobs.51job.com/all/132536717.html" class="submit" id="sub" style="bottom: 50px;"><img src="image/submit.png" alt=""></a>
+
+                              <a href="demo04.html" class="submit"><img src="image/submit2.png" alt=""></a>
+
+                                <!-- <div style="height: 200px;">
+
+
+
+                                </div> -->
+
+                            </div>
+
+                        </div>
+
+                        <div class="swiper-scrollbar"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+
+        <div class="footer">
+
+            <p><img src="image/P1-1-hand_03.png" alt="版权" class="hand">
+
+                未经51job同意，不得转载本网站之所有招聘信息及作品
+
+                无忧工作网版权所有 ©1999-<script>
+
+                    document.write((new Date()).getFullYear())
+
+                </script>2021
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+
+    <!-- <script src="js/data.js"></script> -->
+
+    <script type="text/javascript">
+
+ function getUrlParam(name) {
+
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+
+        var r = encodeURI(window.location.search).substr(1).match(reg);  //匹配目标参数
+
+        if (r != null) return unescape(r[2]); return null; //返回参数值
+
+    }
+
+    var jobId=getUrlParam('jobid');
+
+    var html='';
+
+        coapi.getJobDetail(jobId,function(data){
+
+    //取到数据之后的操作
+
+    var flag=data.resultbody.jobinfo;
+
+   html='<a target="_blank" href="https://jobs.51job.com/all/'+jobId+'.html" class="submit"><img src="image/submit.png" alt=""></a>'
+
+    console.log(data);
+
+    $(".nr").html(flag);
+
+    $("#sub").attr("href","https://jobs.51job.com/all/"+jobId+".html")
+
+});
+
+
+
+       
+
+        // mySwiper.updateSize();
+
+
+
+        // $(".nr").eq(0).css("display","block");
+
+    </script>
+
+
+
+
+
+</body></html>

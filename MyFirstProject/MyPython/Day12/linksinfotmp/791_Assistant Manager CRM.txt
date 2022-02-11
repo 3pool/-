@@ -1,0 +1,54 @@
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=193335&guid=&dType=1&jobId=131940814&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="http://bmwch.51job.com/css/css.css" type="text/css">
+			</head><body><table width="100%" border="0" cellspacing="0">
+              <tbody><tr> 
+                <td class="9t" valign="bottom" height="25"><img src="http://bmwch.51job.com/im/dot2.gif" width="6" height="6"> 
+                  <b>职位信息</b></td>
+              </tr>
+              <tr> 
+                <td class="9t" bgcolor="#000000" height="1"></td>
+              </tr>
+              <tr> 
+                <td class="9t">
+								
+                  <table width="100%" border="0" cellpadding="5" cellspacing="1" align="center" class="9t">
+                    <tbody><tr class="9t"> 
+                      <td colspan="2" height="20" bgcolor="#E3E3E3"><b><font color="#666666">- 
+						Assistant Manager CRM						</font></b></td>
+                    </tr>
+                    <tr class="9t"> 
+                      <td width="5%">&nbsp;</td>
+                      <td width="93%" class="9t"><font face="Verdana, Arial, Helvetica, sans-serif" class="9t"> 
+						电子邮箱：<a href="mailto:hcbm_cv@vip.sina.com" tracename="hcbm_cv@vip.sina.com">hcbm_cv@vip.sina.com</a><br>                        
+                        职位发布日期：2021-08-02 <br>
+                        工作所在地：杭州 <br>
+						人数：
+							1						<br>
+                        <br>
+							<div style="font-size:14px"><p>主要工作内容：<br>-根据要求提供定期报告和特别报告/数据分析;<br>-零售客户关系管理预算计划，流程审核和时间进度监控;<br>-区域CRM活动的建立、启动和运作;<br>-区域及经销商KPI的设置、督导和监控;<br>-负责经销商CRM架构的建立和CRM经理的考核管理、开发和定期评审;<br>-与经销商进行日常沟通，达成一致，处理各种问题和询问;<br>-日常经销商CRM经理工作坊及培训组织，内容开发;<br>-经销商CRM工具包的开发与实施;<br>-总部CRM政策更新(流通函、经销商场所、公告、通知等)<br>-多客户关系管理项目管理与沟通，问题跟踪，内容更新与跟进;<br>-支持与销售、市场等部门的跨部门合作。</p><p>&nbsp;</p><p>要求：<br>-本科及以上学历，市场营销或传播专业优先;<br>-有CRM的相关经验优先;<br>-良好的数据和业务意识;<br>-良好的中英文沟通和表达能力;<br>-熟练使用微软办公软件，特别是Excel, Powerpoint, Word;<br>-有数据意识的细节导向。<br>-工作勤奋，积极主动，有责任心，有合作精神，有纪律;<br>-积极的团队合作精神，能够独立工作和多任务处理，良好的沟通能力，能够在高压力下工作</p></div>							<br>
+                        </font></td>
+                    </tr>
+                    <tr class="9t"> 
+                      <td width="5%">&nbsp;</td>
+                      <td width="93%" class="9t" align="right">
+						  ［<a href="
+						  	http://bmwch.51job.com/sc/cv_log.php?jobid=(131940814)	
+						  	" tracename="申请此职位">申请此职位</a>］
+                    </td></tr>
+                  </tbody></table>
+                  <br>
+                </td>
+              </tr> 
+            </tbody></table>
+			<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

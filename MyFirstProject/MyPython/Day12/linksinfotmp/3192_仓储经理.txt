@@ -1,0 +1,718 @@
+<html><head>
+
+		<!--Designer:【WH 彭文雯】 Developer:【WH 熊洋洋】 PM:【WH PM江甜甜】 Date: 2019-07-09-->
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+
+		<title>叮咚买菜2020年人才招聘</title>
+
+		<link rel="stylesheet" type="text/css" href="mui">
+
+		<link rel="stylesheet" type="text/css" href="public/css/common/exclusivePC.css">
+
+		<link rel="stylesheet" type="text/css" href="public/css/common/reset.min.css">
+
+		<link rel="stylesheet" href="public/css/common/public.css">
+
+		<link rel="stylesheet" type="text/css" href="public/css/common/style.css">
+
+		<link rel="stylesheet" href="hello-mui/css/mui.min.css">
+
+		<!--App自定义的css-->
+
+		<link rel="stylesheet" type="text/css" href="hello-mui/css/app.css">
+
+		<link href="hello-mui/css/mui.picker.css" rel="stylesheet">
+
+		<link href="hello-mui/css/mui.poppicker.css" rel="stylesheet">
+
+		<link rel="stylesheet" type="text/css" href="layui.css">
+
+		<meta content="湖南叮咚买菜华中分公司有限公司招聘 前程无忧官方网站，提供最新 湖南叮咚买菜华中分公司有限公司招聘职位，校园招聘信息， 湖南叮咚买菜华中分公司有限公司面试技巧等。帮助您顺利踏入湖南叮咚买菜华中分公司有限公司的大门，与众多湖南叮咚买菜华中分公司有限公司精英们开启一段崭新的职业生涯。" name="description">
+
+		<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+		<meta http-equiv="expires" content="0">
+
+		<meta http-equiv="pragma" content="no-cache">
+
+		<meta http-equiv="cache-control" content="no-cache">
+
+		<meta name="format-detection" content="telephone=no">
+
+		<meta name="robots" content="all">
+
+		<meta http-equiv="cache-control" content="no-siteapp">
+
+		<meta name="render" content="webkit|ie-comp|ie-stand">
+
+		<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+
+		<meta name="viewport" content="width=1280">
+
+	<link id="layuicss-laydate" rel="stylesheet" href="http://campus.51job.com/DDmc/css/modules/laydate/default/laydate.css?v=5.0.9" media="all"><link id="layuicss-layer" rel="stylesheet" href="http://campus.51job.com/DDmc/css/modules/layer/default/layer.css?v=3.1.1" media="all"><link id="layuicss-skincodecss" rel="stylesheet" href="http://campus.51job.com/DDmc/css/modules/code.css" media="all"></head>
+
+	<body>
+
+		<div class="innerAll">
+
+			<div class="headTop">
+
+				<div style="background: #136f43;">
+
+					<div class="logo">
+
+						<div class="band" style="position: absolute;">
+
+						</div>
+
+						<div class="nav">
+
+							<div>
+
+								<a href="gsjj4.html">
+
+									热门职位
+
+								</a>
+
+							</div>
+
+							<div>
+
+								<a href="gsjj1.html">
+
+									职位列表
+
+								</a>
+
+							</div>
+
+							<div>
+
+								<a href="gsjj.html">
+
+									公司介绍
+
+								</a>
+
+							</div>
+
+							<div>
+
+								<a href="index.html">
+
+									首页
+
+								</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<img src="assets/image/j1.png" style="    position: absolute;
+
+    top: 100px;
+
+    right: 0;">
+
+				<img style="display: block;position: relative;" src="assets/image/ban1.png" width="100%">
+
+			</div>
+
+			<div class="rela" style="    overflow: hidden;">
+
+				<div class="article" id="about">
+
+					<style type="text/css">
+
+						.xio img {
+
+							display: inline-block;
+
+							width: 50px;
+
+							vertical-align: middle;
+
+							margin-right: 10px;
+
+						}
+
+
+
+						.xio {
+
+							margin-top: 40px;
+
+							color: #136F43;
+
+							line-height:70px;
+
+							font-size: 35px;
+
+
+
+							font-weight: bold;
+
+							border-bottom: 2px solid;
+
+						}
+
+
+
+						.bh {
+
+							margin-top: 40px;
+
+							text-align: center;
+
+						}
+
+
+
+						.bh img {
+
+							width: 200px;
+
+							display: inline-block;
+
+						}
+
+
+
+						.xq {
+
+							margin-top: 20px;
+
+						}
+
+
+
+						.xq * {
+
+							color: #136F43;
+
+						}
+
+
+
+						.xq p {
+
+							font-size: 25px;
+
+							line-height: 40px;
+
+							margin-bottom: 0;
+
+						}
+
+
+
+						.bt {
+
+							display: inline-block;
+
+							margin: 20px 0;
+
+							font-weight: bold;
+
+						}
+
+					</style>
+
+					<div class="info ani" s-a-effect="fadeInUp" s-a-duration="1s" s-a-delay="0.4s">
+
+						<div class="xio">
+
+							<img src="assets/image/j10.png"><span>用户服务部配送专员</span>
+
+						</div>
+
+						<div class="xq">
+
+						</div>
+
+						<div class="bh" style="margin: 30px auto;">
+
+							<a href="gsjj2.html">
+
+								<img class="all" src="assets/image/j12.png" style="margin-right: 100px;">
+
+							</a>
+
+							<a target="_blank" href="https://jobs.51job.com/all/undefined.html" class="hr">
+
+								<img src="assets/image/j13.png">
+
+							</a>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="footer">
+
+					<img src="assets/image/cuoser.png" alt="前程无忧" style="vertical-align: text-bottom;"> 未经51job.com
+
+					同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999- <script>
+
+						document.write(new Date().getFullYear())
+
+					</script>2021
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<script src="public/js/common/jq.min.js"></script>
+
+		<script src="public/css/common/ie5/es5-shim.min.js"></script>
+
+		<script src="public/css/common/ie5/es5-sham.min.js"></script>
+
+		<script src="public/css/common/ie5/json3.min.js"></script>
+
+		<script src="public/js/common/template-web.js"></script>
+
+		<script src="hello-mui/js/mui.min.js"></script>
+
+		<!--<script src="../js/mui.picker.min.js"></script>-->
+
+		<script src="city.js"></script>
+
+		<script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script><strong></strong>
+
+		<script src="layui.all.js"></script>
+
+		<script type="text/javascript">
+
+			$(function(){
+
+				var has = decodeURI(location.hash).slice(1).split("+")
+
+				console.log(has[0])
+
+				var id = Number(has[0])
+
+				console.log(id)
+
+				coapi.getJobDetail(id,function(data){
+
+				    //取到数据之后的操作
+
+				    console.log(data)
+
+					// var dain =  data.resultbody
+
+					
+
+					$('.xq').html(data.resultbody.jobinfo)
+
+					$('.hr').attr('href','https://jobs.51job.com/all/'+data.resultbody.jobid+'.html')
+
+				    $(".xio span").text(data.resultbody.jobname)
+
+					// $("span:contains('工作职责：')").addClass('bt').text("一、【岗位要求】：")
+
+					// $("span:contains('任职要求：')").addClass('bt').text("二、【任职要求】：")
+
+					// $("p:contains('工作职责：')").addClass('bt').text("一、【岗位要求】：")
+
+					// $("p:contains('任职要求：')").addClass('bt').text("二、【任职要求】：")
+
+				});
+
+			})
+
+		</script>
+
+		<script>
+
+			
+
+			(function($, doc, jq) {
+
+				$.init();
+
+				$.ready(function() {
+
+					jq("#sre").click(function() {
+
+						console.log(jobarea, jq("#val").val())
+
+						render(jq("#val").val(), jobarea)
+
+					})
+
+					jq(".all").click(function() {
+
+						render()
+
+					})
+
+					jq(".da").click(function() {
+
+						render('', '', "", 1)
+
+						jq("#bta").attr('src', "images/s22.png")
+
+					})
+
+					// var has = decodeURI(location.hash).slice(1).split("+")
+
+					// console.log(has[0])
+
+					// var id = Number(has[0])
+
+					// console.log(id)
+
+					// $('.xio span').text($(this).text())
+
+					// coapi.getJobDetail(id,function(data){
+
+					//     //取到数据之后的操作
+
+					//     console.log(data)
+
+					// 	var dain =  data.resultbody
+
+					// 	var str = `${dain.jobinfo}<p style="display:${dain.jobwelf?"":"none"};"></p>`
+
+					// 	jq('.xq').html(str)
+
+					// 	jq('.hr').attr('href','https://jobs.51job.com/all/'+dain.jobid+'.html')
+
+					//     jq(".xio span").text(dain.jobname)
+
+					// 	// $("span:contains('工作职责：')").addClass('bt').text("一、【岗位要求】：")
+
+					// 	// $("span:contains('任职要求：')").addClass('bt').text("二、【任职要求】：")
+
+					// 	// $("p:contains('工作职责：')").addClass('bt').text("一、【岗位要求】：")
+
+					// 	// $("p:contains('任职要求：')").addClass('bt').text("二、【任职要求】：")
+
+					// });
+
+					
+
+					var dataList = []
+
+					var index = 0
+
+					jq("#fy").delegate("a", "mousedown", function() {
+
+						if (this.classList.contains("layui-laypage-prev") || this.classList.contains("layui-laypage-next")) {} else {
+
+							datas(num(Number(jq(this).text())))
+
+						}
+
+					})
+
+					jq("#fy").delegate(".layui-laypage-next", "mousedown", function() {
+
+						datas(next())
+
+					})
+
+					jq("#fy").delegate(".layui-laypage-prev", "mousedown", function() {
+
+						datas(pre())
+
+					})
+
+
+
+					function num(num) {
+
+						console.log(Math.ceil(dataList.length / 10))
+
+						if (num) {
+
+							index = num
+
+							var dat = dataList.slice((index - 1) * 10, index * 10)
+
+							console.log(dat)
+
+							return dat
+
+						}
+
+					}
+
+
+
+					function next() {
+
+						console.log(Math.ceil(dataList.length / 10))
+
+						if ((index + 1) <= Math.ceil(dataList.length / 10)) {
+
+							var dat = dataList.slice(index * 10, (index + 1) * 10)
+
+							index++
+
+							console.log(dat)
+
+							return dat
+
+						}
+
+					}
+
+
+
+					function pre() {
+
+						if ((index - 1) > 0) {
+
+							index--
+
+							var dat = dataList.slice((index - 1) * 10, index * 10)
+
+							return dat
+
+						}
+
+					}
+
+
+
+					function datas(dat) {
+
+						if (index <= 1) {
+
+							jq('#pr').hide()
+
+						} else {
+
+							jq('#pr').show()
+
+						}
+
+						if (index >= Math.ceil(dataList.length / 10)) {
+
+							jq('#nx').hide()
+
+						} else {
+
+							jq('#nx').show()
+
+						}
+
+						if (dat) {
+
+							var li = ""
+
+							for (i in dat) {
+
+								console.log(dat[i])
+
+								li += `<li data-info=${dat[i].jobid}>${dat[i].jobname}</li>`
+
+							}
+
+							jq('.st').html(`<ul>
+
+															${li}
+
+															</ul>`)
+
+						}
+
+					}
+
+
+
+					function render(keyword, jobarea, pagesize, isrz) {
+
+						jq("#bta").attr('src', "images/s2.png")
+
+						var params = {
+
+							ctmid: "2205694",
+
+							pagesize: pagesize || 2000,
+
+							keyword: keyword || "",
+
+							// 职能
+
+							// poscode:poscode,
+
+							// 职位性质
+
+							// functype:functype,
+
+							//地点
+
+							jobarea: jobarea || ""
+
+						}
+
+						coapi.getJobList(params, function(data) {
+
+							//取到数据之后的操作
+
+							console.log(data.resultbody.joblist)
+
+							dataList = data.resultbody.joblist
+
+							//是热招
+
+							if (data.resultbody.joblist) {
+
+								if (isrz) {
+
+									var arr = [dataList[0]]
+
+									for (i in dataList) {
+
+										var falg = true
+
+										for (k in arr) {
+
+											if (arr[k].workareaname == dataList[i].workareaname) {
+
+												falg = false
+
+												break
+
+
+
+											}
+
+										}
+
+										if (falg) {
+
+											arr.push(dataList[i])
+
+										}
+
+									}
+
+									dataList = arr
+
+								}
+
+								var tst = ["配送员", "分拣", "分拣打包", "仓管", "水产", "夜班"]
+
+								// 蓝领考前
+
+								var jy = []
+
+								console.log(dataList)
+
+								for (var i = 0; i < dataList.length; i++) {
+
+									for (q in tst) {
+
+										console.log(dataList[i])
+
+										if (dataList[i].jobname.includes(tst[q])) {
+
+											jy.push(dataList[i])
+
+											dataList.splice(i, 1)
+
+											i--
+
+											break
+
+										}
+
+									}
+
+								}
+
+								dataList = jy.concat(dataList)
+
+							}
+
+							index = 0
+
+							if (data.resultbody.joblist) {
+
+								// var li = ""
+
+								// 	for(i in dataList){
+
+								// 		li += `<li data-info=${dataList[i].jobid}>${dataList[i].jobname}</li>`
+
+								// 	}
+
+								layui.use('laypage', function() {
+
+									var laypage = layui.laypage;
+
+
+
+									//执行一个laypage实例
+
+									laypage.render({
+
+										elem: 'fy' //注意，这里的 test1 是 ID，不用加 # 号
+
+											,
+
+										count: data.resultbody.joblist.length, //数据总数，从服务端得到
+
+										theme: "#136f43",
+
+										prev: "<strong id='pre'>上一页</strong>"
+
+									});
+
+								});
+
+								datas(next())
+
+								jq('#fy').show()
+
+							} else {
+
+								var li = "<h1 style='text-align: center;line-height: 3rem;'>暂无职位!</h1>"
+
+								jq('.st').html(li)
+
+								jq('#fy').hide()
+
+							}
+
+
+
+						})
+
+					}
+
+
+
+				}, false);
+
+				//-----------------------------------------
+
+			})(mui, document, $);
+
+		</script>
+
+		
+
+	
+
+
+</body></html>

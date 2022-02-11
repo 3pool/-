@@ -1,0 +1,257 @@
+<html><head>
+
+  <!-- JTNDIS0tRGVzaWduZXI6JUUzJTgwJTkwV0glMjA/JUUzJTgwJTkxJTIwRGV2ZWxvcGVyOiVFMyU4MCU5MCVFOCU4MyVBMSVFOCU4MCU4MCUyMCVFNyVCRCU5NyVFNCVCOCU4MCVFOSVCOCVBMyVFMyU4MCU5MSUyMFBNOiVFMyU4MCU5MFdIJTIwUE0lRTUlQUQlOTklRTYlQUYlODUlRTMlODAlOTElMjBEYXRlOiUyMDIwMjEvMi84JTIwLS0lM0U= -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>天健水务集团（杭州）有限公司 </title>
+
+  <meta content="天健水务集团（杭州）有限公司 招聘 前程无忧官方网站，提供最新 招聘职位，校园招聘信息， 天健水务集团（杭州）有限公司 面试技巧等。帮助您顺利踏入天健水务集团（杭州）有限公司的大门，与众多天健水务集团（杭州）有限公司精英们开启一段崭新的职业生涯。" name="description">
+
+  <meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+  <meta http-equiv="expires" content="0">
+
+  <meta http-equiv="pragma" content="no-cache">
+
+  <meta http-equiv="cache-control" content="no-cache">
+
+  <meta name="format-detection" content="telephone=no">
+
+  <meta name="robots" content="all">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+
+  <meta name="viewport" content="width=1280">
+
+  <meta http-equiv="cache-control" content="no-siteapp">
+
+  <meta name="render" content="webkit|ie-comp|ie-stand">
+
+  <meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" type="text/css" href="css/reset.min.css">
+
+  <link rel="stylesheet" href="css/index.css">
+
+  <style>
+
+    .wrap {
+
+      background: url(./img/subbg.png) no-repeat;
+
+      background-position-y: 100%;
+
+      background-size: contain;
+
+    }
+
+  </style>
+
+</head>
+
+
+
+<body>
+
+
+
+  <div class="wrap">
+
+    <div class="banner">
+
+      <img src="img/banner.png" alt="">
+
+      <div class="top">
+
+        <div class="w">
+
+          <div class="nav">
+
+            <div class="fl"><img src="img/logo.png" alt=""></div>
+
+            <div class="fr">
+
+              <a href="page1.html">公司简介</a>
+
+              <a href="page2.html" class="on">招聘职位</a>
+
+              <a href="page3.html">企业展示</a>
+
+              <a href="page4.html">联系方式</a>
+
+              <a href="http://www.tjian.com/" target="_blank">天健官网</a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+    <div class="w">
+
+      <div class="title"><img src="img/tit3.png" alt=""></div>
+
+      <div class="job"><div class="jobtit"><div class="fl jobname"><img src="img/icon.png" alt="">app及项目运营师</div><div class="fr del" style="width:47%"><span class="delcs" style="margin-right:0">发布城市：杭州-江干区</span><span>上班地区：杭州-江干区</span></div></div><div class="jobtxt"><p></p><p><br><b>岗位职责：</b></p><p><br>1、全面公司平台&amp;APP的运营，包含制定运营策略，负责用户运营、活动运营、内容运营、运营推广等；</p><p><br>2、推进运营策略的执行，增强用户粘性，提高用户留存率，提升产品的用户数和活跃度，提升用户体验；<br><br>3、负责数据化运营体系的整体规划与执行，熟悉用户行为分析、数据挖掘；</p><p><br>3、发现平台&amp;APP运营中出现的问题并协调资源解决，与相关部门沟通协调；</p><p><br>4、主要负责和技术部门沟通，引导产品需求，改进产品，优化类目和用户体验；<br><br>5、负责关注和研究行业内的应用、数据走向，为产品运营提供依据；收集汇总及分析竞争对手相关信息，跟踪市场竞争环境与策略变化；</p><p><br>6、参与经营目标讨论及制定，向公司提供平台&amp;APP运营发展建议。</p><p><br><b>任职要求：</b></p><p><br>1、大专以上学历，两年以上APP运营工作经验；<br><br>2、对用户运营结果负责；熟悉移动互联网的产品、模式和运营方法，对拉新、促活、召回流失用户等方面有深入的研究；<br><br>3、数据分析能力强，优秀的平台思维和解决方案能力，思维逻辑清晰，优秀的沟通表达能力，具备极强的自我驱动能力，创造力强，责任心强；<br><br>4、有良好的执行能力，能承受较大的工作压力。</p><p></p><p>加入天健水务，您能享受到以下待遇：</p><p>★ 八小时五天工作制，双休日，超出部分全部计加班工资；</p><p>★&nbsp;五险一金</p><p>★ 所有法定节假日按国家规定执行，并享受节日福利；</p><p>★ 享受每年生日福利；</p><p>★ 享受工龄工资；</p><p>★ 享受每年一次健康体检；</p><p>★ 一经录用公司统一配发工作手机，话费公司统一支付；</p><p></p><p><b></b></p><p></p><p><span>★ 组织关系转入公司党支部党员享受党员津贴；</span><span></span></p><p></p><a href="https://jobs.51job.com/all/130844667.html" style="display:inline-block;float:right"><img src="img/submit.png" alt="" class="btn"></a></div></div>
+
+    </div>
+
+
+
+    <div class="zwh"></div>
+
+
+
+    <div class="footer">
+
+      <img src="img/hand-1.png">未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999-<script language="JavaScript">
+
+        var now = new Date();
+
+        var year = now.getFullYear();
+
+        document.write(year);
+
+      </script>2021
+
+    </div>
+
+
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+<!--引入js插件-->
+
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+
+<script type="text/javascript" src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+
+
+
+<script>
+
+  $('img').on('mousedown', function(e) {
+
+    e.preventDefault()
+
+  })
+
+</script>
+
+<script>
+
+  var id = GetParam(window.location, 'jobid')
+
+  console.log('id', id);
+
+
+
+
+
+  function getJobDetail(jobid) {
+
+    coapi.getJobDetail(jobid, function(data) {
+
+      var res = data.resultbody,
+
+        html = '';
+
+      console.log('detail', res);
+
+
+
+      html += '<div class="jobtit">'
+
+      html += '<div class="fl jobname">'
+
+      html += '<img src="img/icon.png" alt="">'
+
+      html += res.jobname
+
+      html += '</div>'
+
+      html += '<div class="fr del" style="width:47%">'
+
+      html += '<span class="delcs" style="margin-right:0">发布城市：'
+
+      html += res.workareaname
+
+      html += '</span><span>上班地区：'
+
+      html += res.jobareaname
+
+      html += '</span></div>'
+
+      html += '</div>'
+
+      html += '<div class="jobtxt">'
+
+      html += '<p>'
+
+      html += res.jobinfo.replace(/(岗位职责|岗位要求|任职要求|职位要求|招聘需求|招聘要求|岗位描述)(：|:)/gi, '<br><b>$1$2</b>').replace(/(\d、|\s\d)/ig, '<br>$1')
+
+      html += '</p>'
+
+      html += '<a href="https://jobs.51job.com/all/'
+
+      html += res.jobid
+
+      html += '.html" style="display:inline-block;float:right"><img src="img/submit.png" alt="" class="btn"></a>'
+
+
+
+      $('.job').html(html)
+
+    })
+
+  }
+
+  getJobDetail(id);
+
+
+
+
+
+
+
+  function GetParam(url, id) {
+
+    url = url + "";
+
+    regstr = "/(\\?|\\&)" + id + "=([^\\&]+)/";
+
+    reg = eval(regstr);
+
+    result = url.match(reg);
+
+    if (result && result[2]) {
+
+      return result[2];
+
+    }
+
+  }
+
+</script>
+
+
+
+</body></html>

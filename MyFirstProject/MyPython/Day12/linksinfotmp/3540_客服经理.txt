@@ -1,0 +1,225 @@
+<html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=1634389&guid=&dType=1&jobId=133140452&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+
+    <meta charset="gb2312">
+    <title>【保时捷控股】保时捷控股前程无忧招聘</title>
+    <link rel="stylesheet" href="http://porsche-holding.51job.com//css/reset.css">
+    <link rel="stylesheet" href="http://porsche-holding.51job.com//css/style.css">
+    <script src="http://porsche-holding.51job.com//js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+        var domain_login = 'http://i.51job.com/delivery/platform/delivery_pc.php';
+    </script>
+    <style>
+        form[name='fResumeBase']
+        {
+           margin-left: 47px;
+           font-size:14px;
+		   
+		   
+        }
+        form[name='fResumeBase']  select 
+		{
+			width:auto;
+			height:auto;
+			margin-left:0px;
+		}
+		
+        form[name='fResumeOther']
+        {
+           margin-left: 109px;
+           font-size:14px;
+        }
+        form[name='fResumeOther']  select 
+		{
+			width:auto;
+			height:auto;
+			margin-left:0px;
+		}
+        form[name='fResumeFinish']
+        {
+           margin-left: 163px;
+           font-size:14px;
+        }
+		form[name='fResumeFinish']  select 
+		{
+			width:auto;
+			height:auto;
+			margin-left:0px;
+		}
+        form[name='freshlist']
+        {
+           margin-left: 120px;
+		   border:0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="http://porsche-holding.51job.com//img/logo.png">
+	  </div>
+    <ul class="nav clearfix">
+        <li class="he"><a href="http://porsche-holding.51job.com//index.php" tracename="首页 HOME"><span>首页</span> HOME     </a></li>
+        <li><a href="http://porsche-holding.51job.com//company.php" tracename="中国公司  CHINA BRANCH"><span>中国公司</span>  CHINA BRANCH     </a></li>
+        <li><a href="http://porsche-holding.51job.com//job.php?company=2766109" tracename="工作机会  CAREER"><span>工作机会</span>  CAREER   </a></li>
+        <li>
+	        <a href="http://porsche-holding.51job.com//last.php" tracename="总部官网 OFFICAL WEBSITE"><span>总部官网</span> OFFICAL WEBSITE</a>
+	        <ul class="nav-sub">
+	            <li><a href="http://www.paig.com.cn" target="_blank" tracename="官网地址">官网地址</a></li>
+              <li><a href="http://v.youku.com/v_show/id_XMTg0NTI4NzU5Mg==.html?spm=a2h3j.8428770.3416059.1" target="_blank" tracename="视频介绍">视频介绍</a></li>
+	        </ul>
+        </li>
+    </ul>
+    <div class="banner">
+      <div class="imgs">
+        <img src="http://porsche-holding.51job.com//img/5.png" style="opacity: 0;">
+        <img src="http://porsche-holding.51job.com//img/3.png" style="opacity: 0;">
+        <img src="http://porsche-holding.51job.com//img/4.png" style="opacity: 0;">
+        <img src="http://porsche-holding.51job.com//img/1.png" style="opacity: 0.234744;">
+        <img src="http://porsche-holding.51job.com//img/2.png" style="opacity: 0;">
+        <img src="http://porsche-holding.51job.com//img/6.jpg" style="opacity: 0;">
+      </div>       
+        <ul class="tabs">
+          <li class="tab"></li>
+          <li class="tab"></li>
+          <li class="tab"></li>
+          <li class="tab op"></li>
+          <li class="tab"></li>
+          <li class="tab"></li>
+        </ul>
+    </div>
+	
+<div class="new clearfix">
+  	<div class="new-left">
+        
+<form name="quicksearch" method="post" action="http://porsche-holding.51job.com//sc/job_list.php?begin=begin">
+    <input type="hidden" name="keywordtype" value="2">
+    <h2>职位搜索</h2>
+    <select name="jobarea" id="job_p1">
+        <option value="0000">--请选择工作地点--</option>
+        <option value="030000" title="广东省">广东省</option>
+<option value="030506" title="珠海高新区">珠海高新区</option>
+<option value="030700" title="中山">中山</option>
+<option value="031500" title="江门">江门</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070209" title="栖霞区">栖霞区</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070304" title="相城区">相城区</option>
+<option value="070306" title="工业园区">工业园区</option>
+<option value="070404" title="滨湖区">滨湖区</option>
+<option value="070501" title="天宁区">天宁区</option>
+<option value="070600" title="昆山">昆山</option>
+<option value="070700" title="常熟">常熟</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080201" title="拱墅区">拱墅区</option>
+<option value="080206" title="滨江区">滨江区</option>
+<option value="080208" title="萧山区">萧山区</option>
+<option value="080300" title="宁波">宁波</option>
+<option value="080306" title="鄞州区">鄞州区</option>
+<option value="080600" title="金华">金华</option>
+<option value="080700" title="嘉兴">嘉兴</option>
+<option value="080800" title="台州">台州</option>
+<option value="080900" title="湖州">湖州</option>
+<option value="080904" title="长兴县">长兴县</option>
+    </select>
+    <select name="company" id="job_p2">
+        <option value="0000">--请选择公司名称--</option>
+        <option value="2764333" title="杭州骏宝行 （保时捷控股集团旗下成员）">杭州骏宝行 （保时捷控股集团旗下成员）</option>
+<option value="2766025" title="嘉兴骏宝行 （保时捷控股集团旗下成员）">嘉兴骏宝行 （保时捷控股集团旗下成员）</option>
+<option value="2766031" title="金华骏宝行 （保时捷控股集团旗下成员）">金华骏宝行 （保时捷控股集团旗下成员）</option>
+<option value="2766037" title="湖州骏宝行 （保时捷控股集团旗下成员）">湖州骏宝行 （保时捷控股集团旗下成员）</option>
+<option value="2766039" title="杭州滨江保时捷中心 （保时捷控股集团旗下成员）">杭州滨江保时捷中心 （保时捷控股集团旗下成员）</option>
+<option value="2766050" title="苏州骏宝行 （保时捷控股集团旗下成员）">苏州骏宝行 （保时捷控股集团旗下成员）</option>
+<option value="2766059" title="宁波保时捷中心 （保时捷控股集团旗下成员）">宁波保时捷中心 （保时捷控股集团旗下成员）</option>
+<option value="2766065" title="金华保时捷中心 （保时捷控股集团旗下成员）">金华保时捷中心 （保时捷控股集团旗下成员）</option>
+<option value="2766084" title="苏州相城保时捷中心（保时捷控股集团旗下成员）">苏州相城保时捷中心（保时捷控股集团旗下成员）</option>
+<option value="2766086" title="苏州捷骏汽车贸易有限公司（保时捷控股集团旗下成员）">苏州捷骏汽车贸易有限公司（保时捷控股集团旗下成员）</option>
+<option value="2766109" title="保时捷控股中国区总部">保时捷控股中国区总部</option>
+<option value="2924494" title="珠海保时捷中心（保时捷控股集团旗下成员）">珠海保时捷中心（保时捷控股集团旗下成员）</option>
+<option value="2984649" title="嘉兴保时捷中心 （保时捷控股集团旗下成员）">嘉兴保时捷中心 （保时捷控股集团旗下成员）</option>
+<option value="3000818" title="杭州捷骏奥迪店(保时捷控股集团旗下成员)">杭州捷骏奥迪店(保时捷控股集团旗下成员)</option>
+<option value="3000845" title="苏州奥保行奥迪店(保时捷控股集团旗下成员)">苏州奥保行奥迪店(保时捷控股集团旗下成员)</option>
+<option value="3050310" title="苏州宾利4S中心（保时捷控股集团旗下成员）">苏州宾利4S中心（保时捷控股集团旗下成员）</option>
+<option value="3084060" title="无锡奥保行汽车销售服务有限公司（保时捷控股集团旗下成员）">无锡奥保行汽车销售服务有限公司（保时捷控股集团旗下成员）</option>
+<option value="3606901" title="杭州拱墅保时捷中心 （保时捷控股集团旗下成员)">杭州拱墅保时捷中心 （保时捷控股集团旗下成员)</option>
+<option value="4416374" title="中山保时捷中心（保时捷控股集团旗下成员）">中山保时捷中心（保时捷控股集团旗下成员）</option>
+<option value="4416426" title="昆山骏宝行汽车销售服务有限公司（保时捷控股集团旗下成员）">昆山骏宝行汽车销售服务有限公司（保时捷控股集团旗下成员）</option>
+<option value="4416488" title="杭州萧山时代骏宝行汽车销售服务有限公司（保时捷控股集团旗下成员）">杭州萧山时代骏宝行汽车销售服务有限公司（保时捷控股集团旗下成员）</option>
+<option value="4416601" title="慈溪捷骏汽车销售服务有限公司（保时捷控股集团旗下成员）">慈溪捷骏汽车销售服务有限公司（保时捷控股集团旗下成员）</option>
+<option value="5028110" title="湖州捷骏汽车销售服务有限公司">湖州捷骏汽车销售服务有限公司</option>
+<option value="5395221" title="常州奥保行汽车销售服务有限公司">常州奥保行汽车销售服务有限公司</option>
+<option value="5503077" title="杭州同协宾捷汽车销售服务有限公司">杭州同协宾捷汽车销售服务有限公司</option>
+<option value="5593553" title="江门保时捷中心（保时捷控股集团旗下成员）">江门保时捷中心（保时捷控股集团旗下成员）</option>
+<option value="5760247" title="杭州萧山保时捷中心（保时捷控股集团旗下成员）">杭州萧山保时捷中心（保时捷控股集团旗下成员）</option>
+<option value="5760461" title="常熟捷骏汽车销售服务有限公司">常熟捷骏汽车销售服务有限公司</option>
+<option value="5760502" title="南京骏宝行汽车销售服务有限公司">南京骏宝行汽车销售服务有限公司</option>
+<option value="6005264" title="温岭捷骏汽车销售服务有限公司">温岭捷骏汽车销售服务有限公司</option>
+<option value="6365934" title="无锡骏宝行（保时捷控股集团旗下成员）">无锡骏宝行（保时捷控股集团旗下成员）</option>
+<option value="6648764" title="长兴骏宝行汽车销售服务有限公司">长兴骏宝行汽车销售服务有限公司</option>
+    </select>
+    <select name="division" id="job_p3">
+        <option value="0000">--请选择部门名称--</option>
+        <option value="(4342086)" title="销售部">销售部</option>
+<option value="(4342087)" title="售后部">售后部</option>
+<option value="(4342088)" title="市场部">市场部</option>
+<option value="(4442924)" title="二手车部">二手车部</option>
+<option value="(4523804)" title="客服部">客服部</option>
+<option value="(4523805)" title="售后服务部">售后服务部</option>
+    </select>
+    <select name="issuedate" id="job_p4">
+        <option value="0000">--请选择发布时间--</option>
+        <option value="01">近一天</option><option value="02">近二天</option><option value="03">近三天</option><option value="07">近一周</option><option value="14">近两周</option><option value="30">近一月</option><option value="42">近六周</option><option value="60">近两月</option>    </select>
+    <input type="text" name="keyword" value="输入职位关键字" onfocus="javascript:clearfield(this)" onblur="javascript:clearfield(this)">
+    <div class="btn">
+        <a href="javascript:void(0);" onclick="document.quicksearch.submit();" tracename="img-1-button.png"><img src="http://porsche-holding.51job.com//img/button.png"></a>
+    </div>
+</form>
+
+
+<script type="text/javascript">
+    function clearfield(obj)
+    {
+        if (obj.value == '')
+        {
+            obj.value = '输入职位关键字';
+        }
+        else if (obj.value == '输入职位关键字')
+        {
+            obj.value = '';
+        }
+    }
+</script>    </div>  
+	<div class="new-right">
+		<div><img src="http://porsche-holding.51job.com//img/title.png"></div> 
+		<h2>客服经理</h2><h3>职位描述：</h3><p></p><p>                                                1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   制定客户关系工作目标和计划   l&nbsp;&nbsp;   根据公司战略和年度工作计划，制定客户关系工作的年度、季度和月度的工作目标和计划   l&nbsp;&nbsp;   根据市场变化、公司政策变化等，及时调整部门工作计划和目标      2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   组织协调客户满意度调查   l&nbsp;&nbsp;   组织完成销售和售后服务的现场满意度调查   l&nbsp;&nbsp;   监督下属完成销售和售后服务的客户满意度电话回访工作   l&nbsp;&nbsp;   优化顾客满意度调查的方式和方法，制定提高客户满意度的长期规划   l&nbsp;&nbsp;   对销售和维修的客户满意度定期进行数据分析，并撰写顾客满意结果报告，上报总经理和销售、服务经理      3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   客户投诉的跟踪   l&nbsp;&nbsp; 收集客户的反馈和投诉，根据投诉流程进行投诉的上报、协调和解决工作      l&nbsp;&nbsp; 追踪业务部门对客户投诉的处理情况   l&nbsp;&nbsp; 完成投诉相关记录文档的收集/整理工作   l&nbsp;&nbsp; 完成投诉月报      4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   客户关系的开拓与维护   l&nbsp;&nbsp; 组织专员积极开展活动，增强与不同类型客户的沟通，听取客户意见和建议，唤醒沉寂客户，维护活跃客户   l&nbsp;&nbsp; 指导客户接待员进行日常客户的接待和服务   l&nbsp;&nbsp; 了解客户流失的原因，并提交分析报告给售后服务部   l&nbsp;&nbsp; 组织开展联合邀约工作，制定计划、流程和操作规范      5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   客户数据管理   l&nbsp;&nbsp; 监督客户数据库的更新及质量（例如：定期数据清理）   l&nbsp;&nbsp; 为各部门提供详细的客户信息    l&nbsp;&nbsp; 为市场营销、客户关系活动及其他商业机会提供数据挖掘与筛选   l&nbsp;&nbsp; 根据经销商政策，确保数据的安全      6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   客户关系团队人员管理工作   l&nbsp;&nbsp; 监督客户关系团队各岗位职责执行和临时调配   l&nbsp;&nbsp; 日常考核制度的制定与执行   l&nbsp;&nbsp; 团队建设的组织实施     </p><p></p><li><a href="http://porsche-holding.51job.com//cv_easy/cv_log.php?jobid=133140452" style="margin-right:22px;" tracename="立即申请">立即申请</a><a href="http://porsche-holding.51job.com//sc/job_list.php" tracename="返回职位列表">返回职位列表</a>	</li></div>        
+</div>
+
+ 
+ <div class="footer">
+    <img src="http://porsche-holding.51job.com//img/hand.png">未经51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©
+    <span>
+        1999-
+        <script language="JavaScript">
+            var nowD = new Date();
+            var year = nowD.getFullYear();
+            document.write(year);
+        </script>2021
+    </span>
+</div>
+
+<script type="text/javascript" src="http://porsche-holding.51job.com//js/com.js"></script>
+<script src="http://porsche-holding.51job.com//js/scrollbar.js"></script>
+	<script src="http://porsche-holding.51job.com//js/style.js"></script>
+	<script src="http://porsche-holding.51job.com//js/index.js"></script>  
+ <script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

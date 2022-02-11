@@ -1,0 +1,159 @@
+<html><head>
+    <!--Designer:【unknown】 Developer:【song.guofang/宋国芳_沪_网站】 PM:【tang.lareina/汤丽雯_沪_网站】 Code:【IdealFET2/2020/qhrdy2020-pc-0401】 Date:2020-04-01  -->
+    <title>浙江清华柔性电子技术研究院2020届校园招聘</title>
+    <meta name="keywords" content="浙江清华柔性电子技术研究院，人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事">
+    <meta name="description" content="浙江清华柔性电子技术研究院 前程无忧官方网站，提供最新浙江清华柔性电子技术研究院招聘职位，校园招聘信息，浙江清华柔性电子技术研究院面试技巧等。帮助您顺利踏入浙江清华柔性电子技术研究院的大门，与众多浙江清华柔性电子技术研究院精英们开启一段崭新的职业生涯。">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta name="robots" content="all">
+    <meta name="viewport" content="width=1440">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <style>
+      .jcon>div{
+        font-size: 15px !important;
+        line-height: 25px !important;
+      }
+    </style>
+    <script>
+      !(function (e) {
+        function r(r) {
+          for (
+            var n, l, f = r[0], i = r[1], p = r[2], c = 0, s = [];
+            c < f.length;
+            c++
+          )
+            (l = f[c]),
+              Object.prototype.hasOwnProperty.call(o, l) &&
+                o[l] &&
+                s.push(o[l][0]),
+              (o[l] = 0);
+          for (n in i)
+            Object.prototype.hasOwnProperty.call(i, n) && (e[n] = i[n]);
+          for (a && a(r); s.length; ) s.shift()();
+          return u.push.apply(u, p || []), t();
+        }
+        function t() {
+          for (var e, r = 0; r < u.length; r++) {
+            for (var t = u[r], n = !0, f = 1; f < t.length; f++)
+              0 !== o[t[f]] && (n = !1);
+            n && (u.splice(r--, 1), (e = l((l.s = t[0]))));
+          }
+          return e;
+        }
+        var n = {},
+          o = { 0: 0 },
+          u = [];
+        function l(r) {
+          if (n[r]) return n[r].exports;
+          var t = (n[r] = { i: r, l: !1, exports: {} });
+          return e[r].call(t.exports, t, t.exports, l), (t.l = !0), t.exports;
+        }
+        (l.m = e),
+          (l.c = n),
+          (l.d = function (e, r, t) {
+            l.o(e, r) ||
+              Object.defineProperty(e, r, { enumerable: !0, get: t });
+          }),
+          (l.r = function (e) {
+            "undefined" != typeof Symbol &&
+              Symbol.toStringTag &&
+              Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }),
+              Object.defineProperty(e, "__esModule", { value: !0 });
+          }),
+          (l.t = function (e, r) {
+            if ((1 & r && (e = l(e)), 8 & r)) return e;
+            if (4 & r && "object" == typeof e && e && e.__esModule) return e;
+            var t = Object.create(null);
+            if (
+              (l.r(t),
+              Object.defineProperty(t, "default", { enumerable: !0, value: e }),
+              2 & r && "string" != typeof e)
+            )
+              for (var n in e)
+                l.d(
+                  t,
+                  n,
+                  function (r) {
+                    return e[r];
+                  }.bind(null, n)
+                );
+            return t;
+          }),
+          (l.n = function (e) {
+            var r =
+              e && e.__esModule
+                ? function () {
+                    return e.default;
+                  }
+                : function () {
+                    return e;
+                  };
+            return l.d(r, "a", r), r;
+          }),
+          (l.o = function (e, r) {
+            return Object.prototype.hasOwnProperty.call(e, r);
+          }),
+          (l.p = "");
+        var f = (this.webpackJsonp = this.webpackJsonp || []),
+          i = f.push.bind(f);
+        (f.push = r), (f = f.slice());
+        for (var p = 0; p < f.length; p++) r(f[p]);
+        var a = i;
+        t();
+      })([]);
+    </script>
+    <!-- CSS will be injected by webpack here -->
+    <link href="css/jquery.page.css" rel="stylesheet" type="text/css">
+    <!-- Preload link tags will be injected by webpack here -->
+    <link href="css/styles.e6be5f6abe8ef9ba789f.css" rel="stylesheet">
+    <link rel="prefetch" href="js/styles.e6be5f6abe8ef9ba789f.chunk.js" as="script">
+    <link rel="prefetch" href="js/script0.4a87a3e398fa0029d9e5.chunk.js" as="script">
+    <link rel="prefetch" href="js/job.1853a4c2d6228e6abe4c.chunk.js" as="script">
+  </head>
+  <body>
+    <!--横屏 start--><!-- <div class="cover">
+  <div class="iphone"><img src="images/phone.png"/></div>
+  <p>为了更好的用户体验，请将屏幕横向浏览！</p>
+</div> --><!--横屏 end-->
+    <div class="container about">
+      <div class="jleft-bg"><img src="images/jleft-bg.png" alt=""></div>
+      <div class="jright-bg"><img src="images/jright-bg.png" alt=""></div>
+      <div class="jbottom-bg"><img src="images/jbottom-bg.png" alt=""></div>
+      <div class="top">
+        <div class="logo_nav">
+          <div class="logo">
+            <a href="index.html"><img src="images/logo.png" alt=""></a>
+          </div>
+          <div class="nav">
+            <a class="nav01" href="about.html"><i></i></a>
+            <a class="nav02" href="welfare.html"><i></i></a>
+            <a class="nav03 on" href="job.html"><i></i></a>
+            <a class="nav04" href="school.html"><i></i></a>
+            <a class="nav05" target="_blank" href="http://www.ifet-tsinghua.com/"><i></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="banner"><img src="images/banner.jpg" alt=""></div>
+      <div class="inner-wrap">
+        <div class="zpgw-title"><img src="images/zpgw-title.png" alt=""></div>
+        <div class="details"></div>
+      </div>
+      <!--版权信息区域-->
+      <div class="footer">
+        <img src="images/hand.gif">未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999-
+        <script>
+          document.write(new Date().getFullYear());
+        </script>2021
+      </div>
+    </div>
+    <!-- Scripts will be injected by webpack here -->
+    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+    <script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+    <script type="text/javascript" src="js/jquery.page.js"></script>
+    <script type="text/javascript" src="js/city.js"></script>
+    <script type="text/javascript" src="js/styles.e6be5f6abe8ef9ba789f.chunk.js" async=""></script>
+    <script type="text/javascript" src="js/script0.4a87a3e398fa0029d9e5.chunk.js" async=""></script>
+    <script type="text/javascript" src="js/job.1853a4c2d6228e6abe4c.chunk.js" async=""></script>
+  
+
+</body></html>

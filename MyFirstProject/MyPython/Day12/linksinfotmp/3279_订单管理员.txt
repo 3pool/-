@@ -1,0 +1,872 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=123891&guid=&dType=1&jobId=131884000&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<!--Designer：[XXX] Developer：[熊健] date:2017.07.20-->
+<!--标准title代码 -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>顺丰招聘</title>
+<meta content="顺丰招聘 前程无忧官方网站，提供最新顺丰招聘职位，校园招聘信息，顺丰面试技巧等。帮助您顺利踏入顺丰的大门，与众多顺丰精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="all">
+<meta name="viewport" content="width=1280">
+<meta http-equiv="cache-control" content="no-siteapp">
+<meta name="render" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+<meta name="author" content="yuanXu">
+<!--相对路径代码 -->
+<link href="http://sfzhaopin.51job.com/css/reset.min.css" rel="stylesheet" type="text/css">
+<link href="http://sfzhaopin.51job.com/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="wrap">
+
+    <!--头部区域-->
+    <div class="header clearfix">
+        <div class="top">
+             <div class="logo"><img src="http://sfzhaopin.51job.com/images/logo.png"></div>
+             <div class="nav">
+                 <ul>
+                    <li><a href="http://sfzhaopin.51job.com/index.php" tracename="走进顺丰">走进顺丰</a></li>
+                    <li class="active"><a href="http://sfzhaopin.51job.com/job.php" tracename="社会招聘">社会招聘</a></li>
+                    <li><a href="http://crs-pub.sf-express.com/cr/#/homePage" target="_blank" tracename="校园招聘">校园招聘</a></li>
+                    <li><a href="http://sfzhaopin.51job.com/culture.php" tracename="人在顺丰">人在顺丰</a></li>
+                    <li><a href="http://www.sf-express.com/cn/sc/" target="_blank" tracename="顺丰官网">顺丰官网</a></li>
+                 </ul>
+             </div>
+         </div>
+    </div>
+    <!--头部区域end-->
+    
+    <!--banner区域-->
+    <div class="banner"><img src="http://sfzhaopin.51job.com/images/banner2.png"></div>
+    <!--banner区域end-->
+    
+    <div class="main">
+        <div class="content clearfix">
+          <div class="left">
+			<form name="quicksearch" method="post" action="http://sfzhaopin.51job.com/sc/job_list.php?begin=begin">
+	<input type="hidden" name="keywordtype" value="2">
+		<div class="job-search">
+		  <h2>职位搜索</h2>
+				<select name="company">
+					<option selected="" value="0000">--请选择工作地点--</option>
+					<option value="010000" title="北京">北京</option>
+<option value="010100" title="东城区">东城区</option>
+<option value="010500" title="朝阳区">朝阳区</option>
+<option value="011100" title="通州区">通州区</option>
+<option value="011200" title="顺义区">顺义区</option>
+<option value="011400" title="大兴区">大兴区</option>
+<option value="020000" title="上海">上海</option>
+<option value="020400" title="长宁区">长宁区</option>
+<option value="020500" title="静安区">静安区</option>
+<option value="020600" title="普陀区">普陀区</option>
+<option value="020800" title="虹口区">虹口区</option>
+<option value="021100" title="闵行区">闵行区</option>
+<option value="021400" title="金山区">金山区</option>
+<option value="021600" title="青浦区">青浦区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="030200" title="广州">广州</option>
+<option value="030201" title="越秀区">越秀区</option>
+<option value="030202" title="荔湾区">荔湾区</option>
+<option value="030203" title="海珠区">海珠区</option>
+<option value="030204" title="天河区">天河区</option>
+<option value="030205" title="白云区">白云区</option>
+<option value="030206" title="黄埔区">黄埔区</option>
+<option value="030207" title="番禺区">番禺区</option>
+<option value="030208" title="花都区">花都区</option>
+<option value="030209" title="南沙区">南沙区</option>
+<option value="030211" title="增城区">增城区</option>
+<option value="030300" title="惠州">惠州</option>
+<option value="030301" title="惠城区">惠城区</option>
+<option value="030302" title="惠阳区">惠阳区</option>
+<option value="030306" title="博罗县">博罗县</option>
+<option value="030400" title="汕头">汕头</option>
+<option value="030500" title="珠海">珠海</option>
+<option value="030501" title="香洲区">香洲区</option>
+<option value="030503" title="金湾区">金湾区</option>
+<option value="030600" title="佛山">佛山</option>
+<option value="030602" title="顺德区">顺德区</option>
+<option value="030603" title="南海区">南海区</option>
+<option value="030700" title="中山">中山</option>
+<option value="030712" title="东升镇">东升镇</option>
+<option value="030715" title="三角镇">三角镇</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="030803" title="东城区">东城区</option>
+<option value="030804" title="万江区">万江区</option>
+<option value="030807" title="茶山镇">茶山镇</option>
+<option value="030814" title="常平镇">常平镇</option>
+<option value="030815" title="寮步镇">寮步镇</option>
+<option value="030816" title="大朗镇">大朗镇</option>
+<option value="030826" title="沙田镇">沙田镇</option>
+<option value="030828" title="塘厦镇">塘厦镇</option>
+<option value="030831" title="凤岗镇">凤岗镇</option>
+<option value="030833" title="松山湖区">松山湖区</option>
+<option value="031500" title="江门">江门</option>
+<option value="031501" title="蓬江区">蓬江区</option>
+<option value="031700" title="湛江">湛江</option>
+<option value="031701" title="赤坎区">赤坎区</option>
+<option value="031704" title="麻章区">麻章区</option>
+<option value="031808" title="四会市">四会市</option>
+<option value="031901" title="清城区">清城区</option>
+<option value="032000" title="潮州">潮州</option>
+<option value="032100" title="河源">河源</option>
+<option value="032200" title="揭阳">揭阳</option>
+<option value="032300" title="茂名">茂名</option>
+<option value="032400" title="汕尾">汕尾</option>
+<option value="032800" title="阳江">阳江</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="040100" title="福田区">福田区</option>
+<option value="040300" title="南山区">南山区</option>
+<option value="040500" title="宝安区">宝安区</option>
+<option value="040600" title="龙岗区">龙岗区</option>
+<option value="041000" title="龙华区">龙华区</option>
+<option value="050000" title="天津">天津</option>
+<option value="050100" title="和平区">和平区</option>
+<option value="050500" title="河北区">河北区</option>
+<option value="050700" title="东丽区">东丽区</option>
+<option value="050900" title="津南区">津南区</option>
+<option value="051100" title="武清区">武清区</option>
+<option value="051400" title="宁河区">宁河区</option>
+<option value="060000" title="重庆">重庆</option>
+<option value="060100" title="渝中区">渝中区</option>
+<option value="060300" title="江北区">江北区</option>
+<option value="060400" title="沙坪坝区">沙坪坝区</option>
+<option value="060600" title="合川区">合川区</option>
+<option value="060700" title="渝北区">渝北区</option>
+<option value="060900" title="巴南区">巴南区</option>
+<option value="061100" title="九龙坡区">九龙坡区</option>
+<option value="061200" title="万州区">万州区</option>
+<option value="061500" title="南岸区">南岸区</option>
+<option value="061600" title="北碚区">北碚区</option>
+<option value="061900" title="江津区">江津区</option>
+<option value="063300" title="酉阳县">酉阳县</option>
+<option value="063900" title="武隆区">武隆区</option>
+<option value="064000" title="云阳县">云阳县</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070200" title="南京">南京</option>
+<option value="070201" title="玄武区">玄武区</option>
+<option value="070209" title="栖霞区">栖霞区</option>
+<option value="070211" title="江宁区">江宁区</option>
+<option value="070212" title="溧水区">溧水区</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070303" title="吴中区">吴中区</option>
+<option value="070306" title="工业园区">工业园区</option>
+<option value="070308" title="虎丘区">虎丘区</option>
+<option value="070400" title="无锡">无锡</option>
+<option value="070405" title="无锡新区">无锡新区</option>
+<option value="070406" title="惠山区">惠山区</option>
+<option value="070407" title="锡山区">锡山区</option>
+<option value="070408" title="宜兴市">宜兴市</option>
+<option value="070409" title="江阴市">江阴市</option>
+<option value="070500" title="常州">常州</option>
+<option value="070504" title="新北区">新北区</option>
+<option value="070505" title="武进区">武进区</option>
+<option value="070600" title="昆山">昆山</option>
+<option value="070700" title="常熟">常熟</option>
+<option value="070800" title="扬州">扬州</option>
+<option value="070900" title="南通">南通</option>
+<option value="070901" title="崇川区">崇川区</option>
+<option value="070903" title="通州区">通州区</option>
+<option value="071000" title="镇江">镇江</option>
+<option value="071100" title="徐州">徐州</option>
+<option value="071106" title="睢宁县">睢宁县</option>
+<option value="071200" title="连云港">连云港</option>
+<option value="071201" title="海州区">海州区</option>
+<option value="071202" title="连云区">连云区</option>
+<option value="071302" title="盐都区">盐都区</option>
+<option value="071400" title="张家港">张家港</option>
+<option value="071802" title="高港区">高港区</option>
+<option value="071900" title="淮安">淮安</option>
+<option value="071901" title="清江浦区">清江浦区</option>
+<option value="072100" title="丹阳">丹阳</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080201" title="拱墅区">拱墅区</option>
+<option value="080204" title="江干区">江干区</option>
+<option value="080208" title="萧山区">萧山区</option>
+<option value="080301" title="海曙区">海曙区</option>
+<option value="080303" title="江北区">江北区</option>
+<option value="080306" title="鄞州区">鄞州区</option>
+<option value="080400" title="温州">温州</option>
+<option value="080401" title="鹿城区">鹿城区</option>
+<option value="080402" title="龙湾区">龙湾区</option>
+<option value="080600" title="金华">金华</option>
+<option value="080601" title="婺城区">婺城区</option>
+<option value="080602" title="金东区">金东区</option>
+<option value="080606" title="永康市">永康市</option>
+<option value="080700" title="嘉兴">嘉兴</option>
+<option value="080702" title="秀洲区">秀洲区</option>
+<option value="080800" title="台州">台州</option>
+<option value="080801" title="椒江区">椒江区</option>
+<option value="081000" title="丽水">丽水</option>
+<option value="081200" title="衢州">衢州</option>
+<option value="081400" title="义乌">义乌</option>
+<option value="090000" title="四川省">四川省</option>
+<option value="090200" title="成都">成都</option>
+<option value="090204" title="武侯区">武侯区</option>
+<option value="090206" title="龙泉驿区">龙泉驿区</option>
+<option value="090215" title="双流区">双流区</option>
+<option value="090216" title="郫都区">郫都区</option>
+<option value="090219" title="新津县">新津县</option>
+<option value="090220" title="高新区">高新区</option>
+<option value="090500" title="泸州">泸州</option>
+<option value="091000" title="攀枝花">攀枝花</option>
+<option value="091500" title="遂宁">遂宁</option>
+<option value="100000" title="海南省">海南省</option>
+<option value="100200" title="海口">海口</option>
+<option value="100202" title="秀英区">秀英区</option>
+<option value="100204" title="美兰区">美兰区</option>
+<option value="110000" title="福建省">福建省</option>
+<option value="110204" title="马尾区">马尾区</option>
+<option value="110205" title="晋安区">晋安区</option>
+<option value="110300" title="厦门">厦门</option>
+<option value="110303" title="湖里区">湖里区</option>
+<option value="110304" title="集美区">集美区</option>
+<option value="110411" title="晋江市">晋江市</option>
+<option value="110800" title="南平">南平</option>
+<option value="110900" title="宁德">宁德</option>
+<option value="111000" title="龙岩">龙岩</option>
+<option value="120000" title="山东省">山东省</option>
+<option value="120205" title="历城区">历城区</option>
+<option value="120211" title="高新区">高新区</option>
+<option value="120300" title="青岛">青岛</option>
+<option value="120305" title="城阳区">城阳区</option>
+<option value="120308" title="即墨区">即墨区</option>
+<option value="120402" title="福山区">福山区</option>
+<option value="120406" title="龙口市">龙口市</option>
+<option value="120407" title="莱阳市">莱阳市</option>
+<option value="120411" title="栖霞市">栖霞市</option>
+<option value="120414" title="开发区">开发区</option>
+<option value="120500" title="潍坊">潍坊</option>
+<option value="120503" title="坊子区">坊子区</option>
+<option value="120504" title="奎文区">奎文区</option>
+<option value="120513" title="高新技术开发区">高新技术开发区</option>
+<option value="120600" title="威海">威海</option>
+<option value="120700" title="淄博">淄博</option>
+<option value="120801" title="兰山区">兰山区</option>
+<option value="120803" title="河东区">河东区</option>
+<option value="120900" title="济宁">济宁</option>
+<option value="121100" title="泰安">泰安</option>
+<option value="121400" title="菏泽">菏泽</option>
+<option value="121500" title="滨州">滨州</option>
+<option value="121700" title="聊城">聊城</option>
+<option value="130000" title="江西省">江西省</option>
+<option value="130200" title="南昌">南昌</option>
+<option value="130205" title="青山湖区">青山湖区</option>
+<option value="130207" title="新建区">新建区</option>
+<option value="130210" title="红谷滩新区">红谷滩新区</option>
+<option value="130300" title="九江">九江</option>
+<option value="130500" title="萍乡">萍乡</option>
+<option value="130800" title="赣州">赣州</option>
+<option value="130801" title="章贡区">章贡区</option>
+<option value="130803" title="南康区">南康区</option>
+<option value="131100" title="抚州">抚州</option>
+<option value="140000" title="广西">广西</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="140201" title="兴宁区">兴宁区</option>
+<option value="140205" title="良庆区">良庆区</option>
+<option value="140212" title="横县">横县</option>
+<option value="140300" title="桂林">桂林</option>
+<option value="140405" title="柳江区">柳江区</option>
+<option value="140700" title="梧州">梧州</option>
+<option value="150000" title="安徽省">安徽省</option>
+<option value="150200" title="合肥">合肥</option>
+<option value="150201" title="瑶海区">瑶海区</option>
+<option value="150203" title="蜀山区">蜀山区</option>
+<option value="150213" title="肥东县">肥东县</option>
+<option value="150214" title="肥西县">肥西县</option>
+<option value="150215" title="庐江县">庐江县</option>
+<option value="150300" title="芜湖">芜湖</option>
+<option value="150303" title="三山区">三山区</option>
+<option value="150304" title="鸠江区">鸠江区</option>
+<option value="150305" title="芜湖县">芜湖县</option>
+<option value="150400" title="安庆">安庆</option>
+<option value="150500" title="马鞍山">马鞍山</option>
+<option value="150600" title="蚌埠">蚌埠</option>
+<option value="150700" title="阜阳">阜阳</option>
+<option value="150800" title="铜陵">铜陵</option>
+<option value="150900" title="滁州">滁州</option>
+<option value="151000" title="黄山">黄山</option>
+<option value="151100" title="淮南">淮南</option>
+<option value="151200" title="六安">六安</option>
+<option value="151400" title="宣城">宣城</option>
+<option value="151500" title="池州">池州</option>
+<option value="151600" title="宿州">宿州</option>
+<option value="151700" title="淮北">淮北</option>
+<option value="151800" title="亳州">亳州</option>
+<option value="160000" title="河北省">河北省</option>
+<option value="160200" title="石家庄">石家庄</option>
+<option value="160203" title="桥西区">桥西区</option>
+<option value="160205" title="藁城区">藁城区</option>
+<option value="160300" title="廊坊">廊坊</option>
+<option value="160400" title="保定">保定</option>
+<option value="160700" title="邯郸">邯郸</option>
+<option value="161100" title="邢台">邢台</option>
+<option value="161200" title="衡水">衡水</option>
+<option value="170000" title="河南省">河南省</option>
+<option value="170200" title="郑州">郑州</option>
+<option value="170202" title="二七区">二七区</option>
+<option value="170207" title="中牟县">中牟县</option>
+<option value="170211" title="新郑市">新郑市</option>
+<option value="170215" title="经开区">经开区</option>
+<option value="170216" title="郑州航空港区">郑州航空港区</option>
+<option value="170300" title="洛阳">洛阳</option>
+<option value="170600" title="南阳">南阳</option>
+<option value="170900" title="安阳">安阳</option>
+<option value="171100" title="许昌">许昌</option>
+<option value="171200" title="信阳">信阳</option>
+<option value="171500" title="漯河">漯河</option>
+<option value="171600" title="濮阳">濮阳</option>
+<option value="180000" title="湖北省">湖北省</option>
+<option value="180200" title="武汉">武汉</option>
+<option value="180202" title="江汉区">江汉区</option>
+<option value="180207" title="洪山区">洪山区</option>
+<option value="180208" title="东西湖区">东西湖区</option>
+<option value="180212" title="黄陂区">黄陂区</option>
+<option value="180215" title="东湖新技术产业开发区">东湖新技术产业开发区</option>
+<option value="180400" title="黄石">黄石</option>
+<option value="180500" title="襄阳">襄阳</option>
+<option value="180503" title="襄州区">襄州区</option>
+<option value="180701" title="沙市区">沙市区</option>
+<option value="180800" title="荆门">荆门</option>
+<option value="181000" title="鄂州">鄂州</option>
+<option value="181300" title="咸宁">咸宁</option>
+<option value="181400" title="仙桃">仙桃</option>
+<option value="190000" title="湖南省">湖南省</option>
+<option value="190200" title="长沙">长沙</option>
+<option value="190201" title="芙蓉区">芙蓉区</option>
+<option value="190202" title="天心区">天心区</option>
+<option value="190205" title="雨花区">雨花区</option>
+<option value="190207" title="长沙县">长沙县</option>
+<option value="190300" title="株洲">株洲</option>
+<option value="190500" title="衡阳">衡阳</option>
+<option value="190600" title="岳阳">岳阳</option>
+<option value="190700" title="常德">常德</option>
+<option value="190800" title="益阳">益阳</option>
+<option value="190900" title="郴州">郴州</option>
+<option value="191000" title="邵阳">邵阳</option>
+<option value="191100" title="怀化">怀化</option>
+<option value="191200" title="娄底">娄底</option>
+<option value="191400" title="张家界">张家界</option>
+<option value="191500" title="湘西">湘西</option>
+<option value="200000" title="陕西省">陕西省</option>
+<option value="200200" title="西安">西安</option>
+<option value="200205" title="未央区">未央区</option>
+<option value="200206" title="雁塔区">雁塔区</option>
+<option value="200212" title="鄠邑区">鄠邑区</option>
+<option value="200213" title="高陵区">高陵区</option>
+<option value="200219" title="西咸新区">西咸新区</option>
+<option value="200300" title="咸阳">咸阳</option>
+<option value="200303" title="渭城区">渭城区</option>
+<option value="200304" title="三原县">三原县</option>
+<option value="210000" title="山西省">山西省</option>
+<option value="210203" title="杏花岭区">杏花岭区</option>
+<option value="220000" title="黑龙江省">黑龙江省</option>
+<option value="220204" title="平房区">平房区</option>
+<option value="220206" title="香坊区">香坊区</option>
+<option value="220600" title="齐齐哈尔">齐齐哈尔</option>
+<option value="230000" title="辽宁省">辽宁省</option>
+<option value="230202" title="浑南区">浑南区</option>
+<option value="230209" title="铁西区">铁西区</option>
+<option value="230301" title="西岗区">西岗区</option>
+<option value="230304" title="甘井子区">甘井子区</option>
+<option value="230306" title="金州区">金州区</option>
+<option value="230400" title="鞍山">鞍山</option>
+<option value="230700" title="锦州">锦州</option>
+<option value="230900" title="葫芦岛">葫芦岛</option>
+<option value="240000" title="吉林省">吉林省</option>
+<option value="240203" title="宽城区">宽城区</option>
+<option value="240300" title="吉林">吉林</option>
+<option value="250000" title="云南省">云南省</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="250202" title="盘龙区">盘龙区</option>
+<option value="250203" title="官渡区">官渡区</option>
+<option value="250500" title="大理">大理</option>
+<option value="250600" title="丽江">丽江</option>
+<option value="260000" title="贵州省">贵州省</option>
+<option value="260200" title="贵阳">贵阳</option>
+<option value="260201" title="南明区">南明区</option>
+<option value="260203" title="花溪区">花溪区</option>
+<option value="260204" title="观山湖区">观山湖区</option>
+<option value="260300" title="遵义">遵义</option>
+<option value="260500" title="安顺">安顺</option>
+<option value="260600" title="铜仁">铜仁</option>
+<option value="261000" title="黔南">黔南</option>
+<option value="270000" title="甘肃省">甘肃省</option>
+<option value="270200" title="兰州">兰州</option>
+<option value="270209" title="榆中县">榆中县</option>
+<option value="280000" title="内蒙古">内蒙古</option>
+<option value="280200" title="呼和浩特">呼和浩特</option>
+<option value="290000" title="宁夏">宁夏</option>
+<option value="290200" title="银川">银川</option>
+<option value="300000" title="西藏">西藏</option>
+<option value="300200" title="拉萨">拉萨</option>
+<option value="310000" title="新疆">新疆</option>
+<option value="310200" title="乌鲁木齐">乌鲁木齐</option>
+<option value="310202" title="沙依巴克区">沙依巴克区</option>
+				</select>
+				<select name="funtype">
+					<option selected="" value="0000">--请选择发布职能--</option>
+					<option value="0100" title="后端开发">后端开发</option>
+<option value="0121" title="--Java开发工程师">--Java开发工程师</option>
+<option value="0126" title="--.NET开发工程师">--.NET开发工程师</option>
+<option value="0130" title="--大数据开发工程师">--大数据开发工程师</option>
+<option value="0142" title="--其他">--其他</option>
+<option value="0153" title="--C#开发工程师">--C#开发工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0201" title="--销售总监">--销售总监</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0207" title="--渠道/分销经理">--渠道/分销经理</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0220" title="--渠道/分销主管">--渠道/分销主管</option>
+<option value="0226" title="--区域销售经理">--区域销售经理</option>
+<option value="0230" title="--区域销售总监">--区域销售总监</option>
+<option value="0232" title="--业务拓展主管/经理">--业务拓展主管/经理</option>
+<option value="0233" title="--渠道/分销总监">--渠道/分销总监</option>
+<option value="0235" title="--大客户管理">--大客户管理</option>
+<option value="0236" title="--区域销售主管">--区域销售主管</option>
+<option value="0237" title="--城市经理">--城市经理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0301" title="--市场/营销/拓展总监">--市场/营销/拓展总监</option>
+<option value="0302" title="--市场/营销/拓展经理">--市场/营销/拓展经理</option>
+<option value="0303" title="--市场/营销/拓展主管">--市场/营销/拓展主管</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0305" title="--市场助理">--市场助理</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0324" title="--市场分析/调研人员">--市场分析/调研人员</option>
+<option value="0336" title="--市场企划经理/主管">--市场企划经理/主管</option>
+<option value="0337" title="--市场企划专员">--市场企划专员</option>
+<option value="0338" title="--选址拓展/新店开发">--选址拓展/新店开发</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0401" title="--财务总监">--财务总监</option>
+<option value="0402" title="--财务经理">--财务经理</option>
+<option value="0403" title="--财务主管/总账主管">--财务主管/总账主管</option>
+<option value="0404" title="--会计经理/会计主管">--会计经理/会计主管</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0406" title="--财务分析经理/主管">--财务分析经理/主管</option>
+<option value="0407" title="--财务分析员">--财务分析员</option>
+<option value="0408" title="--成本经理/成本主管">--成本经理/成本主管</option>
+<option value="0409" title="--成本管理员">--成本管理员</option>
+<option value="0410" title="--审计经理/主管">--审计经理/主管</option>
+<option value="0411" title="--税务经理/税务主管">--税务经理/税务主管</option>
+<option value="0412" title="--税务专员/助理">--税务专员/助理</option>
+<option value="0414" title="--出纳员">--出纳员</option>
+<option value="0422" title="--财务助理/财务文员">--财务助理/财务文员</option>
+<option value="0443" title="--其他">--其他</option>
+<option value="0446" title="--统计员">--统计员</option>
+<option value="0448" title="--固定资产会计">--固定资产会计</option>
+<option value="0450" title="--资金专员">--资金专员</option>
+<option value="0457" title="--会计助理">--会计助理</option>
+<option value="0458" title="--财务专员">--财务专员</option>
+<option value="0500" title="工程/机械/能源">工程/机械/能源</option>
+<option value="0513" title="--工程/设备经理">--工程/设备经理</option>
+<option value="0515" title="--工程/设备工程师">--工程/设备工程师</option>
+<option value="0537" title="--维修工程师">--维修工程师</option>
+<option value="0539" title="--机械工程师">--机械工程师</option>
+<option value="0544" title="--机电工程师">--机电工程师</option>
+<option value="0547" title="--产品工艺/制程工程师">--产品工艺/制程工程师</option>
+<option value="0559" title="--产品规划工程师">--产品规划工程师</option>
+<option value="0560" title="--工业工程师">--工业工程师</option>
+<option value="0580" title="--维修经理/主管">--维修经理/主管</option>
+<option value="0584" title="--项目管理">--项目管理</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0601" title="--人事总监">--人事总监</option>
+<option value="0602" title="--人事经理">--人事经理</option>
+<option value="0603" title="--人事主管">--人事主管</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0605" title="--人事助理">--人事助理</option>
+<option value="0606" title="--招聘经理/主管">--招聘经理/主管</option>
+<option value="0607" title="--薪资福利经理/主管">--薪资福利经理/主管</option>
+<option value="0608" title="--薪资福利专员/助理">--薪资福利专员/助理</option>
+<option value="0609" title="--培训经理/主管">--培训经理/主管</option>
+<option value="0610" title="--培训专员/助理/培训师">--培训专员/助理/培训师</option>
+<option value="0611" title="--HRBP">--HRBP</option>
+<option value="0625" title="--其他">--其他</option>
+<option value="0626" title="--招聘专员/助理">--招聘专员/助理</option>
+<option value="0627" title="--绩效考核经理/主管">--绩效考核经理/主管</option>
+<option value="0628" title="--绩效考核专员/助理">--绩效考核专员/助理</option>
+<option value="0629" title="--企业文化/员工关系/工会管理">--企业文化/员工关系/工会管理</option>
+<option value="0630" title="--人力资源信息系统专员">--人力资源信息系统专员</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0703" title="--总裁助理/总经理助理">--总裁助理/总经理助理</option>
+<option value="0705" title="--总监/部门经理">--总监/部门经理</option>
+<option value="0706" title="--其他">--其他</option>
+<option value="0709" title="--办事处/分公司/分支机构经理">--办事处/分公司/分支机构经理</option>
+<option value="0710" title="--策略发展总监">--策略发展总监</option>
+<option value="0711" title="--企业秘书/董事会秘书">--企业秘书/董事会秘书</option>
+<option value="0800" title="物流/仓储">物流/仓储</option>
+<option value="0801" title="--物流经理">--物流经理</option>
+<option value="0802" title="--物流主管">--物流主管</option>
+<option value="0804" title="--物料主管/专员">--物料主管/专员</option>
+<option value="0808" title="--仓库经理/主管">--仓库经理/主管</option>
+<option value="0809" title="--仓库管理员">--仓库管理员</option>
+<option value="0810" title="--运输经理/主管">--运输经理/主管</option>
+<option value="0811" title="--报关与报检">--报关与报检</option>
+<option value="0812" title="--单证员">--单证员</option>
+<option value="0813" title="--快递员">--快递员</option>
+<option value="0814" title="--物流专员/助理">--物流专员/助理</option>
+<option value="0815" title="--船务/空运陆运操作">--船务/空运陆运操作</option>
+<option value="0823" title="--仓储理货员">--仓储理货员</option>
+<option value="0824" title="--其他">--其他</option>
+<option value="0825" title="--供应链经理">--供应链经理</option>
+<option value="0826" title="--供应链主管/专员">--供应链主管/专员</option>
+<option value="0827" title="--物流总监">--物流总监</option>
+<option value="0828" title="--供应链总监">--供应链总监</option>
+<option value="0829" title="--货运代理">--货运代理</option>
+<option value="0831" title="--调度员">--调度员</option>
+<option value="0832" title="--海关事务管理">--海关事务管理</option>
+<option value="0833" title="--项目经理/主管">--项目经理/主管</option>
+<option value="0834" title="--订单处理员">--订单处理员</option>
+<option value="0835" title="--安检员">--安检员</option>
+<option value="0836" title="--搬运工">--搬运工</option>
+<option value="0837" title="--物流销售">--物流销售</option>
+<option value="0838" title="--分拣员">--分拣员</option>
+<option value="0839" title="--装卸工">--装卸工</option>
+<option value="0840" title="--仓库文员">--仓库文员</option>
+<option value="0900" title="工业/艺术设计">工业/艺术设计</option>
+<option value="0927" title="--包装设计">--包装设计</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1102" title="--法务主管/专员">--法务主管/专员</option>
+<option value="1106" title="--法务经理">--法务经理</option>
+<option value="1107" title="--法务助理">--法务助理</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1401" title="--专业顾问">--专业顾问</option>
+<option value="1402" title="--咨询总监">--咨询总监</option>
+<option value="1403" title="--咨询经理">--咨询经理</option>
+<option value="1406" title="--专业培训师">--专业培训师</option>
+<option value="1409" title="--调研员">--调研员</option>
+<option value="1411" title="--">--</option>
+<option value="1600" title="在校学生">在校学生</option>
+<option value="1602" title="--大学/大专应届毕业生">--大学/大专应届毕业生</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1701" title="--培训生">--培训生</option>
+<option value="1702" title="--储备干部">--储备干部</option>
+<option value="1703" title="--实习生">--实习生</option>
+<option value="1800" title="交通运输服务">交通运输服务</option>
+<option value="1823" title="--空乘人员">--空乘人员</option>
+<option value="1829" title="--其他">--其他</option>
+<option value="1831" title="--货运司机">--货运司机</option>
+<option value="1835" title="--特种车司机">--特种车司机</option>
+<option value="1842" title="--">--</option>
+<option value="1900" title="其他">其他</option>
+<option value="1901" title="--其他">--其他</option>
+<option value="2100" title="建筑工程与装潢">建筑工程与装潢</option>
+<option value="2101" title="--建筑工程师">--建筑工程师</option>
+<option value="2102" title="--结构/土木/土建工程师">--结构/土木/土建工程师</option>
+<option value="2103" title="--建筑机电工程师">--建筑机电工程师</option>
+<option value="2105" title="--工程造价师/预结算经理">--工程造价师/预结算经理</option>
+<option value="2106" title="--建筑工程管理/项目经理">--建筑工程管理/项目经理</option>
+<option value="2112" title="--消防安全">--消防安全</option>
+<option value="2120" title="--测绘/测量">--测绘/测量</option>
+<option value="2126" title="--智能大厦/综合布线/安防/弱电">--智能大厦/综合布线/安防/弱电</option>
+<option value="2133" title="--建筑项目助理">--建筑项目助理</option>
+<option value="2200" title="银行">银行</option>
+<option value="2209" title="--风险控制">--风险控制</option>
+<option value="2213" title="--高级客户经理/客户经理">--高级客户经理/客户经理</option>
+<option value="2214" title="--客户主管/专员">--客户主管/专员</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2305" title="--前台接待/总机/接待生">--前台接待/总机/接待生</option>
+<option value="2306" title="--后勤">--后勤</option>
+<option value="2309" title="--其他">--其他</option>
+<option value="2311" title="--文员">--文员</option>
+<option value="2600" title="技术管理">技术管理</option>
+<option value="2606" title="--项目经理">--项目经理</option>
+<option value="2608" title="--项目执行/协调人员">--项目执行/协调人员</option>
+<option value="2700" title="测试">测试</option>
+<option value="2706" title="--系统测试">--系统测试</option>
+<option value="2711" title="--其他">--其他</option>
+<option value="2718" title="--功能测试">--功能测试</option>
+<option value="2723" title="--测试主管">--测试主管</option>
+<option value="2725" title="--测试工程师">--测试工程师</option>
+<option value="2900" title="电子/电器/仪器仪表">电子/电器/仪器仪表</option>
+<option value="2904" title="--电气工程师/技术员">--电气工程师/技术员</option>
+<option value="2920" title="--电子/电器维修工程师/技师">--电子/电器维修工程师/技师</option>
+<option value="2955" title="--硬件工程师">--硬件工程师</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3012" title="--销售助理">--销售助理</option>
+<option value="3014" title="--区域销售代表">--区域销售代表</option>
+<option value="3017" title="--地推专员">--地推专员</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3101" title="--销售行政经理/主管">--销售行政经理/主管</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3103" title="--商务经理">--商务经理</option>
+<option value="3104" title="--商务主管/专员">--商务主管/专员</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3106" title="--销售行政助理">--销售行政助理</option>
+<option value="3107" title="--其他">--其他</option>
+<option value="3108" title="--业务分析经理/主管">--业务分析经理/主管</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3202" title="--客服经理">--客服经理</option>
+<option value="3203" title="--客服主管">--客服主管</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3206" title="--售前/售后技术支持主管">--售前/售后技术支持主管</option>
+<option value="3207" title="--售前/售后技术支持工程师">--售前/售后技术支持工程师</option>
+<option value="3208" title="--咨询热线/呼叫中心服务人员">--咨询热线/呼叫中心服务人员</option>
+<option value="3209" title="--其他">--其他</option>
+<option value="3211" title="--投诉专员">--投诉专员</option>
+<option value="3213" title="--网络/在线客服">--网络/在线客服</option>
+<option value="3300" title="金融/证券/期货/投资">金融/证券/期货/投资</option>
+<option value="3314" title="--风险管理/控制">--风险管理/控制</option>
+<option value="3324" title="--资产管理">--资产管理</option>
+<option value="3400" title="保险">保险</option>
+<option value="3408" title="--保险理赔">--保险理赔</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3501" title="--工厂经理/厂长">--工厂经理/厂长</option>
+<option value="3504" title="--项目工程师">--项目工程师</option>
+<option value="3505" title="--营运经理">--营运经理</option>
+<option value="3506" title="--营运主管">--营运主管</option>
+<option value="3507" title="--生产经理/车间主任">--生产经理/车间主任</option>
+<option value="3508" title="--生产计划/物料管理(PMC)">--生产计划/物料管理(PMC)</option>
+<option value="3509" title="--生产主管">--生产主管</option>
+<option value="3511" title="--其他">--其他</option>
+<option value="3512" title="--生产文员">--生产文员</option>
+<option value="3515" title="--生产领班/组长">--生产领班/组长</option>
+<option value="3516" title="--设备主管">--设备主管</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3601" title="--质量管理/测试经理(QA/QC经理)">--质量管理/测试经理(QA/QC经理)</option>
+<option value="3604" title="--质检员/测试员(QC)">--质检员/测试员(QC)</option>
+<option value="3609" title="--环境/健康/安全经理/主管（EHS）">--环境/健康/安全经理/主管（EHS）</option>
+<option value="3610" title="--环境/健康/安全工程师（EHS）">--环境/健康/安全工程师（EHS）</option>
+<option value="3611" title="--供应商管理">--供应商管理</option>
+<option value="3700" title="技工普工">技工普工</option>
+<option value="3706" title="--电工">--电工</option>
+<option value="3707" title="--叉车司机/铲车司机">--叉车司机/铲车司机</option>
+<option value="3710" title="--普工/操作工">--普工/操作工</option>
+<option value="3900" title="采购">采购</option>
+<option value="3902" title="--采购经理">--采购经理</option>
+<option value="3903" title="--采购主管">--采购主管</option>
+<option value="3904" title="--采购员">--采购员</option>
+<option value="3907" title="--其他">--其他</option>
+<option value="3909" title="--供应商开发">--供应商开发</option>
+<option value="4000" title="贸易">贸易</option>
+<option value="4001" title="--贸易/外贸经理/主管">--贸易/外贸经理/主管</option>
+<option value="4007" title="--助理业务跟单">--助理业务跟单</option>
+<option value="4100" title="生物/制药/医疗器械">生物/制药/医疗器械</option>
+<option value="4102" title="--医药销售人员">--医药销售人员</option>
+<option value="4103" title="--医药技术研发管理人员">--医药技术研发管理人员</option>
+<option value="4108" title="--药品生产/质量管理">--药品生产/质量管理</option>
+<option value="4111" title="--医药销售经理/主管">--医药销售经理/主管</option>
+<option value="4115" title="--其他">--其他</option>
+<option value="4200" title="广告">广告</option>
+<option value="4207" title="--文案/策划">--文案/策划</option>
+<option value="4209" title="--企业策划人员">--企业策划人员</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4302" title="--公关主管">--公关主管</option>
+<option value="4303" title="--公关专员">--公关专员</option>
+<option value="4313" title="--活动策划">--活动策划</option>
+<option value="4400" title="影视/媒体">影视/媒体</option>
+<option value="4401" title="--影视策划/制作人员">--影视策划/制作人员</option>
+<option value="4500" title="编辑出版">编辑出版</option>
+<option value="4503" title="--记者">--记者</option>
+<option value="4600" title="房地产开发">房地产开发</option>
+<option value="4601" title="--房地产项目/策划经理">--房地产项目/策划经理</option>
+<option value="4611" title="--房地产资产管理">--房地产资产管理</option>
+<option value="4700" title="物业管理">物业管理</option>
+<option value="4702" title="--物业管理经理">--物业管理经理</option>
+<option value="4703" title="--物业管理专员/助理">--物业管理专员/助理</option>
+<option value="4705" title="--物业设施管理人员">--物业设施管理人员</option>
+<option value="4706" title="--物业维修员">--物业维修员</option>
+<option value="4710" title="--保安经理">--保安经理</option>
+<option value="4714" title="--物业管理主管">--物业管理主管</option>
+<option value="4715" title="--物业机电维修工">--物业机电维修工</option>
+<option value="5100" title="百货零售">百货零售</option>
+<option value="5110" title="--生鲜食品加工/处理">--生鲜食品加工/处理</option>
+<option value="5113" title="--安防主管">--安防主管</option>
+<option value="5200" title="家政保洁">家政保洁</option>
+<option value="5212" title="--钟点工">--钟点工</option>
+<option value="5216" title="--家电维修">--家电维修</option>
+<option value="5600" title="环保">环保</option>
+<option value="5603" title="--其他">--其他</option>
+<option value="5700" title="培训">培训</option>
+<option value="5702" title="--培训讲师">--培训讲师</option>
+<option value="5703" title="--培训策划">--培训策划</option>
+<option value="5900" title="汽车销售与服务">汽车销售与服务</option>
+<option value="5902" title="--售后服务/客户服务">--售后服务/客户服务</option>
+<option value="5903" title="--汽车销售/经纪人">--汽车销售/经纪人</option>
+<option value="6100" title="电子商务">电子商务</option>
+<option value="6110" title="--电商经理/电商主管">--电商经理/电商主管</option>
+<option value="6600" title="产品">产品</option>
+<option value="6601" title="--产品专员">--产品专员</option>
+<option value="6602" title="--产品经理/主管">--产品经理/主管</option>
+<option value="6604" title="--产品总监">--产品总监</option>
+<option value="6607" title="--用户产品经理">--用户产品经理</option>
+<option value="6610" title="--其他">--其他</option>
+<option value="6700" title="半导体/芯片">半导体/芯片</option>
+<option value="6723" title="--半导体工艺工程师">--半导体工艺工程师</option>
+<option value="6900" title="建筑规划与设计">建筑规划与设计</option>
+<option value="6901" title="--室内设计">--室内设计</option>
+<option value="6903" title="--精装设计">--精装设计</option>
+<option value="6904" title="--规划与设计">--规划与设计</option>
+<option value="6905" title="--建筑设计师">--建筑设计师</option>
+<option value="6910" title="--建筑机电设计">--建筑机电设计</option>
+<option value="6911" title="--暖通设计">--暖通设计</option>
+<option value="6912" title="--给排水设计">--给排水设计</option>
+<option value="6915" title="--其他">--其他</option>
+<option value="7200" title="前端开发">前端开发</option>
+<option value="7201" title="--Web前端开发">--Web前端开发</option>
+<option value="7202" title="--HTML5开发工程师">--HTML5开发工程师</option>
+<option value="7203" title="--其他">--其他</option>
+<option value="7300" title="人工智能">人工智能</option>
+<option value="7301" title="--机器学习工程师">--机器学习工程师</option>
+<option value="7400" title="视觉/交互设计">视觉/交互设计</option>
+<option value="7403" title="--视觉设计师">--视觉设计师</option>
+<option value="7500" title="数据">数据</option>
+<option value="7501" title="--数据分析师">--数据分析师</option>
+<option value="7502" title="--数据分析经理/主管">--数据分析经理/主管</option>
+<option value="7505" title="--数据仓库工程师">--数据仓库工程师</option>
+<option value="7509" title="--其他">--其他</option>
+<option value="7700" title="移动开发">移动开发</option>
+<option value="7701" title="--Android开发工程师">--Android开发工程师</option>
+<option value="7900" title="运维/技术支持">运维/技术支持</option>
+<option value="7901" title="--运维工程师">--运维工程师</option>
+<option value="7905" title="--ERP实施顾问">--ERP实施顾问</option>
+<option value="7906" title="--网络安全工程师">--网络安全工程师</option>
+<option value="7909" title="--技术支持/维护工程师">--技术支持/维护工程师</option>
+<option value="7913" title="--网络工程师(IT工程师)">--网络工程师(IT工程师)</option>
+<option value="7915" title="--运维开发">--运维开发</option>
+<option value="7917" title="--手机维修">--手机维修</option>
+<option value="7920" title="--自动化运维工程师">--自动化运维工程师</option>
+<option value="8000" title="运营">运营</option>
+<option value="8010" title="--新媒体运营">--新媒体运营</option>
+<option value="8011" title="--其他">--其他</option>
+<option value="8034" title="--网络推广专员">--网络推广专员</option>
+<option value="8041" title="--用户运营">--用户运营</option>
+<option value="8042" title="--活动运营">--活动运营</option>
+<option value="8044" title="--数据运营">--数据运营</option>
+<option value="8045" title="--线下运营">--线下运营</option>
+<option value="8047" title="--运营专员">--运营专员</option>
+<option value="8048" title="--运营主管">--运营主管</option>
+<option value="8049" title="--运营经理">--运营经理</option>
+<option value="8050" title="--运营总监">--运营总监</option>
+<option value="8057" title="--产品运营">--产品运营</option>
+<option value="8058" title="--社区/社群运营">--社区/社群运营</option>
+				</select>
+				<select name="jobarea">
+					<option selected="" value="0000">--请选择公司名称--</option>
+					<option value="133909" title="顺丰速运有限公司">顺丰速运有限公司</option>
+<option value="421003" title="北京顺丰速运有限公司">北京顺丰速运有限公司</option>
+<option value="428559" title="广州顺丰速运有限公司">广州顺丰速运有限公司</option>
+<option value="555238" title="武汉顺丰速运有限公司">武汉顺丰速运有限公司</option>
+<option value="768761" title="安徽顺丰速运有限公司">安徽顺丰速运有限公司</option>
+<option value="1255752" title="宁波顺丰速运有限公司">宁波顺丰速运有限公司</option>
+<option value="1315755" title="湖南顺丰速运有限公司">湖南顺丰速运有限公司</option>
+<option value="1441758" title="福州顺丰速运有限公司">福州顺丰速运有限公司</option>
+<option value="1870762" title="无锡市顺丰速运有限公司">无锡市顺丰速运有限公司</option>
+<option value="2010913" title="顺丰运输(金华)有限公司">顺丰运输(金华)有限公司</option>
+<option value="2024525" title="四川顺丰速运有限公司">四川顺丰速运有限公司</option>
+<option value="2024526" title="顺丰速运有限公司华南分拨区">顺丰速运有限公司华南分拨区</option>
+<option value="2024530" title="佛山顺丰速运有限公司">佛山顺丰速运有限公司</option>
+<option value="2025817" title="顺丰速运有限公司深圳分支">顺丰速运有限公司深圳分支</option>
+<option value="2030135" title="顺丰速运（东莞）有限公司">顺丰速运（东莞）有限公司</option>
+<option value="2031779" title="上海顺丰速运有限公司">上海顺丰速运有限公司</option>
+<option value="2032048" title="浙江顺丰速运有限公司">浙江顺丰速运有限公司</option>
+<option value="2033823" title="温州顺衡速运有限公司">温州顺衡速运有限公司</option>
+<option value="2037567" title="中山顺丰速运有限公司">中山顺丰速运有限公司</option>
+<option value="2078027" title="厦门市顺丰速运有限公司">厦门市顺丰速运有限公司</option>
+<option value="2121608" title="云南顺丰速运有限公司">云南顺丰速运有限公司</option>
+<option value="2286495" title="汕头市顺丰速运有限公司">汕头市顺丰速运有限公司</option>
+<option value="2288047" title="顺丰速运重庆有限公司">顺丰速运重庆有限公司</option>
+<option value="2288053" title="海南顺丰速运有限公司">海南顺丰速运有限公司</option>
+<option value="2416176" title="广西顺丰速运有限公司">广西顺丰速运有限公司</option>
+<option value="2416629" title="顺丰速运（惠州）有限公司">顺丰速运（惠州）有限公司</option>
+<option value="2435759" title="淮安顺丰速运有限公司">淮安顺丰速运有限公司</option>
+<option value="2459941" title="黑龙江顺丰速运有限公司">黑龙江顺丰速运有限公司</option>
+<option value="2480110" title="苏州工业园区顺丰速运有限公司">苏州工业园区顺丰速运有限公司</option>
+<option value="2520317" title="广州顺丰速运有限公司呼和浩特分公司">广州顺丰速运有限公司呼和浩特分公司</option>
+<option value="2520326" title="广州顺丰速运有限公司兰州分公司">广州顺丰速运有限公司兰州分公司</option>
+<option value="2540705" title="顺丰速运（沈阳）有限公司">顺丰速运（沈阳）有限公司</option>
+<option value="2658695" title="河北顺丰速运有限公司">河北顺丰速运有限公司</option>
+<option value="2703579" title="大连顺丰速运有限公司">大连顺丰速运有限公司</option>
+<option value="2787208" title="南通顺丰速递有限公司">南通顺丰速递有限公司</option>
+<option value="2804357" title="湖北顺丰运输有限公司">湖北顺丰运输有限公司</option>
+<option value="2989658" title="安徽顺丰通讯服务有限公司">安徽顺丰通讯服务有限公司</option>
+<option value="3029471" title="天津顺丰速递有限公司">天津顺丰速递有限公司</option>
+<option value="3288140" title="顺丰速运有限公司">顺丰速运有限公司</option>
+<option value="3352227" title="宁夏顺丰速运有限公司">宁夏顺丰速运有限公司</option>
+<option value="3429060" title="河北顺丰速运有限公司廊坊分公司（冀北）">河北顺丰速运有限公司廊坊分公司（冀北）</option>
+<option value="3598778" title="顺丰总部共享服务中心">顺丰总部共享服务中心</option>
+<option value="3599812" title="顺丰速运有限公司冷运事业部">顺丰速运有限公司冷运事业部</option>
+<option value="3599815" title="顺丰商业事业群">顺丰商业事业群</option>
+<option value="3599818" title="顺丰电商产业园事业部">顺丰电商产业园事业部</option>
+<option value="3686983" title="顺丰运输（常州）有限公司">顺丰运输（常州）有限公司</option>
+<option value="4873011" title="顺丰速运有限公司医药事业部">顺丰速运有限公司医药事业部</option>
+<option value="5011371" title="江西顺丰速运有限公司">江西顺丰速运有限公司</option>
+<option value="5494519" title="顺丰快运华南分公司">顺丰快运华南分公司</option>
+<option value="5506785" title="深圳顺丰泰森控股（集团）有限公司">深圳顺丰泰森控股（集团）有限公司</option>
+<option value="5596683" title="上海顺如丰来技术有限公司">上海顺如丰来技术有限公司</option>
+<option value="5607678" title="顺丰快运华北分公司">顺丰快运华北分公司</option>
+<option value="5683196" title="深圳市丰宜科技有限公司">深圳市丰宜科技有限公司</option>
+<option value="5748107" title="浙江双捷供应链科技有限公司">浙江双捷供应链科技有限公司</option>
+<option value="5758837" title="深圳市丰乐公寓管理有限公司">深圳市丰乐公寓管理有限公司</option>
+<option value="5766637" title="顺丰快运事业部">顺丰快运事业部</option>
+<option value="5934513" title="四川物联亿达科技有限公司">四川物联亿达科技有限公司</option>
+<option value="5956056" title="广东顺心快运有限公司">广东顺心快运有限公司</option>
+<option value="5996423" title="深圳市丰修科技有限公司">深圳市丰修科技有限公司</option>
+<option value="6008855" title="深圳市顺丰国际物流有限公司">深圳市顺丰国际物流有限公司</option>
+<option value="6139931" title="顺丰数据服务（武汉）有限公司">顺丰数据服务（武汉）有限公司</option>
+<option value="6151843" title="武汉顺丰智达物流有限公司">武汉顺丰智达物流有限公司</option>
+<option value="6317880" title="深圳市顺丰信息服务科技有限公司东莞分公司">深圳市顺丰信息服务科技有限公司东莞分公司</option>
+<option value="6325388" title="深圳丰享信息技术有限公司">深圳丰享信息技术有限公司</option>
+				</select>
+				<div class="clearfix"><label>职位搜索</label><input name="keyword" value="输入职位关键字" type="text" onfocus="javascript:clearfield(this)"></div>
+				<a class="s-btn" href="javascript:void(0)" onclick="document.quicksearch.submit()" tracename="搜索">搜索</a>
+        </div>
+</form>
+
+<script language="javascript">
+  function clearfield(obj)
+    {
+    if (obj.value == "输入职位关键字")
+        obj.value = "";
+    }
+</script>
+              </div>
+          <div class="right">
+            <h4 class="line"></h4>
+            <div class="jobbox clearfix">
+				              <h2 class="job-name">订单管理员</h2>
+              <h4></h4>
+              <p></p><p><br></p><ol><li><p><span>处理仓库收发订单，控制订单出入库及时率；<span>2、订单异常跟踪处理及闭环；3、库存准确率监控、库存安全线把控；4、汇总各种数据分析报表等；5、完成公司领导交待的临时工作。</span></span></p></li></ol><p><br></p><p><span>要求：</span></p><p><span>1、大专及以上学历，优秀者可适当放款至高中或中专学历；2、 男女不限，年龄：20-30岁左右；3、 性格外向，善于沟通；4、 对数据敏感，有较强的数据分析能力，熟悉OMS、WMS系统操作者优先。</span></p><p><br></p><p></p>
+              <h4>职能类别：</h4>
+              <p>订单处理员</p>
+              <a class="return" href="http://sfzhaopin.51job.com/sc/job_list.php" tracename="返回职位列表">返回职位列表</a>
+              <a class="send" href="http://sfzhaopin.51job.com/cv_easy/cv_log.php?jobid=131884000" tracename="立即申请">立即申请</a>
+							</div>
+          </div>
+        </div>
+    </div>
+    
+    <!--版权信息区域-->
+    <div class="copyright">
+        <img src="http://sfzhaopin.51job.com/images/hand.png" width="15" height="20">&nbsp;未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有 ©1999-
+        <script language="JavaScript">var now = new Date();var year = now.getFullYear();document.write(year);</script>2021
+    </div>
+    <!--版权信息区域end-->
+    
+</div>
+
+    
+<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

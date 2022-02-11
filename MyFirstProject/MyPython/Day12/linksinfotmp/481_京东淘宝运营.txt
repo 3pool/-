@@ -1,0 +1,542 @@
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=2200504&guid=&dType=1&jobId=129910716&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<!--Template No. 0 Original Designer:0 -->
+<!--images of client -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>【中粮集团招聘，求职】中粮集团 前程无忧官方招聘网站</title>
+<meta content="中粮集团招聘 前程无忧官方网站，提供最新中粮集团招聘职位，校园招聘信息，中粮集团面试技巧等。帮助您顺利踏入中粮集团的大门，与众多中粮集团精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<link href="http://cofco.51job.com/styles.css" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<script type="text/javascript" language="javascript" src="http://cofco.51job.com/js/jquery.js"></script>
+</head>
+<body style="">
+<div class="main">
+	<div class="topbox">
+         <div class="topmain">
+         	<div class="topmainb">
+            <div class="logo"><img src="http://cofco.51job.com/images/logo_03.png" width="183" height="112" border="0"></div>
+            <div class="navb">
+            <ul>
+			<li><a href="http://cofco.51job.com/index.php" class="index" tracename="首页">首页</a></li>
+			<li><a href="javascript:void(0)" class="gs" tracename="感受中粮">感受中粮</a>
+                <ul class="lx">
+                <li><a class="lxtop"></a></li><li>
+                </li><li><a href="http://cofco.51job.com/zr.php" tracename="? 自然之源 重塑你我"><span class="navjt">? </span>自然之源 重塑你我</a></li>
+                <li><a href="http://cofco.51job.com/jy.php" tracename="? 经营策略与理念"><span class="navjt">? </span>经营策略与理念</a></li>
+                <li><a href="http://cofco.51job.com/ls.php" tracename="? 历史沿革"><span class="navjt">? </span>历史沿革</a></li>
+                <li><a href="http://cofco.51job.com/jr.php" tracename="? 今日中粮"><span class="navjt">? </span>今日中粮</a></li>
+                <li class="bomboma"><a href="http://cofco.51job.com/rl.php" tracename="? 人力资源使命、愿景和战略"><span class="navjt">? </span>人力资源使命、愿景和战略</a></li>
+                <li><a class="lxbom"></a></li><li>
+                 </li></ul>
+            </li>
+			<li><a href="javascript:void(0)" class="cy" tracename="成员企业">成员企业</a>
+                <ul class="lxa">
+                <li><a class="lxatop"></a></li><li>
+                </li><li><a href="http://cofco.51job.com/cm1.php" tracename="? 中粮国际"><span class="navjt">? </span>中粮国际</a></li>
+				<li><a href="http://cofco.51job.com/cm2.php" tracename="? 中粮贸易"><span class="navjt">? </span>中粮贸易</a></li>
+				<li><a href="http://cofco.51job.com/cm3.php" tracename="? 中粮油脂"><span class="navjt">? </span>中粮油脂</a></li>
+				<li><a href="http://cofco.51job.com/cm4.php" tracename="? 中粮粮谷"><span class="navjt">? </span>中粮粮谷</a></li>
+				<li><a href="http://cofco.51job.com/cm5.php" tracename="? 中粮生化"><span class="navjt">? </span>中粮生化</a></li>
+				<li><a href="http://cofco.51job.com/cm6.php" tracename="? 中粮饲料"><span class="navjt">? </span>中粮饲料</a></li>
+				<li><a href="http://cofco.51job.com/cm7.php" tracename="? 中粮糖业"><span class="navjt">? </span>中粮糖业</a></li>
+				<li><a href="http://cofco.51job.com/cm8.php" tracename="? 中粮纺织"><span class="navjt">? </span>中粮纺织</a></li>
+				<li><a href="http://cofco.51job.com/cm9.php" tracename="? 中粮工科"><span class="navjt">? </span>中粮工科</a></li>
+				<li><a href="http://cofco.51job.com/cm10.php" tracename="? 中粮酒业"><span class="navjt">? </span>中粮酒业</a></li>
+				<li><a href="http://cofco.51job.com/cm11.php" tracename="? 中可饮料"><span class="navjt">? </span>中可饮料</a></li>
+                <li><a href="http://cofco.51job.com/cm12.php" tracename="? 中粮肉食"><span class="navjt">? </span>中粮肉食</a></li>
+                <li><a href="http://cofco.51job.com/cm13.php" tracename="? 中国茶叶"><span class="navjt">? </span>中国茶叶</a></li>
+				<li><a href="http://cofco.51job.com/cm14.php" tracename="? 蒙牛乳业"><span class="navjt">? </span>蒙牛乳业</a></li>
+                <li><a href="http://cofco.51job.com/cm15.php" tracename="? 我买网"><span class="navjt">? </span>我买网</a></li>
+                <li><a href="http://cofco.51job.com/cm16.php" tracename="? 中粮包装"><span class="navjt">? </span>中粮包装</a></li>
+                <li><a href="http://cofco.51job.com/cm17.php" tracename="? 中粮资本"><span class="navjt">? </span>中粮资本</a></li>
+                <li><a href="http://cofco.51job.com/cm18.php" tracename="? 中粮置地"><span class="navjt">? </span>中粮置地</a></li>
+                <li class="bombom"><a href="http://cofco.51job.com/cm19.php" tracename="? 中粮营养健康研究院"><span class="navjt">? </span>中粮营养健康研究院</a></li>
+                <li><a class="lxabom"></a></li><li>
+                 </li></ul>
+            	</li>
+			<li><a href="javascript:void(0)" class="job" style="background-image:url(http://cofco.51job.com/images/nava4.png)" tracename="招聘职位">招聘职位</a>
+                  <ul class="lxa" style="left:7px;">
+                <li><a class="lxatop"></a></li><li>
+                </li><li><a href="http://cofco.51job.com/job.php?coid=3310302" tracename="? 集团本部"><span class="navjt">? </span>集团本部</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310310" tracename="? 中国粮油"><span class="navjt">? </span>中国粮油</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310317" tracename="? 中国食品"><span class="navjt">? </span>中国食品</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310326" tracename="? 中粮贸易"><span class="navjt">? </span>中粮贸易</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310335" tracename="? 中粮置地"><span class="navjt">? </span>中粮置地</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310347" tracename="? 中粮屯河"><span class="navjt">? </span>中粮屯河</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310348" tracename="? 中粮肉食"><span class="navjt">? </span>中粮肉食</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310363" tracename="? 中粮包装"><span class="navjt">? </span>中粮包装</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310366" tracename="? 中国土畜"><span class="navjt">? </span>中国土畜</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310374" tracename="? 金融事业部"><span class="navjt">? </span>金融事业部</a></li>
+								<li><a href="http://cofco.51job.com/job.php?coid=3310376" tracename="? 中粮我买网"><span class="navjt">? </span>中粮我买网</a></li>
+                                
+                                <li class="bombom"><a href="http://cofco.51job.com/job.php?coid=4478569" tracename="? 中粮营养研究院"><span class="navjt">? </span>中粮营养研究院</a></li>
+                <li><a class="lxabom"></a></li><li>
+                </li></ul>
+            </li>
+			<li><a href="http://www.cofco.com" target="_blank" class="web" tracename="web">web</a></li>
+            <div style="clear:left"></div>  
+			</ul>
+          
+            </div>
+            <div class="search">
+                        <div class="op"><img src="http://cofco.51job.com/images/sch.png" width="97" height="24" border="0" align="left">
+            		<form id="form" name="quicksearch" method="post" action="http://cofco.51job.com/sc/job_list.php?begin=begin">
+		<input type="hidden" name="keywordtype" value="2">
+<select name="company" class="jobarea" style="margin-left:10px;"> 
+	<option value="0000" selected="selected">--选择成员企业名称--</option>
+			 				<option value="5114228">中国中纺集团有限公司</option>
+		 				<option value="4285797">中粮福临门食品营销有限公司</option>
+		 				<option value="4255707">中粮粮谷</option>
+		 				<option value="4244484">中粮油脂专业化平台</option>
+		 				<option value="3310376">中粮我买网有限公司</option>
+		 				<option value="3310366">中国茶叶</option>
+		 				<option value="3310317">中国食品有限公司</option>
+		 	
+</select>
+<select name="funtype" class="jobarea"> 
+	<option value="0000" selected="selected">--选择职位类别--</option>
+<option value="0100" title="后端开发">后端开发</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0220" title="--渠道/分销主管">--渠道/分销主管</option>
+<option value="0226" title="--区域销售经理">--区域销售经理</option>
+<option value="0231" title="--其他">--其他</option>
+<option value="0234" title="--团购经理/主管">--团购经理/主管</option>
+<option value="0235" title="--大客户管理">--大客户管理</option>
+<option value="0236" title="--区域销售主管">--区域销售主管</option>
+<option value="0237" title="--城市经理">--城市经理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0301" title="--市场/营销/拓展总监">--市场/营销/拓展总监</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0401" title="--财务总监">--财务总监</option>
+<option value="0402" title="--财务经理">--财务经理</option>
+<option value="0403" title="--财务主管/总账主管">--财务主管/总账主管</option>
+<option value="0404" title="--会计经理/会计主管">--会计经理/会计主管</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0406" title="--财务分析经理/主管">--财务分析经理/主管</option>
+<option value="0407" title="--财务分析员">--财务分析员</option>
+<option value="0410" title="--审计经理/主管">--审计经理/主管</option>
+<option value="0412" title="--税务专员/助理">--税务专员/助理</option>
+<option value="0414" title="--出纳员">--出纳员</option>
+<option value="0419" title="--审计专员/助理">--审计专员/助理</option>
+<option value="0450" title="--资金专员">--资金专员</option>
+<option value="0457" title="--会计助理">--会计助理</option>
+<option value="0458" title="--财务专员">--财务专员</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0603" title="--人事主管">--人事主管</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0610" title="--培训专员/助理/培训师">--培训专员/助理/培训师</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0706" title="--其他">--其他</option>
+<option value="0710" title="--策略发展总监">--策略发展总监</option>
+<option value="0800" title="物流/仓储">物流/仓储</option>
+<option value="0814" title="--物流专员/助理">--物流专员/助理</option>
+<option value="0824" title="--其他">--其他</option>
+<option value="0826" title="--供应链主管/专员">--供应链主管/专员</option>
+<option value="0831" title="--调度员">--调度员</option>
+<option value="0834" title="--订单处理员">--订单处理员</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1102" title="--法务主管/专员">--法务主管/专员</option>
+<option value="1106" title="--法务经理">--法务经理</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1401" title="--专业顾问">--专业顾问</option>
+<option value="1600" title="在校学生">在校学生</option>
+<option value="1602" title="--大学/大专应届毕业生">--大学/大专应届毕业生</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1701" title="--培训生">--培训生</option>
+<option value="1702" title="--储备干部">--储备干部</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2309" title="--其他">--其他</option>
+<option value="2310" title="--党工团干事">--党工团干事</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3007" title="--其他">--其他</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3010" title="--网络销售/在线销售">--网络销售/在线销售</option>
+<option value="3014" title="--区域销售代表">--区域销售代表</option>
+<option value="3016" title="--门店销售">--门店销售</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3101" title="--销售行政经理/主管">--销售行政经理/主管</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3106" title="--销售行政助理">--销售行政助理</option>
+<option value="3108" title="--业务分析经理/主管">--业务分析经理/主管</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3209" title="--其他">--其他</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3509" title="--生产主管">--生产主管</option>
+<option value="3511" title="--其他">--其他</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3601" title="--质量管理/测试经理(QA/QC经理)">--质量管理/测试经理(QA/QC经理)</option>
+<option value="3602" title="--质量管理/测试主管(QA/QC主管)">--质量管理/测试主管(QA/QC主管)</option>
+<option value="3610" title="--环境/健康/安全工程师（EHS）">--环境/健康/安全工程师（EHS）</option>
+<option value="3614" title="--安全员">--安全员</option>
+<option value="3700" title="技工普工">技工普工</option>
+<option value="3703" title="--焊工">--焊工</option>
+<option value="3706" title="--电工">--电工</option>
+<option value="3710" title="--普工/操作工">--普工/操作工</option>
+<option value="3716" title="--包装工">--包装工</option>
+<option value="3726" title="--锅炉工">--锅炉工</option>
+<option value="3900" title="采购">采购</option>
+<option value="3903" title="--采购主管">--采购主管</option>
+<option value="4700" title="物业管理">物业管理</option>
+<option value="4712" title="--保洁">--保洁</option>
+<option value="4800" title="餐饮服务">餐饮服务</option>
+<option value="4807" title="--中餐厨师">--中餐厨师</option>
+<option value="4816" title="--咖啡师">--咖啡师</option>
+<option value="5100" title="百货零售">百货零售</option>
+<option value="5101" title="--门店经理/店长">--门店经理/店长</option>
+<option value="5105" title="--促销员/导购员">--促销员/导购员</option>
+<option value="5112" title="--品类管理">--品类管理</option>
+<option value="5200" title="家政保洁">家政保洁</option>
+<option value="5205" title="--清洁工">--清洁工</option>
+<option value="6100" title="电子商务">电子商务</option>
+<option value="6102" title="--电商运营">--电商运营</option>
+<option value="6109" title="--电商专员">--电商专员</option>
+<option value="6200" title="机械机床">机械机床</option>
+<option value="6203" title="--机修工">--机修工</option>
+<option value="6600" title="产品">产品</option>
+<option value="6601" title="--产品专员">--产品专员</option>
+<option value="6602" title="--产品经理/主管">--产品经理/主管</option>
+<option value="7400" title="视觉/交互设计">视觉/交互设计</option>
+<option value="7401" title="--网页设计师">--网页设计师</option>
+<option value="7403" title="--视觉设计师">--视觉设计师</option>
+<option value="7900" title="运维/技术支持">运维/技术支持</option>
+<option value="7906" title="--网络安全工程师">--网络安全工程师</option>
+<option value="8000" title="运营">运营</option>
+<option value="8049" title="--运营经理">--运营经理</option>
+<option value="8053" title="--运营助理">--运营助理</option>
+</select>
+<select name="jobarea" class="jobarea">
+<option value="0000" selected="selected">--请选择工作地点--</option>
+<option value="010000" title="北京">北京</option>
+<option value="010100" title="东城区">东城区</option>
+<option value="010500" title="朝阳区">朝阳区</option>
+<option value="010900" title="门头沟区">门头沟区</option>
+<option value="011300" title="昌平区">昌平区</option>
+<option value="011400" title="大兴区">大兴区</option>
+<option value="011500" title="怀柔区">怀柔区</option>
+<option value="011800" title="延庆区">延庆区</option>
+<option value="020000" title="上海">上海</option>
+<option value="020100" title="黄浦区">黄浦区</option>
+<option value="020300" title="徐汇区">徐汇区</option>
+<option value="020800" title="虹口区">虹口区</option>
+<option value="020900" title="杨浦区">杨浦区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="030200" title="广州">广州</option>
+<option value="030400" title="汕头">汕头</option>
+<option value="031700" title="湛江">湛江</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="050000" title="天津">天津</option>
+<option value="050200" title="河东区">河东区</option>
+<option value="050600" title="红桥区">红桥区</option>
+<option value="060000" title="重庆">重庆</option>
+<option value="061300" title="涪陵区">涪陵区</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070200" title="南京">南京</option>
+<option value="070203" title="秦淮区">秦淮区</option>
+<option value="071003" title="丹徒区">丹徒区</option>
+<option value="071306" title="阜宁县">阜宁县</option>
+<option value="071400" title="张家港">张家港</option>
+<option value="071600" title="太仓">太仓</option>
+<option value="071900" title="淮安">淮安</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080300" title="宁波">宁波</option>
+<option value="080807" title="温岭市">温岭市</option>
+<option value="080900" title="湖州">湖州</option>
+<option value="090000" title="四川省">四川省</option>
+<option value="090200" title="成都">成都</option>
+<option value="090301" title="涪城区">涪城区</option>
+<option value="090400" title="乐山">乐山</option>
+<option value="090500" title="泸州">泸州</option>
+<option value="092000" title="巴中">巴中</option>
+<option value="110000" title="福建省">福建省</option>
+<option value="110200" title="福州">福州</option>
+<option value="110201" title="鼓楼区">鼓楼区</option>
+<option value="110800" title="南平">南平</option>
+<option value="120000" title="山东省">山东省</option>
+<option value="120200" title="济南">济南</option>
+<option value="120203" title="槐荫区">槐荫区</option>
+<option value="120300" title="青岛">青岛</option>
+<option value="120800" title="临沂">临沂</option>
+<option value="130000" title="江西省">江西省</option>
+<option value="130200" title="南昌">南昌</option>
+<option value="130210" title="红谷滩新区">红谷滩新区</option>
+<option value="130700" title="鹰潭">鹰潭</option>
+<option value="140000" title="广西">广西</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="150000" title="安徽省">安徽省</option>
+<option value="150202" title="庐阳区">庐阳区</option>
+<option value="150203" title="蜀山区">蜀山区</option>
+<option value="150204" title="包河区">包河区</option>
+<option value="150301" title="镜湖区">镜湖区</option>
+<option value="151000" title="黄山">黄山</option>
+<option value="160000" title="河北省">河北省</option>
+<option value="160200" title="石家庄">石家庄</option>
+<option value="160201" title="长安区">长安区</option>
+<option value="160400" title="保定">保定</option>
+<option value="160600" title="秦皇岛">秦皇岛</option>
+<option value="160900" title="张家口">张家口</option>
+<option value="161000" title="承德">承德</option>
+<option value="161100" title="邢台">邢台</option>
+<option value="170000" title="河南省">河南省</option>
+<option value="170202" title="二七区">二七区</option>
+<option value="170204" title="金水区">金水区</option>
+<option value="170214" title="高新区">高新区</option>
+<option value="170215" title="经开区">经开区</option>
+<option value="170300" title="洛阳">洛阳</option>
+<option value="170600" title="南阳">南阳</option>
+<option value="171000" title="平顶山">平顶山</option>
+<option value="171200" title="信阳">信阳</option>
+<option value="171600" title="濮阳">濮阳</option>
+<option value="180000" title="湖北省">湖北省</option>
+<option value="180202" title="江汉区">江汉区</option>
+<option value="180203" title="硚口区">硚口区</option>
+<option value="180301" title="西陵区">西陵区</option>
+<option value="180501" title="襄城区">襄城区</option>
+<option value="181400" title="仙桃">仙桃</option>
+<option value="190000" title="湖南省">湖南省</option>
+<option value="190205" title="雨花区">雨花区</option>
+<option value="190900" title="郴州">郴州</option>
+<option value="200000" title="陕西省">陕西省</option>
+<option value="200201" title="莲湖区">莲湖区</option>
+<option value="200500" title="铜川">铜川</option>
+<option value="220000" title="黑龙江省">黑龙江省</option>
+<option value="220200" title="哈尔滨">哈尔滨</option>
+<option value="220400" title="绥化">绥化</option>
+<option value="230000" title="辽宁省">辽宁省</option>
+<option value="230204" title="和平区">和平区</option>
+<option value="230208" title="苏家屯区">苏家屯区</option>
+<option value="230314" title="大连保税区">大连保税区</option>
+<option value="230700" title="锦州">锦州</option>
+<option value="240000" title="吉林省">吉林省</option>
+<option value="240300" title="吉林">吉林</option>
+<option value="250000" title="云南省">云南省</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="270000" title="甘肃省">甘肃省</option>
+<option value="270200" title="兰州">兰州</option>
+<option value="280000" title="内蒙古">内蒙古</option>
+<option value="280800" title="鄂尔多斯">鄂尔多斯</option>
+<option value="290000" title="宁夏">宁夏</option>
+<option value="310000" title="新疆">新疆</option>
+<option value="310200" title="乌鲁木齐">乌鲁木齐</option>
+<option value="310203" title="新市区">新市区</option>
+<option value="311600" title="和田">和田</option>
+</select>
+<input type="text" class="scha" onfocus="javascript:clearfield();" value="输入职位关键字" id="keyword" name="keyword" maxlength="15">
+
+  <input type="image" name="search" src="http://cofco.51job.com/images/search.jpg" value="search" width="72" height="25" align="right" style="margin-right:5px;">
+  </form>
+            </div>
+            <script language="javascript">
+function clearfield(){
+if (document.getElementById("keyword").value == "输入职位关键字")
+document.getElementById("keyword").value = "";
+}
+	</script>               
+            </div>
+            <div class="btc"> <span class="jobcom">职位详情</span> </div>
+            <div class="clear"></div>
+            </div>            
+         </div>
+		<div class="topmaina">
+       	  <div class="nav"></div>
+  <div style="100%;"><div class="picshow">
+					<ul>
+        			<li class="pic01" style="opacity: 1; z-index: 1;"></li>
+            		<li class="pic02 cc" style="opacity: 0; z-index: 0;"></li>
+            		<li class="pic03 cc" style="opacity: 0; z-index: 0;"></li>
+                    <li class="pic04 cc" style="opacity: 0; z-index: 0;"></li>
+                    <li class="pic05" style="opacity: 0; z-index: 0;"></li>
+        			</ul>
+            </div></div>
+        </div>        
+	</div>
+	<div class="midbox">
+<div class="combox">			 
+	 
+			<div class="left">
+			  <table width="585" border="0" align="left" cellpadding="0" cellspacing="0">
+			  	                <tbody><tr>
+                  <td width="17%" height="40"><strong>职位名称：</strong></td>
+                  <td height="40" colspan="5"><strong> 导购管理人员 </strong></td>
+                </tr>
+                <tr>
+                  <td height="30"> 工作地点： </td>
+                  <td width="17%" height="30">杭州</td>
+                  <td width="12%" height="30"> 部门： </td>
+                  <td width="16%" height="30"> 浙江大区 </td>
+                  <td width="12%" height="30"> 发布日期： </td>
+                  <td width="26%" height="30">2021-08-01</td>
+                </tr>
+                <tr>
+                  <td height="30"> 工作年限： </td>
+                  <td height="30">3-4年 </td>
+                  <td height="30"> 学历： </td>
+                  <td height="30"> 大专 </td>
+                  <td height="30">招聘人数：</td>
+                  <td height="30">1</td>
+                </tr>
+                <tr>
+                  <td height="10" colspan="6" style="background-image:url(http://cofco.51job.com/images/fg_08.jpg)"></td>
+                </tr>
+                <tr>
+                  <td colspan="6"><strong>岗位职责：</strong><br>
+                   <p>1.        大区导购项目整休规划，包括人员、费用、销量目标预算规划、分解；<br>  2.        负责大区导购管理环节的日常跟踪和管理工作负责；<br>  3.        负责大区导购员、督导的工资制作、绩效考核<br>  4.        负责大区月度、季度、年度导购管理数据分析报告及工作汇报<br>  5.        制定大区导购团队培训规划，并参与培训工作的完成和评估；<br>  6.        制定大区导购激励方案并申请、落实、跟踪、总结；<br>  7.        确认导购派驻门店投入产出效益评估并及时优化调整；<br>  8.        日常导购项目费用的管理、控制、审核；<br>  9.        第三方劳务外包公司的日常沟通。</p>                   
+                   </td>
+                </tr>
+                <tr>
+                  <td colspan="6"><a href="http://cofco.51job.com/sc/cv_log.php?jobid=(129910716)" tracename="img-1-apply.png"><img src="http://cofco.51job.com/images/apply.png" width="72" height="25" border="0" align="right" style="margin-right:20px; margin-bottom:20px;"></a></td>
+                </tr>
+                
+                 					              </tbody></table>
+			</div>
+<div class="right">
+  <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td width="6%" height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="13" border="0"></td>
+      <td width="94%" height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310302" tracename="集团本部">集团本部</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310310" tracename="中国粮油">中国粮油</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310317" tracename="中国食品">中国食品</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310326" tracename="中粮贸易">中粮贸易</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310335" tracename="中粮置地">中粮置地</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310347" tracename="中粮屯河">中粮屯河</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310348" tracename="中粮肉食">中粮肉食</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310363" tracename="中粮包装">中粮包装</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310366" tracename="中国土畜">中国土畜 </a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310374" tracename="金融事业部">金融事业部</a></td>
+    </tr>
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=3310376" tracename="中粮我买网">中粮我买网</a></td>
+    </tr>
+    
+     <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=4285797" tracename="中粮福临门">中粮福临门</a></td>
+    </tr>
+      <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=4255707" tracename="中粮粮谷">中粮粮谷</a></td>
+    </tr> 
+    
+    
+    
+    
+    
+    
+    
+    
+    <tr>
+      <td height="40" align="center" valign="middle"><img src="http://cofco.51job.com/images/joblistb.png" width="10" height="11" border="0"></td>
+      <td height="40" class="comlist"><a href="http://cofco.51job.com/job.php?coid=4478569" tracename="中粮营养研究院">中粮营养研究院</a></td>
+    </tr>
+    
+  </tbody></table>   
+</div>
+            <div class="clear"></div>
+		</div>
+	</div>
+	<div class="bombox">
+		<div class="foota"></div>
+		<div class="footb"><img src="http://cofco.51job.com/images/hand.gif" width="15" height="20">未经51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999-
+            <script language="JavaScript"> 
+var now = new Date();
+var year = now.getYear();
+if (year < 2000) year = year + 1900;
+document.write(year);
+</script>2021</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+  picShow();
+ 	function picShow(){
+	var i = 0;
+	var int = setInterval(action,3000);
+	var obj = $(".picshow li");
+	bgfg_init(obj);
+	function action(){
+		//alert(j)
+		
+		if(i<obj.length-1){
+			picChange(i,obj);
+			i++}
+		else{		
+			picChange(i,obj);
+			i=0;
+			}
+		}
+}
+
+function bgfg_init(obj){
+	obj.each(function(){
+		$(this).css({opacity:0});
+		if($(this).index()==0){
+		$(this).css({opacity:1});
+		}
+	})	
+}
+
+function picChange(index,obj){
+	var x=0;
+	if(index!=0){x=index-1}
+	else{x=obj.length-1}
+	
+	obj.addClass("cc").eq(index).removeClass("cc").end().eq(x).removeClass("cc").end().eq(index).css({"z-index":1}).animate({opacity:1},1000).siblings().css({"z-index":0}).end().parent().find(".cc").css({opacity:0})
+	
+	
+}
+ </script>
+
+<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

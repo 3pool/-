@@ -1,0 +1,749 @@
+<html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk">
+    <title>【杭州-余杭区后台数据主管_后台数据主管招聘_浙江联运环境工程股份有限公司】-前程无忧官方招聘网站</title>
+    <meta name="description" content="杭州-余杭区后台数据主管浙江联运环境工程股份有限公司招聘，前程无忧官方网站，提供浙江联运环境工程股份有限公司招聘职位，以及杭州-余杭区后台数据主管相关职业信息。帮助您顺利获得杭州-余杭区后台数据主管的职位，前程无忧招聘网站助您开启崭新职业生涯，找工作上前程无忧！">
+    <meta name="keywords" content="杭州-余杭区后台数据主管招聘,浙江联运环境工程股份有限公司招聘,杭州-余杭区后台数据主管招聘信息">
+    <meta name="applicable-device" content="pc">
+    <meta name="mobile-agent" content="format=xhtml;url=https://msearch.51job.com/jobs/hangzhou-yhq/132710459.html">
+    <meta name="mobile-agent" content="format=html5;url=https://msearch.51job.com/jobs/hangzhou-yhq/132710459.html">
+    <meta name="mobile-agent" content="format=wml;url=https://msearch.51job.com/jobs/hangzhou-yhq/132710459.html">
+    <meta name="robots" content="all">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <link rel="dns-prefetch" href="//js.51jobcdn.com">
+    <link rel="canonical" href="//jobs.51job.com/hangzhou-yhq/132710459.html">
+    <link rel="dns-prefetch" href="//img01.51jobcdn.com">
+    <link rel="dns-prefetch" href="//img02.51jobcdn.com">
+    <link rel="dns-prefetch" href="//img03.51jobcdn.com">
+    <link rel="dns-prefetch" href="//img04.51jobcdn.com">
+    <link rel="dns-prefetch" href="//img05.51jobcdn.com">
+    <link rel="dns-prefetch" href="//img06.51jobcdn.com">
+    <link rel="alternate" media="only screen and (max-width:640px)" href="//msearch.51job.com/jobs/hangzhou-yhq/132710459.html">
+    <script src="//aeu.alicdn.com/waf/antidomxss_v640.js"></script><script src="//aeu.alicdn.com/waf/interfaceacting210422.js"></script><script language="javascript" src="//js.51jobcdn.com/in/js/2016/jquery.js?20180319"></script>
+    <script language="javascript">
+    var _tkd = _tkd || []; //点击量统计用
+    var lang = [];
+    var supporthttps = 1; //浏览器是否支持https
+    var currenthttps = (window.location.protocol === 'https:') ? '1' : '0'; //当前是否为https
+    var systemtime = 1627833308530;
+    var d_system_client_time = systemtime - new Date().getTime();
+    var trackConfig = {
+        'guid': '',
+        'ip': '115.205.224.4',
+        'accountid': '',
+        'refpage': '',
+        'refdomain': '',
+        'domain': 'jobs.51job.com',
+        'pageName': 'jobdetail.php',
+        'partner': '',
+        'islanding': '0',
+        'fromdomain': '51job_pc',
+    };
+    window.cfg = {
+        lang:'c',
+        domain : {
+            my : 'http://my.51job.com',
+            login : 'https://login.51job.com',
+            search : 'https://search.51job.com',
+            www : '//www.51job.com',
+            jobs : 'https://jobs.51job.com',
+            jianli : 'https://jianli.51job.com',
+            i : '//i.51job.com',
+            jc : '//jc.51job.com',
+            map : 'https://map.51job.com',
+            m : 'https://m.51job.com',
+            cdn : '//js.51jobcdn.com',
+            help : 'https://help.51job.com',
+            img : '//img03.51jobcdn.com',
+            dj : '//dj.51job.com',
+            mdj : '//mdj.51job.com',
+            mq : '//mq.51job.com',
+            mmq : '//mmq.51job.com',
+            kbc : 'https://kbc.51job.com',
+            mtr : 'https://medu.51job.com',
+            tr : 'https://edu.51job.com',
+        }
+    };
+
+</script>
+<script type="text/javascript" src="//js.51jobcdn.com/in/js/2016/pointtrack.js?20210511"></script>
+
+        <link href="//js.51jobcdn.com/in/resource/css/2021/jobs/common.bc845cd1.css" rel="stylesheet">
+<link href="//js.51jobcdn.com/in/resource/css/2021/jobs/jobDetail.adb01324.css" rel="stylesheet">
+<style type="text/css">#waf_nc_block {position: fixed;_position: absolute;width: 100%;height: 100%;top: 0;bottom: 0;left: 0;z-index: 9999;}.waf-nc-mask {background: #f8f8f8;opacity: 0.5;filter:alpha(opacity=50); width: 100%;height: 100%;} .waf-nc-wrapper {width:480px; height:254px; position: absolute; top: 50%; left: 50%; margin-top: -127px; margin-left: -240px; margin-bottom: 16px; background:#ffffff; border:3px solid #00A2CA;} .waf-nc-icon {position: absolute;top: 60px;left: 20px;} .waf-nc-title {margin-top: 23px; margin-left: 47px; font-size:16px; color:#333333; line-height:10px; text-align:left;} .waf-nc-splitter {margin-left: 26px; margin-top: 5px; width:430px; height:0px; border:1px solid #f4f4f4; } .waf-nc-description { margin-top: 70px; margin-left: 170px; font-size:12px; color:#333333; text-align: left; } #nocaptcha { margin-top: 40px; margin-left: 150px; width:300px; height36px;}</style><script src="//g.alicdn.com/sd/ncpc/nc.js?t=2053"></script><style>@charset "utf-8";
+@font-face{font-family:'nc_iconfont';src:url("//at.alicdn.com/t/font_1465353706_4784257.eot");src:url("//at.alicdn.com/t/font_1465353706_4784257.eot?#iefix") format('embedded-opentype'),url("//at.alicdn.com/t/font_1465353706_4784257.woff") format('woff'),url("//at.alicdn.com/t/font_1465353706_4784257.ttf") format('truetype'),url("//at.alicdn.com/t/font_1465353706_4784257.svg#iconfont") format('svg')}@font-face{font-family:'ncpc_iconfont';src:url("//at.alicdn.com/t/font_384029_rhzpmteb25oecdi.eot");src:url("//at.alicdn.com/t/font_384029_rhzpmteb25oecdi.eot?#iefix") format('embedded-opentype'),url("//at.alicdn.com/t/font_384029_rhzpmteb25oecdi.woff") format('woff'),url("//at.alicdn.com/t/font_384029_rhzpmteb25oecdi.ttf") format('truetype'),url("//at.alicdn.com/t/font_384029_rhzpmteb25oecdi.svg#ncpc_iconfont") format('svg')}.nc-container div#nc-loading-circle{background:transparent;width:20px;height:20px;display:inline-block;position:relative;vertical-align:middle}.nc-container div#nc-loading-circle .sk-circle{background:transparent;width:100%;height:100%;position:absolute;left:0;top:0}.nc-container #nc-loading-circle .sk-circle:before{content:'';display:block;margin:0 auto;width:15%;height:15%;background-color:#818181;border-radius:100%;-webkit-animation:sk-circleFadeDelay 1.2s infinite ease-in-out both;animation:sk-circleFadeDelay 1.2s infinite ease-in-out both}.nc-container #nc-loading-circle .sk-circle2{-webkit-transform:rotate(30deg);-ms-transform:rotate(30deg);transform:rotate(30deg)}.nc-container #nc-loading-circle .sk-circle3{-webkit-transform:rotate(60deg);-ms-transform:rotate(60deg);transform:rotate(60deg)}.nc-container #nc-loading-circle .sk-circle4{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}.nc-container #nc-loading-circle .sk-circle5{-webkit-transform:rotate(120deg);-ms-transform:rotate(120deg);transform:rotate(120deg)}.nc-container #nc-loading-circle .sk-circle6{-webkit-transform:rotate(150deg);-ms-transform:rotate(150deg);transform:rotate(150deg)}.nc-container #nc-loading-circle .sk-circle7{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.nc-container #nc-loading-circle .sk-circle8{-webkit-transform:rotate(210deg);-ms-transform:rotate(210deg);transform:rotate(210deg)}.nc-container #nc-loading-circle .sk-circle9{-webkit-transform:rotate(240deg);-ms-transform:rotate(240deg);transform:rotate(240deg)}.nc-container #nc-loading-circle .sk-circle10{-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}.nc-container #nc-loading-circle .sk-circle11{-webkit-transform:rotate(300deg);-ms-transform:rotate(300deg);transform:rotate(300deg)}.nc-container #nc-loading-circle .sk-circle12{-webkit-transform:rotate(330deg);-ms-transform:rotate(330deg);transform:rotate(330deg)}.nc-container #nc-loading-circle .sk-circle2:before{-webkit-animation-delay:-1.1s;animation-delay:-1.1s}.nc-container #nc-loading-circle .sk-circle3:before{-webkit-animation-delay:-1s;animation-delay:-1s}.nc-container #nc-loading-circle .sk-circle4:before{-webkit-animation-delay:-.9s;animation-delay:-.9s}.nc-container #nc-loading-circle .sk-circle5:before{-webkit-animation-delay:-.8s;animation-delay:-.8s}.nc-container #nc-loading-circle .sk-circle6:before{-webkit-animation-delay:-.7s;animation-delay:-.7s}.nc-container #nc-loading-circle .sk-circle7:before{-webkit-animation-delay:-.6s;animation-delay:-.6s}.nc-container #nc-loading-circle .sk-circle8:before{-webkit-animation-delay:-.5s;animation-delay:-.5s}.nc-container #nc-loading-circle .sk-circle9:before{-webkit-animation-delay:-.4s;animation-delay:-.4s}.nc-container #nc-loading-circle .sk-circle10:before{-webkit-animation-delay:-.3s;animation-delay:-.3s}.nc-container #nc-loading-circle .sk-circle11:before{-webkit-animation-delay:-.2s;animation-delay:-.2s}.nc-container #nc-loading-circle .sk-circle12:before{-webkit-animation-delay:-.1s;animation-delay:-.1s}@-webkit-keyframes sk-circleFadeDelay{0%,39%,100%{opacity:0}40%{opacity:1}}@-webkit-keyframes sk-circleFadeDelay{0%,39%,100%{opacity:0}40%{opacity:1}}@keyframes sk-circleFadeDelay{0%,39%,100%{opacity:0}40%{opacity:1}}.nc-container .scale_text2 #nc-loading-circle .sk-circle:before{background-color:#fff}.nc_iconfont{font-family:"nc_iconfont";color:#ff3f08;font-size:16px;font-style:normal}.ncpc_iconfont{font-family:"ncpc_iconfont";color:#ff3f08;font-size:16px;font-style:normal}.captcha-error .icon_ban{float:left;font-size:16px;padding-right:5px;line-height:14px}.clickCaptcha_text .btn_refresh{font-style:normal;cursor:pointer;background:#fff;color:#737383}.imgCaptcha .btn_refresh{font-size:20px;cursor:pointer;background:#fff;color:#737383}.nc_voice{display:none;position:relative;margin-top:-34px;z-index:99;width:auto;height:34px;background:#fff}.omeo-code-img,.omeo-code-audio{font-size:0;text-align:left}.omeo-code-audiobox,.omeo-code-img a,.omeo-code-audio a,.omeo-code-state{display:inline-block;*display:inline;zoom:1;height:32px;vertical-align:top;font-size:12px}.omeo-code .omeo-code-refresh{background:transparent;width:32px;height:32px;font-size:20px;color:#888;text-align:center;text-decoration:none;padding-left:4px;line-height:32px}.omeo-code .omeo-switch{display:none;width:32px;height:32px;border-left:1px solid #e1e1e1;background-image:url("//g.alicdn.com/sd/ncpc/images/checkcode.png");background-repeat:no-repeat}.omeo-img-active .omeo-code-img{display:block}.omeo-img-active .omeo-code-audio{display:none}.omeo-code-img img{border:1px solid #cdcdcd;cursor:pointer}.omeo-code-img .omeo-switch{background-position:9px -41px}.omeo-audio-active .omeo-code-audio{display:block}.omeo-audio-active .omeo-code-img{display:none}.omeo-code-refresh{position:relative;left:95px}.omeo-code-audiobox{position:relative;height:30px;line-height:32px;border:1px solid #e1e1e1;text-align:center;overflow:hidden;left:100px;top:1px;width:45%;min-width:80px;background-color:#eee}.omeo-code-audiobox a{display:block;text-decoration:none;color:#06c}.omeo-code-audiobox-playing a{visibility:hidden}.omeo-code-audiobox span,.omeo-code-audiobox b{visibility:hidden;position:absolute;top:0;left:0;height:30px;font-weight:100;overflow:hidden}.omeo-code-audiobox-playing span,.omeo-code-audiobox-playing b{visibility:visible}.omeo-code-audiobox span{z-index:0;width:0;background:#186bca}.omeo-code-audiobox b{width:100%;z-index:1;text-align:left;text-indent:30px;color:#999;background:url("//g.alicdn.com/sd/ncpc/images/checkcode.png") no-repeat 14px -89px}.omeo-code-audio .omeo-switch{background-position:5px 10px}input[type=text]::-ms-clear{display:none}.omeo-box{position:relative;background-color:#fff}.omeo-code-echo{position:absolute;top:2px;left:2px}.omeo-code-echo input{padding:5px;height:18px;line-height:18px;border:1px solid #ddd;width:80px;outline:0}.omeo-code-state{height:30px;line-height:30px;text-indent:25px;white-space:nowrap;background-image:url("//g.alicdn.com/sd/ncpc/images/checkcode.png");background-repeat:no-repeat;background-position:100px 100px}.omeo-code-echo .omeo-code-state-error{width:auto;background-position:7px -193px}.omeo-code-echo .omeo-code-state-success{position:absolute;width:30px;background-position:7px -243px}.omeo-code-state{position:absolute;left:0;top:28px}.nc_voice_close{display:inline-block;position:relative;cursor:pointer;left:95px;top:0;border-left:#ddd 2px solid;padding:0 0 0 7px;background-color:#fff;font-size:20px;color:#888;line-height:32px}.nc_help{position:absolute;width:100%;height:100%;left:0;top:0;z-index:99999}.nc_help .mask{background-color:#000;opacity:.5;filter:alpha(opacity=50);width:100%;height:100%;top:0;left:0}.nc_btn_close{position:absolute;height:20px;left:500px;border-radius:20px;padding:10px 30px;background-color:#aaa;color:#fff;cursor:pointer;z-index:10}.nc_btn_close:hover{background-color:#afafaf}.nc_hand{position:absolute;width:68px;height:53px;background-image:url("//g.alicdn.com/sd/ncpc/images/hand.png");z-index:3}.nc_slide_bg{z-index:3;font-size:12px;text-align:center;color:#fff;line-height:34px}.nc_voicebtn{position:absolute;padding:0;right:-25px;font-size:23px;color:#888;cursor:pointer;line-height:34px}.nc_helpbtn{position:absolute;cursor:pointer;right:-95px;top:4px;font-size:12px;background-color:#ffb668;color:#fff;padding:4px;border-radius:2px;line-height:18px;display:none}.nc_helpbtn:before{width:0;height:0;content:"";position:absolute;left:-2px;top:6px;border-top:4px solid transparent;border-bottom:4px solid transparent;border-right:4px solid #ffb668}.nc-container .errloading{border:#faf1d5 1px solid;text-indent:3px;background-image:none;font-size:12px;width:290px;line-height:20px;padding:7px 5px 8px 5px;color:#ef9f06;}.nc-container .errloading a{color:#30a7fc}.nc_captcha_text .nc_err{float:left;text-indent:0}.button_move{transition:left .5s;-moz-transition:left .5s;-webkit-transition:left .5s;-o-transition:left .5s}.bg_move{transition:width .5s;-moz-transition:width .5s;-webkit-transition:width .5s;-o-transition:width .5s}.nc_slide_box{position:absolute}.nc_captcha_text{height:auto;line-height:20px;visibility:hidden;font-size:12px;color:#999;font-weight:normal}.nc-container .nc_captcha_img_text{width:auto;height:auto;line-height:20px;visibility:hidden;font-size:12px;color:#999;font-weight:normal;display:none;padding:0 0 10px 0;background-position:0 0;}.nc-container .nc_captcha_img_text span.nc-lang-cnt{line-height:inherit}.nc-container .imgCaptcha .nc_captcha_img_text{width:auto}.nc_captcha_img_text{height:auto;line-height:20px;visibility:hidden;font-size:12px;color:#999;font-weight:normal;display:none;padding:0 0 10px 3px;background-position:0 0}.nc-container .nc_wrapper{width:auto}.nc_scale{width:auto;height:34px;background:#e8e8e8;position:relative;margin:0;padding:0}.nc_scale.is_audio{margin-right:25px}.nc-container .nc_scale div{height:auto}.nc-container .nc_scale ul{list-style:none}.nc-container .nc_scale .btn_slide{color:#737383;background-image:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.nc-container .nc_scale span{text-align:center;width:40px;height:32px;line-height:32px;border:1px solid #ccc;position:absolute;left:0;cursor:move;background:#fff;z-index:2}.nc-container .nc_scale span.nc-lang-cnt{*line-height:34px;float:none;width:auto;height:auto;*height:34px;border:none;position:static;cursor:inherit;background:none;z-index:0;display:inline}.nc_slide_button{width:40px;height:32px;border:1px solid #ccc;position:absolute;left:0;cursor:move;background:#fff url("//g.alicdn.com/sd/ncpc/images/rt.png") no-repeat center;z-index:2}@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none){.nc_scale span{height:32px}}.nc-container .nc_scale .btnok{cursor:default;background:#fff url("//g.alicdn.com/sd/ncpc/images/yes.png") no-repeat center;z-index:3}.nc-container .nc_scale .btnok2{cursor:default;font-size:20px;background:#fff url("//g.alicdn.com/sd/ncpc/images/no.png") no-repeat center;z-index:3}.nc-container .nc_scale .btn_warn{cursor:default;color:#ff3f08;line-height:34px;text-align:center;font-size:20px;background:#fff;z-index:3}.nc-container .clickCaptcha_text .btn_refresh{font-size:20px}.nc-container .clickCaptcha_text .icon_close{line-height:30px;margin-left:8px;cursor:default;color:#ff3f08;font-size:16px;float:left;margin-right:2px;background:transparent;z-index:3}.nc-container .nc_captcha_img_text .icon_close{cursor:default;color:#ff3f08;font-size:16px;float:left;margin-right:4px;background:transparent;z-index:3;line-height:18px}.nc-container .errloading .icon_warn{cursor:default;color:#ff3f08;font-size:18px;float:left;background:transparent;z-index:3}.nc-container .nc_scale .btn_ok{cursor:default;line-height:34px;text-align:center;font-size:20px;background:#fff;z-index:3;color:#76c61d}.nc-container .nc_scale .nc_ok,.nc-container .nc_scale .nc_bg{background:#7ac23c}.nc-container .nc_scale .nc_bg{position:absolute;height:100%;_height:34px;left:0;width:10px}.nc-container .nc_scale div.redbar{background:#fc461e;opacity:.5;filter:alpha(opacity=50)}.nc-container .nc_scale div.orange{background:#f00}.nc-container .nc_scale .scale_text{width:100%;height:100%;text-align:center;position:absolute;z-index:1;background:transparent;color:#9c9c9c;line-height:34px;font-size:12px;cursor:pointer}.nc-container .nc_scale .scale_text2{text-align:left;color:#fff;font-size:12px;text-indent:10px}.nc-container .nc_scale .scale_text2 b{padding-left:0;font-weight:normal}.nc-container .nc_scale .scale_text.scale_loading_text{text-align:center}.nc-container .nc_scale .imgCaptcha,.nc-container .nc_scale .clickCaptcha{display:none;overflow:hidden;border:1px solid #ccc;background:#fff;z-index:20000;}.nc-container .nc_scale .imgCaptcha p.error span,.nc-container .nc_scale .clickCaptcha p.error span{line-height:normal}.nc-container .nc_scale .imgCaptcha{height:auto}.nc-container .nc_scale .clickCaptcha{position:absolute;left:0;top:35px;height:270px;background:#fff;display:none;}.nc-container .nc_scale .clickCaptcha p.error i{color:#ff3f08;font-style:normal}.nc-container .nc_scale .clickCaptcha div{position:static;clear:both;width:100%;background:#fff;height:auto}.nc-container .nc_scale .clickCaptcha .clickCaptcha_text{height:30px;line-height:30px;font-size:12px;color:#999;}.nc-container .nc_scale .clickCaptcha .clickCaptcha_text b{font-weight:normal}.nc_btn_2{position:absolute;right:0;top:0;cursor:pointer;margin:2px 9px 0 0}.nc_iconfont.nc_btn_2{position:absolute;right:0;top:0;cursor:pointer}.nc_iconfont.nc_btn_1{position:absolute;top:10px;right:5px}.nc_btn_1{top:10px;right:10px}.scale_text i{font-style:normal;border:none;position:static;cursor:default;color:#fffc00;background:none;display:inline;width:100%}.nc-container .clickCaptcha .clickCaptcha_img{margin:0 auto;clear:both;position:relative;}.nc-container .clickCaptcha .clickCaptcha_img img{width:230px;height:230px;margin-left:10px;margin-top:5px}.nc-container .clickCaptcha .clickCaptcha_btn{margin:10px 0 0 15px;position:relative;text-align:left;}.nc-container .clickCaptcha .clickCaptcha_btn img{cursor:pointer}.nc-container .imgCaptcha{position:absolute;left:0;top:35px;height:auto;padding-bottom:15px;border:1px solid #ccc;background:#fff;}.nc-container .imgCaptcha div{position:static;width:90%;background-color:#fff}.nc-container .imgCaptcha,.nc-container .clickCaptcha{text-align:left;}.nc-container .imgCaptcha a,.nc-container .clickCaptcha a{color:#ff3f08}.nc-container .imgCaptcha .imgCaptcha_text{height:42px;line-height:42px;width:120px;background:#fff;font-size:14px;text-align:left;color:#747474;float:left;margin-left:10px;}.nc-container .imgCaptcha .imgCaptcha_text input{margin-top:5px;height:30px;line-height:30px;font-size:14px;width:90px;background:#fff}.nc-container .imgCaptcha .imgCaptcha_text input:focus{outline:none;color:#bbb}.nc-container .imgCaptcha .imgCaptcha_btn{margin:0 0 0 12px;*margin-left:0;clear:both;padding-top:5px;width:90%;}.nc-container .imgCaptcha .imgCaptcha_btn img{cursor:pointer}.nc-container .imgCaptcha .nc_scale_submit{margin:0 auto;cursor:pointer;background-color:#fc461e;width:120px;height:32px;line-height:32px;color:#fff;text-align:center}.nc-container .imgCaptcha .imgCaptcha_img{margin:4px 0 0 100px;height:40px;width:130px;overflow:hidden;cursor:pointer;}.nc-container .imgCaptcha .imgCaptcha_img img{width:130px}.nc-container .imgCaptcha .imgCaptcha_img input{border:solid 1px #ccc}.nc-lang-ar_MA,.nc-lang-ar_SA,.nc-lang-iw_HE,.nc-lang-iw_IL{text-align:right;*text-align:left;}.nc-lang-ar_MA .nc_scale .scale_text2,.nc-lang-ar_SA .nc_scale .scale_text2,.nc-lang-iw_HE .nc_scale .scale_text2,.nc-lang-iw_IL .nc_scale .scale_text2{text-align:right;}.nc-lang-ar_MA .nc_scale .scale_text2 span,.nc-lang-ar_SA .nc_scale .scale_text2 span,.nc-lang-iw_HE .nc_scale .scale_text2 span,.nc-lang-iw_IL .nc_scale .scale_text2 span{*display:inline-block;padding:0 56px 0 0}.nc-lang-ar_MA .nc_captcha_img_text,.nc-lang-ar_SA .nc_captcha_img_text,.nc-lang-iw_HE .nc_captcha_img_text,.nc-lang-iw_IL .nc_captcha_img_text{*text-align:right}.nc-lang-ar_MA span.nc-lang-cnt,.nc-lang-ar_SA span.nc-lang-cnt,.nc-lang-iw_HE span.nc-lang-cnt,.nc-lang-iw_IL span.nc-lang-cnt{text-align:right;direction:rtl}.nocaptcha span.nc-lang-cnt{float:none;height:auto;line-height:30px}.nc-container{font-size:12px;-ms-touch-action:none;touch-action:none;}.nc-container p{margin:0;padding:0;display:inline}.nc-container .scale_text.scale_text span[data-nc-lang="_startTEXT"]{display:inline-block;width:100%}.nc-container .scale_text.scale_text.slidetounlock span[data-nc-lang="_startTEXT"]{background:-webkit-gradient(linear,left top,right top,color-stop(0,#4d4d4d),color-stop(.4,#4d4d4d),color-stop(.5,#fff),color-stop(.6,#4d4d4d),color-stop(1,#4d4d4d));-webkit-background-clip:text;-webkit-text-fill-color:transparent;-webkit-animation:slidetounlock 3s infinite;-webkit-text-size-adjust:none}.nc-container .nc_scale .nc-align-center.scale_text2{text-align:center;text-indent:-42px}@-webkit-keyframes slidetounlock{0%{background-position:-200px 0}100%{background-position:200px 0}}.nc-container.tb-login .clickCaptcha_text .icon_close{line-height:30px;margin-left:0;cursor:default;color:#ff3f08;font-size:16px;float:left;margin-right:0;background:transparent;z-index:3}.nc-container.tb-login{position:relative;margin-top:20px;display:none;}.nc-container.tb-login .nc_scale{width:auto;}.nc-container.tb-login .nc_scale .scale_text2{text-indent:-42px;text-align:center;}.nc-container.tb-login .nc_scale .scale_text2 b{padding:0}.nc-container.tb-login .nc_scale.nc_err div.scale_text{background:#f79977}.nc-container.tb-login .errloading{width:auto}.nc-container.tb-login .imgCaptcha,.nc-container.tb-login .clickCaptcha{width:252px;*width:256px;border:0;*height:300px;min-height:300px;max-height:inherit !important;}.nc-container.tb-login .imgCaptcha div.login-msg.error,.nc-container.tb-login .clickCaptcha div.login-msg.error{background:#fff2f2}.nc-container.tb-login .imgCaptcha .captcha-error,.nc-container.tb-login .clickCaptcha .captcha-error{position:absolute;top:0;width:244px;height:auto;margin-bottom:15px;padding:3px;border:solid 1px #ff8e8e;line-height:18px}.nc-container.tb-login .imgCaptcha .captcha-inform,.nc-container.tb-login .clickCaptcha .captcha-inform{font-size:110%;margin-left:20px}.nc-container.tb-login .imgCaptcha{padding-top:66px;}.nc-container.tb-login .imgCaptcha .imgCaptcha_text{width:100px;margin-left:0;}.nc-container.tb-login .imgCaptcha .imgCaptcha_text input:focus{color:#000}.nc-container.tb-login .imgCaptcha .imgCaptcha_img{width:120px;_width:100px}.nc-container.tb-login .imgCaptcha .imgCaptcha_btn{width:100%;margin-left:0}.nc-container.tb-login .imgCaptcha .nc_scale_submit{width:100%;height:36px;line-height:36px;margin-top:20px;margin-left:0;border-radius:3px;font-size:16px;font-family:Tahoma,Helvetica,Arial,sans-serif;background:#ff3f08}.nc-container.tb-login .clickCaptcha{padding-top:40px;}.nc-container.tb-login .clickCaptcha .clickCaptcha_text{text-indent:4px}.nc-container.tb-login .clickCaptcha .clickCaptcha_img img{margin-left:10px}.nc-container.tb-login .nc_btn_1{top:77px;_top:57px}.nc-container.tb-login .nc_btn_2{top:36px}.login .nc-container.tb-login .login-msg p,.login-box .nc-container.tb-login .login-msg p{width:auto;float:left}.nc-container.tb-login.nc-old-login{margin:20px 0 10px 0;width:250px;}.nc-container.tb-login.nc-old-login .nc_wrapper{width:250px}.nc-container.tb-login.nc-old-login .imgCaptcha,.nc-container.tb-login.nc-old-login .clickCaptcha{width:250px;min-height:auto;}.nc-container.tb-login.nc-old-login .imgCaptcha .captcha-error,.nc-container.tb-login.nc-old-login .clickCaptcha .captcha-error{line-height:16px}.nc-container.tb-login.nc-old-login .clickCaptcha{padding-top:28px;}.nc-container.tb-login.nc-old-login .clickCaptcha .clickCaptcha_img img{width:200px;height:200px}.nc-container.nc-old-login.show-click-captcha{padding-bottom:60px}.nc-container.nc-old-login.show-click-captcha.nc-tm-min-fix{padding-bottom:40px}.nc-container.tb-login.nc-tm-min-fix .clickCaptcha{max-height:340px !important}#content .login-box .bd .nc-container.tb-login .login-msg{margin:10px auto 15px auto}#content .login-box .bd .nc-container.tb-login.nc-old-login.show-click-captcha .login-msg{margin:2px 0 0 0}.nc-container .nc_scale .nc-cc{display:none;position:absolute;left:0;top:35px;z-index:20000;width:360px;height:570px;border:1px solid #5eaef1;border-radius:4px;background:#fff;font-size:14px;line-height:18px;color:#333;}.nc-container .nc_scale .nc-cc.nc-cc-status-loading .nc-cc-btn,.nc-container .nc_scale .nc-cc.nc-cc-status-verifing .nc-cc-btn{background-color:#90c1eb}.nc-container .nc_scale .nc-cc.nc-cc-status-loading .nc-cc-btn,.nc-container .nc_scale .nc-cc.nc-cc-status-verifing .nc-cc-btn,.nc-container .nc_scale .nc-cc.nc-cc-status-loading .nc-cc-refresh,.nc-container .nc_scale .nc-cc.nc-cc-status-verifing .nc-cc-refresh{cursor:default}.nc-container .nc_scale .nc-cc.nc-cc-status-loading .nc-cc-refresh,.nc-container .nc_scale .nc-cc.nc-cc-status-verifing .nc-cc-refresh{color:#999}.nc-container .nc_scale .nc-cc a{color:#3199f4;text-decoration:none}.nc-container .nc_scale .nc-cc .nc_iconfont{vertical-align:top;margin-right:8px}.nc-container .nc_scale .nc-cc-btn{display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;word-spacing:normal;width:100px;line-height:30px;text-align:center;background-color:#3199f4;color:#fff;border-radius:4px;cursor:pointer;}.nc-container .nc_scale .nc-cc-btn.nc-cc-disabled{background-color:#90c1eb;cursor:default}.nc-container .nc_scale .nc-cc-btn .nc-lang-cnt{line-height:18px}.nc-container .nc_scale .nc-cc-header{padding:20px 20px 19px 20px;height:100px;background:#f4f8fa;border-bottom:1px solid #ccc}.nc-container .nc_scale .nc-cc-img1-box{float:left;width:100px;height:100px;margin-right:16px}.nc-container .nc_scale .nc-cc-txt{overflow:hidden;*zoom:1;line-height:30px;padding-top:11px}.nc-container .nc_scale .nc-cc-img2-box{position:relative;padding:0 20px;margin-top:20px}.nc-container .nc_scale .nc-cc-items{position:absolute;left:20px;_left:0;top:0;width:320px;overflow:hidden}.nc-container .nc_scale .nc-cc-items-inner{margin-right:-20px}.nc-container .nc_scale .nc-cc-item{position:relative;display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;word-spacing:normal;margin-right:10px;margin-bottom:10px;border:1px solid #ccc;width:98px;height:98px;background:url("//gtms02.alicdn.com/tps/i2/T1ty2QFNNXXXc6Yc2r-1-1.gif");}.nc-container .nc_scale .nc-cc-item:hover{border-color:#3199f4}.nc-container .nc_scale .nc-cc-item .nc_iconfont{display:none;position:absolute;right:0;bottom:0;color:#3199f4;font-size:22px;margin-right:0}.nc-container .nc_scale .nc-cc-item.nc-cc-selected .nc_iconfont{display:block}.nc-container .nc_scale .nc-cc-tip{display:none;position:absolute;left:0;bottom:60px;width:360px;line-height:18px;text-align:center;color:#eb4f38;}.nc-container .nc_scale .nc-cc-tip span{line-height:normal}.nc-container .nc_scale .nc-cc-footer{position:absolute;left:0;bottom:20px;width:360px;height:30px;line-height:30px;text-align:center;}.nc-container .nc_scale .nc-cc-footer .nc_iconfont{color:#c4cbd0}.nc-container .nc_scale .nc-cc-refresh,.nc-container .nc_scale .nc-cc-wait{position:absolute;left:20px;top:0;color:#3199f4;cursor:pointer}.nc-container .nc_scale .nc-cc-wait{display:none}.nc-container .nc_scale .nc-cc-cancel{position:absolute;right:20px;top:0;color:#3199f4;cursor:pointer;}.nc-container .nc_scale .nc-cc-cancel .nc_iconfont{position:relative;top:-1px}.nc-container .nc_scale .nc-cc-loading{margin-top:247px;text-align:center;line-height:14px}.nc-container .nc_scale .nc-cc-loading-img{display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;word-spacing:normal;vertical-align:middle;background:url("//img.alicdn.com/tps/TB1OdxsKpXXXXcgXFXXXXXXXXXX-14-14.gif") no-repeat;width:14px;height:14px;position:relative;top:-1px;margin-right:9px}.nc-container .nc_scale .nc-cc-fail{position:absolute;left:50%;top:50%;width:320px;height:180px;margin-left:-160px;margin-top:-90px;background:#fff;border-radius:4px}.nc-container .nc_scale .nc-cc-fail-inner{text-align:center;padding:55px 10px 10px}.nc-container .nc_scale .nc-cc-fail-action{margin:28px 0 18px;}.nc-container .nc_scale .nc-cc-fail-action a{display:inline-block;*display:inline;*zoom:1;vertical-align:top;letter-spacing:normal;word-spacing:normal;line-height:30px;margin-left:16px}.nc-container .nc_scale .nc-cc-contact{text-align:right;color:#666;padding-right:9px}.nc-container .nc_scale .nc-cc-mask{display:none;position:absolute;left:0;top:0;width:360px;height:570px;background:rgba(0,0,0,0.3);filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#4C000000', endColorstr='#4C000000');}:root .nc-container .nc_scale .nc-cc-mask{-webkit-filter:none;filter:none}.nc-container .nc_scale .nc-cc-arrow-1,.nc-container .nc_scale .nc-cc-arrow-2{display:none;position:absolute;top:340px;border:solid transparent;height:0;width:0}.nc-container .nc_scale .nc-cc-arrow-1{border-width:16px;margin-top:-1px}.nc-container .nc_scale .nc-cc-arrow-2{border-width:15px}.nc-container .nc_scale .nc-cc-right .nc-cc-arrow-1,.nc-container .nc_scale .nc-cc-left .nc-cc-arrow-1,.nc-container .nc_scale .nc-cc-right .nc-cc-arrow-2,.nc-container .nc_scale .nc-cc-left .nc-cc-arrow-2{display:block;_display:none}.nc-container .nc_scale .nc-cc-right{left:180px;top:-339px;}.nc-container .nc_scale .nc-cc-right .nc-cc-arrow-1{border-right-color:#5eaef1;left:-32px}.nc-container .nc_scale .nc-cc-right .nc-cc-arrow-2{border-right-color:#fff;left:-30px}.nc-container .nc_scale .nc-cc-left{left:-335px;top:-339px;}.nc-container .nc_scale .nc-cc-left .nc-cc-arrow-1{border-left-color:#5eaef1;right:-32px}.nc-container .nc_scale .nc-cc-left .nc-cc-arrow-2{border-left-color:#fff;right:-30px}</style><script type="text/javascript" src="https://js.51jobcdn.com/in/js/2016/trace/trackData.js?20180206"></script></head>
+<body>
+<div class="header">
+    <!-- bar start -->
+    <div class="bar">
+        <div class="in">
+            <div class="language">
+                <ul id="languagelist">
+                    <li class="tle"><span class="list">简</span></li><li class="last"><a href="//www.51job.com/default-e.php" rel="external nofollow">EN</a></li>                </ul>
+            </div>
+            <span class="l">&nbsp;</span>
+            <div class="app">
+                <ul>
+                    <li><em class="e_icon"></em><a href="http://app.51job.com/index.html">APP下载</a></li>
+                    <li>
+                        <img width="80" height="80" src="//img06.51jobcdn.com/im/2016/code/new_app.png" alt="app download">
+                        <p><a href="http://app.51job.com/index.html">APP下载</a></p>
+                    </li>
+                </ul>
+            </div>
+            <div class="uer">
+                                    <p class="op">
+                        <a href="https://login.51job.com/login.php?lang=c&amp;url=http%3A%2F%2Fjobs.51job.com%2Fhangzhou-yhq%2F132710459.html%3Fs%3Dsou_sou_soulb%26t%3D0_0" rel="external nofollow">登录</a> / <a href="https://login.51job.com/register.php?lang=c&amp;url=http%3A%2F%2Fjobs.51job.com%2Fhangzhou-yhq%2F132710459.html%3Fs%3Dsou_sou_soulb%26t%3D0_0" rel="external nofollow">注册</a>                    </p>
+                            </div>
+			<p class="rlk">
+                <a href="//baike.51job.com" target="_blank">职场百科</a>
+                <span class="lb">&nbsp;</span>
+                <a href="//wenku.51job.com" target="_blank">职场文库</a>
+                <span class="lb">&nbsp;</span>
+                <a href="https://jobs.51job.com" target="_blank">招聘信息</a>                <span class="lb">&nbsp;</span>
+                <a href="https://ehire.51job.com" target="_blank">企业服务</a>            </p>
+        </div>
+    </div>
+    <!-- top end -->
+    <!-- 英文版为body添加class -->
+    <script>
+            </script>
+    <!-- nag start -->
+    <div class="pop-city" style="display:none;position: absolute; z-index: 1000;" id="area_channel_layer">
+    <div class="tle">
+        地区选择        <em class="close" onclick="jvascript:$('#area_channel_layer,#area_channel_layer_backdrop').hide();"></em>
+    </div>
+    <div class="pcon">
+        <div class="ht">
+            <label>热门城市</label><a href="//www.51job.com/beijing/">北京</a><a href="//www.51job.com/shanghai/">上海</a><a href="//www.51job.com/guangzhou/">广州</a><a href="//www.51job.com/shenzhen/">深圳</a><a href="//www.51job.com/wuhan/">武汉</a><a href="//www.51job.com/xian/">西安</a><a href="//www.51job.com/hangzhou/">杭州</a><a href="//www.51job.com/nanjing/">南京</a><a href="//www.51job.com/chengdu/">成都</a><a href="//www.51job.com/chongqing/">重庆</a>        </div>
+        <div class="cbox">
+            <ul id="area_channel_layer_list">
+                <li class="on" onclick="areaChannelChangeTab('abc', this)">A B C</li>
+                <li onclick="areaChannelChangeTab('def', this)">D E F</li>
+                <li onclick="areaChannelChangeTab('gh', this)">G H</li>
+                <li onclick="areaChannelChangeTab('jkl', this)">J K L</li>
+                <li onclick="areaChannelChangeTab('mnp', this)">M N P</li>
+                <li onclick="areaChannelChangeTab('qrs', this)">Q R S</li>
+                <li onclick="areaChannelChangeTab('twx', this)">T W X</li>
+                <li onclick="areaChannelChangeTab('yz', this)">Y Z</li>
+            </ul>
+            <div class="clst" id="area_channel_layer_all">
+                    <div class="e" name="area_channel_div_abc">
+        <span><a href="//www.51job.com/anshan/">鞍山</a></span>
+        <span><a href="//www.51job.com/anqing/">安庆</a></span>
+        <span><a href="//www.51job.com/anyang/">安阳</a></span>
+        <span><a href="//www.51job.com/beijing/">北京</a></span>
+        <span><a href="//www.51job.com/baotou/">包头</a></span>
+        <span><a href="//www.51job.com/baoding/">保定</a></span>
+        <span><a href="//www.51job.com/bengbu/">蚌埠</a></span>
+        <span><a href="//www.51job.com/baoji/">宝鸡</a></span>
+        <span><a href="//www.51job.com/binzhou/">滨州</a></span>
+        <span><a href="//www.51job.com/changchun/">长春</a></span>
+        <span><a href="//www.51job.com/changsha/">长沙</a></span>
+        <span><a href="//www.51job.com/chengdu/">成都</a></span>
+        <span><a href="//www.51job.com/chongqing/">重庆</a></span>
+        <span><a href="//www.51job.com/changzhou/">常州</a></span>
+        <span><a href="//www.51job.com/changde/">常德</a></span>
+        <span><a href="//www.51job.com/changshu/">常熟</a></span>
+        <span><a href="//www.51job.com/cangzhou/">沧州</a></span>
+        <span><a href="//www.51job.com/chaozhou/">潮州</a></span>
+        <span><a href="//www.51job.com/chenzhou/">郴州</a></span>
+        <span><a href="//www.51job.com/chifeng/">赤峰</a></span>
+        <span><a href="//www.51job.com/chuzhou/">滁州</a></span>
+        <span><a href="//www.51job.com/changzhi/">长治</a></span>
+    </div>
+    <div class="e" name="area_channel_div_def" style="display:none">
+        <span><a href="//www.51job.com/dalian/">大连</a></span>
+        <span><a href="//www.51job.com/dongguan/">东莞</a></span>
+        <span><a href="//www.51job.com/dandong/">丹东</a></span>
+        <span><a href="//www.51job.com/daqing/">大庆</a></span>
+        <span><a href="//www.51job.com/dazhou/">达州</a></span>
+        <span><a href="//www.51job.com/datong/">大同</a></span>
+        <span><a href="//www.51job.com/deyang/">德阳</a></span>
+        <span><a href="//www.51job.com/dezhou/">德州</a></span>
+        <span><a href="//www.51job.com/dongying/">东营</a></span>
+        <span><a href="//www.51job.com/errduosi/">鄂尔多斯</a></span>
+        <span><a href="//www.51job.com/ezhou/">鄂州</a></span>
+        <span><a href="//www.51job.com/fuzhou/">福州</a></span>
+        <span><a href="//www.51job.com/foshan/">佛山</a></span>
+        <span><a href="//www.51job.com/fushun/">抚顺</a></span>
+        <span><a href="//www.51job.com/fuzhoue/">抚州</a></span>
+        <span><a href="//www.51job.com/fuyang/">阜阳</a></span>
+    </div>
+    <div class="e" name="area_channel_div_gh" style="display:none">
+        <span><a href="//www.51job.com/guangzhou/">广州</a></span>
+        <span><a href="//www.51job.com/guiyang/">贵阳</a></span>
+        <span><a href="//www.51job.com/ganzhou/">赣州</a></span>
+        <span><a href="//www.51job.com/guangan/">广安</a></span>
+        <span><a href="//www.51job.com/guangyuan/">广元</a></span>
+        <span><a href="//www.51job.com/guigang/">贵港</a></span>
+        <span><a href="//www.51job.com/guilin/">桂林</a></span>
+        <span><a href="//www.51job.com/harbin/">哈尔滨</a></span>
+        <span><a href="//www.51job.com/hangzhou/">杭州</a></span>
+        <span><a href="//www.51job.com/hefei/">合肥</a></span>
+        <span><a href="//www.51job.com/haikou/">海口</a></span>
+        <span><a href="//www.51job.com/huhhot/">呼和浩特</a></span>
+        <span><a href="//www.51job.com/huizhou/">惠州</a></span>
+        <span><a href="//www.51job.com/hengyang/">衡阳</a></span>
+        <span><a href="//www.51job.com/huaian/">淮安</a></span>
+        <span><a href="//www.51job.com/huzhou/">湖州</a></span>
+        <span><a href="//www.51job.com/handan/">邯郸</a></span>
+        <span><a href="//www.51job.com/hanzhong/">汉中</a></span>
+        <span><a href="//www.51job.com/heyuan/">河源</a></span>
+        <span><a href="//www.51job.com/heze/">菏泽</a></span>
+        <span><a href="//www.51job.com/hengshui/">衡水</a></span>
+        <span><a href="//www.51job.com/huaihua/">怀化</a></span>
+        <span><a href="//www.51job.com/huaibei/">淮北</a></span>
+        <span><a href="//www.51job.com/huainan/">淮南</a></span>
+        <span><a href="//www.51job.com/huanggang/">黄冈</a></span>
+        <span><a href="//www.51job.com/huangshi/">黄石</a></span>
+    </div>
+    <div class="e" name="area_channel_div_jkl" style="display:none">
+        <span><a href="//www.51job.com/jinan/">济南</a></span>
+        <span><a href="//www.51job.com/jiaxing/">嘉兴</a></span>
+        <span><a href="//www.51job.com/jinhua/">金华</a></span>
+        <span><a href="//www.51job.com/jilin/">吉林</a></span>
+        <span><a href="//www.51job.com/jiangmen/">江门</a></span>
+        <span><a href="//www.51job.com/jingzhou/">荆州</a></span>
+        <span><a href="//www.51job.com/jining/">济宁</a></span>
+        <span><a href="//www.51job.com/jiujiang/">九江</a></span>
+        <span><a href="//www.51job.com/jian/">吉安</a></span>
+        <span><a href="//www.51job.com/jiaozuo/">焦作</a></span>
+        <span><a href="//www.51job.com/jieyang/">揭阳</a></span>
+        <span><a href="//www.51job.com/jinzhou/">锦州</a></span>
+        <span><a href="//www.51job.com/jinzhong/">晋中</a></span>
+        <span><a href="//www.51job.com/jingmen/">荆门</a></span>
+        <span><a href="//www.51job.com/kunming/">昆明</a></span>
+        <span><a href="//www.51job.com/kunshan/">昆山</a></span>
+        <span><a href="//www.51job.com/kaifeng/">开封</a></span>
+        <span><a href="//www.51job.com/lanzhou/">兰州</a></span>
+        <span><a href="//www.51job.com/langfang/">廊坊</a></span>
+        <span><a href="//www.51job.com/linyi/">临沂</a></span>
+        <span><a href="//www.51job.com/luoyang/">洛阳</a></span>
+        <span><a href="//www.51job.com/lianyungang/">连云港</a></span>
+        <span><a href="//www.51job.com/liuzhou/">柳州</a></span>
+        <span><a href="//www.51job.com/leshan/">乐山</a></span>
+        <span><a href="//www.51job.com/liaocheng/">聊城</a></span>
+        <span><a href="//www.51job.com/linfen/">临汾</a></span>
+        <span><a href="//www.51job.com/luan/">六安</a></span>
+        <span><a href="//www.51job.com/loudi/">娄底</a></span>
+        <span><a href="//www.51job.com/luzhou/">泸州</a></span>
+        <span><a href="//www.51job.com/luohe/">漯河</a></span>
+    </div>
+    <div class="e" name="area_channel_div_mnp" style="display:none">
+        <span><a href="//www.51job.com/mianyang/">绵阳</a></span>
+        <span><a href="//www.51job.com/maanshan/">马鞍山</a></span>
+        <span><a href="//www.51job.com/maoming/">茂名</a></span>
+        <span><a href="//www.51job.com/meishan/">眉山</a></span>
+        <span><a href="//www.51job.com/meizhou/">梅州</a></span>
+        <span><a href="//www.51job.com/nanjing/">南京</a></span>
+        <span><a href="//www.51job.com/ningbo/">宁波</a></span>
+        <span><a href="//www.51job.com/nanchang/">南昌</a></span>
+        <span><a href="//www.51job.com/nantong/">南通</a></span>
+        <span><a href="//www.51job.com/nanning/">南宁</a></span>
+        <span><a href="//www.51job.com/nanchong/">南充</a></span>
+        <span><a href="//www.51job.com/nanyang/">南阳</a></span>
+        <span><a href="//www.51job.com/neijiang/">内江</a></span>
+        <span><a href="//www.51job.com/ningde/">宁德</a></span>
+        <span><a href="//www.51job.com/pingdingshan/">平顶山</a></span>
+        <span><a href="//www.51job.com/putian/">莆田</a></span>
+        <span><a href="//www.51job.com/puyang/">濮阳</a></span>
+    </div>
+    <div class="e" name="area_channel_div_qrs" style="display:none">
+        <span><a href="//www.51job.com/qingdao/">青岛</a></span>
+        <span><a href="//www.51job.com/quanzhou/">泉州</a></span>
+        <span><a href="//www.51job.com/qinhuangdao/">秦皇岛</a></span>
+        <span><a href="//www.51job.com/qingyuan/">清远</a></span>
+        <span><a href="//www.51job.com/qiqihaer/">齐齐哈尔</a></span>
+        <span><a href="//www.51job.com/quzhou/">衢州</a></span>
+        <span><a href="//www.51job.com/qujing/">曲靖</a></span>
+        <span><a href="//www.51job.com/rizhao/">日照</a></span>
+        <span><a href="//www.51job.com/shanghai/">上海</a></span>
+        <span><a href="//www.51job.com/shenzhen/">深圳</a></span>
+        <span><a href="//www.51job.com/shenyang/">沈阳</a></span>
+        <span><a href="//www.51job.com/shijiazhuang/">石家庄</a></span>
+        <span><a href="//www.51job.com/suzhou/">苏州</a></span>
+        <span><a href="//www.51job.com/sanya/">三亚</a></span>
+        <span><a href="//www.51job.com/shaoxing/">绍兴</a></span>
+        <span><a href="//www.51job.com/shantou/">汕头</a></span>
+        <span><a href="//www.51job.com/shanwei/">汕尾</a></span>
+        <span><a href="//www.51job.com/shangqiu/">商丘</a></span>
+        <span><a href="//www.51job.com/shangrao/">上饶</a></span>
+        <span><a href="//www.51job.com/shaoguan/">韶关</a></span>
+        <span><a href="//www.51job.com/shaoyang/">邵阳</a></span>
+        <span><a href="//www.51job.com/shiyan/">十堰</a></span>
+        <span><a href="//www.51job.com/suizhou/">随州</a></span>
+        <span><a href="//www.51job.com/suining/">遂宁</a></span>
+        <span><a href="//www.51job.com/suqian/">宿迁</a></span>
+        <span><a href="//www.51job.com/suzhoue/">宿州</a></span>
+    </div>
+    <div class="e" name="area_channel_div_twx" style="display:none">
+        <span><a href="//www.51job.com/tianjin/">天津</a></span>
+        <span><a href="//www.51job.com/taiyuan/">太原</a></span>
+        <span><a href="//www.51job.com/taizhoue/">台州</a></span>
+        <span><a href="//www.51job.com/tangshan/">唐山</a></span>
+        <span><a href="//www.51job.com/taizhou/">泰州</a></span>
+        <span><a href="//www.51job.com/tieling/">铁岭</a></span>
+        <span><a href="//www.51job.com/taian/">泰安</a></span>
+        <span><a href="//www.51job.com/wuhan/">武汉</a></span>
+        <span><a href="//www.51job.com/wuxi/">无锡</a></span>
+        <span><a href="//www.51job.com/wenzhou/">温州</a></span>
+        <span><a href="//www.51job.com/urumqi/">乌鲁木齐</a></span>
+        <span><a href="//www.51job.com/wuhu/">芜湖</a></span>
+        <span><a href="//www.51job.com/weifang/">潍坊</a></span>
+        <span><a href="//www.51job.com/weihai/">威海</a></span>
+        <span><a href="//www.51job.com/weinan/">渭南</a></span>
+        <span><a href="//www.51job.com/xian/">西安</a></span>
+        <span><a href="//www.51job.com/xiamen/">厦门</a></span>
+        <span><a href="//www.51job.com/xuzhou/">徐州</a></span>
+        <span><a href="//www.51job.com/xiangyang/">襄阳</a></span>
+        <span><a href="//www.51job.com/xiangtan/">湘潭</a></span>
+        <span><a href="//www.51job.com/xianyang/">咸阳</a></span>
+        <span><a href="//www.51job.com/xining/">西宁</a></span>
+        <span><a href="//www.51job.com/xianning/">咸宁</a></span>
+        <span><a href="//www.51job.com/xiaogan/">孝感</a></span>
+        <span><a href="//www.51job.com/xinxiang/">新乡</a></span>
+        <span><a href="//www.51job.com/xinyang/">信阳</a></span>
+        <span><a href="//www.51job.com/xingtai/">邢台</a></span>
+        <span><a href="//www.51job.com/xuchang/">许昌</a></span>
+        <span><a href="//www.51job.com/xuancheng/">宣城</a></span>
+    </div>
+    <div class="e" name="area_channel_div_yz" style="display:none">
+        <span><a href="//www.51job.com/yantai/">烟台</a></span>
+        <span><a href="//www.51job.com/yangzhou/">扬州</a></span>
+        <span><a href="//www.51job.com/yichang/">宜昌</a></span>
+        <span><a href="//www.51job.com/yancheng/">盐城</a></span>
+        <span><a href="//www.51job.com/yiwu/">义乌</a></span>
+        <span><a href="//www.51job.com/yingkou/">营口</a></span>
+        <span><a href="//www.51job.com/yinchuan/">银川</a></span>
+        <span><a href="//www.51job.com/yangjiang/">阳江</a></span>
+        <span><a href="//www.51job.com/yibin/">宜宾</a></span>
+        <span><a href="//www.51job.com/yichune/">宜春</a></span>
+        <span><a href="//www.51job.com/yiyang/">益阳</a></span>
+        <span><a href="//www.51job.com/yongzhou/">永州</a></span>
+        <span><a href="//www.51job.com/yulin/">玉林</a></span>
+        <span><a href="//www.51job.com/yueyang/">岳阳</a></span>
+        <span><a href="//www.51job.com/yuncheng/">运城</a></span>
+        <span><a href="//www.51job.com/zhangzhou/">漳州</a></span>
+        <span><a href="//www.51job.com/zhengzhou/">郑州</a></span>
+        <span><a href="//www.51job.com/zhongshan/">中山</a></span>
+        <span><a href="//www.51job.com/zhuhai/">珠海</a></span>
+        <span><a href="//www.51job.com/zhenjiang/">镇江</a></span>
+        <span><a href="//www.51job.com/zhuzhou/">株洲</a></span>
+        <span><a href="//www.51job.com/zhanjiang/">湛江</a></span>
+        <span><a href="//www.51job.com/zhaoqing/">肇庆</a></span>
+        <span><a href="//www.51job.com/zhangjiagang/">张家港</a></span>
+        <span><a href="//www.51job.com/zibo/">淄博</a></span>
+        <span><a href="//www.51job.com/zaozhuang/">枣庄</a></span>
+        <span><a href="//www.51job.com/zhangjiakou/">张家口</a></span>
+        <span><a href="//www.51job.com/zhoukou/">周口</a></span>
+        <span><a href="//www.51job.com/zhumadian/">驻马店</a></span>
+        <span><a href="//www.51job.com/zunyi/">遵义</a></span>
+    </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+<div id="area_channel_layer_backdrop" class="layer_back_drop_class" style="z-index:999;position:absolute;z-index:999;left:0;top:0;display:none"></div>
+<script>
+
+    $(document).ready(function(){
+        $(window).resize(function(){
+            if(!$("#area_channel_layer").is(":hidden"))
+            {
+                setLayerPosition();
+            }
+        });
+    });
+
+    window.areaChannelChangeTab = function(sName, oEvent)
+    {
+        $("#area_channel_layer_all").children().hide();
+        $("#area_channel_layer_list").children().removeClass("on");
+        $(oEvent).addClass("on");
+        $("#area_channel_layer_all").children("div[name='area_channel_div_" + sName + "']").show();
+        $("#area_channel_layer_backdrop").show();
+    };
+
+    window.openAreaChannelLayer = function()
+    {
+        setLayerPosition();
+        $("#area_channel_layer,#area_channel_layer_backdrop").show();
+    };
+
+    window.setLayerPosition = function()
+    {
+        var dl = $(document).scrollLeft();
+        var dt = $(document).scrollTop();
+        var ww = $(document).width();
+        var dwh = $(document).height();
+        var wwh = $(window).height();
+        var ow = $("#area_channel_layer").width();
+        var oh = $("#area_channel_layer").height();
+        var fLeft = (ww - ow) / 2 + dl;
+        var fTop = (wwh - oh) * 382 / 1000 + dt;//黄金比例
+        $("#area_channel_layer").css({'left': Math.max(parseInt(fLeft), dl), 'top': Math.max(parseInt(fTop), dt)});
+        $("#area_channel_layer_backdrop").css({'width': ww + 'px', 'height': dwh + 'px'});
+    }
+</script>    <div class="nag" id="topIndex">
+        <div class="in">
+            <a href="//www.51job.com"><img class="logo" id="logo" width="90" height="40" src="//img06.51jobcdn.com/im/2016/logo/logo_blue.png" alt="前程无忧"></a>
+                                                                                <img class="slogen" id="slogen" width="162" height="17" src="//img01.51jobcdn.com/im/2016/header/slogen.png?1544426366">
+                            
+            <!-- Jobs频道使用 start -->
+                        <!-- Jobs频道使用 end -->
+            
+<p class="nlink">
+    <a class="" href="//www.51job.com/">首页</a>
+    <a class="" href="https://search.51job.com">职位搜索</a>
+    <a class="" href="javascript:openAreaChannelLayer();">地区频道</a>
+    <a class="" href="https://edu.51job.com" target="_blank">无忧学园</a>
+    <a class="" href="https://mkt.51job.com/careerpost/default_res.php">职场资讯</a>
+    <a class="" href="https://xy.51job.com/default-xs.php">校园招聘</a>
+    <a href="http://my.51job.com/my/gojingying.php?direct=https%3A%2F%2Fwww.51jingying.com%2Fcommon%2Fsearchcase.php%3F5CC4CE%3D1008" target="_blank">无忧精英</a>
+</p>        </div>
+    </div>
+    <!-- nag end -->
+    </div><input type="hidden" id="pageCode" value="10201">
+<input type="hidden" id="refdomain" value="">
+<input type="hidden" id="refpagecode" value="sou_sou_soulb">
+<div class="tCompany_reminder">
+    <div class="in"><strong>警示：</strong><span>求职过程中如果遇到违规收费、信息不实、以招聘名义的培训收费或者微信营销等虚假招聘行为，请点击</span><a href="javascript:showReportDiv();" class="a">立即举报</a><span>，并保留证据，维护自己的合法权益。更多</span><a target="_blank" href="https://help.51job.com/learnmore.html" class="a">详情</a><em class="close" id="closewarning"></em></div>
+</div>
+<div class="tCompanyPage">
+                <div class="tCompany_topbanner clearfix">
+            <div id="adTonglan" class="topbannerLink"><div><a href="https://ac.51job.com/phpAD/adtrace.php?ID=35501486" title="答题赢周边推广" target="_blank" onfocus="blur()"><img src="//img01.51jobcdn.com/im/mkt/tg/2021banner/zcwds/750_90.jpg" border="0" width="750" height="90"></a></div><div style="display:none;"><img src="//www.51job.com/ex/page_view.php/adid=35501486" width="0" border="0" height="0"></div></div><script type="text/javascript">var ads = new Array();ads[1] = '<div><a href="https://ac.51job.com/phpAD/adtrace.php?ID=35519987" title="简历优化" target="_blank" onfocus="blur()"><img src="//img01.51jobcdn.com/im/mkt/tg/2021banner/jltg1/750_90.jpg" border=0 width="750" height="90"></a></div><div style="display:none;"><img src="//www.51job.com/ex/page_view.php/adid=35519987"  width="0" border="0" height="0"/></div>';
+ads[2] = '<div><a href="https://ac.51job.com/phpAD/adtrace.php?ID=35524465" title="前程无忧51job服务号关注" target="_blank" onfocus="blur()"><img src="//img01.51jobcdn.com/im/mkt/tg/2019banner/wx/750_90.jpg" border=0 width="750" height="90"></a></div><div style="display:none;"><img src="//www.51job.com/ex/page_view.php/adid=35524465"  width="0" border="0" height="0"/></div>';
+ads[3] = '<div><a href="https://ac.51job.com/phpAD/adtrace.php?ID=35524739" title="培训频道" target="_blank" onfocus="blur()"><img src="//img01.51jobcdn.com/im/mkt/zn/banner/20200309/7501.jpg" border=0 width="750" height="90"></a></div><div style="display:none;"><img src="//www.51job.com/ex/page_view.php/adid=35524739"  width="0" border="0" height="0"/></div>';
+ads[4] = '<div><a href="https://ac.51job.com/phpAD/adtrace.php?ID=35501486" title="答题赢周边推广" target="_blank" onfocus="blur()"><img src="//img01.51jobcdn.com/im/mkt/tg/2021banner/zcwds/750_90.jpg" border=0 width="750" height="90"></a></div><div style="display:none;"><img src="//www.51job.com/ex/page_view.php/adid=35501486"  width="0" border="0" height="0"/></div>';
+var index = Math.floor(Math.random()*4+1);var ad = ads[index];if(ad){document.getElementById('adTonglan').innerHTML=ad;}</script><div class="topbannerList"><ul>
+ <li><a adid="35524467" onmousedown="return AdsClick(35524467)" href="https://mkt.51job.com/tg/lp_wx143/index.html" title="前程无忧51job服务号关注" target="_blank">老板要延长试用期，我该怎么办？</a></li>
+ <li><a adid="35524737" onmousedown="return AdsClick(35524737)" href="https://edu.51job.com/" title="培训频道" target="_blank">打造你的职场进阶之路</a></li>
+ <li><a adid="35505421" onmousedown="return AdsClick(35505421)" href="https://arts.51job.com/arts/05/449097.html" title="编辑部" target="_blank">连朋友圈都被征用，想离职</a></li>
+ <li><a adid="35505422" onmousedown="return AdsClick(35505422)" href="https://arts.51job.com/arts/05/449094.html" title="编辑部" target="_blank">工作为了什么，不提钱太苍白</a></li></ul></div>        </div>
+    
+        <div class="tCompany_center clearfix">
+        <div id="tHeader_mk" style="height:0"></div>
+<div class="tHeader tHjob">
+    <div class="in">
+        <div class="cn">
+                        <h1 title="后台数据主管">后台数据主管<input value="132710459" name="hidJobID" id="hidJobID" type="hidden" jt="0_0"></h1><strong>6-8千/月</strong>
+            <p class="cname">
+                <a href="https://jobs.51job.com/all/co4876184.html" target="_blank" title="浙江联运环境工程股份有限公司" class="catn">浙江联运环境工程股份有限公司<em class="icon_b i_link"></em></a>
+                                    <a track-type="jobsButtonClick" event-type="2" class="i_house" href="https://jobs.51job.com/all/co4876184.html?#syzw" target="_blank">查看所有职位</a>
+                            </p>
+            <p class="msg ltype" title="杭州-余杭区&nbsp;&nbsp;|&nbsp;&nbsp;1年经验&nbsp;&nbsp;|&nbsp;&nbsp;大专&nbsp;&nbsp;|&nbsp;&nbsp;招3人&nbsp;&nbsp;|&nbsp;&nbsp;07-31发布">杭州-余杭区&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;1年经验&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;大专&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;招3人&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;07-31发布</p>
+            <div class="jtag">
+                <div class="t1">
+                                        <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="op">
+            <a track-type="jobsButtonClick" event-type="1" class="but_sq" id="app_ck" href="javascript:void(0);" onclick="delivery('hidJobID', '1', '//i.51job.com', 'c', '', 'sou_sou_soulb', 'detail', '//img01.51jobcdn.com');return false;">	<img width="19" height="24" src="//img06.51jobcdn.com/im/jobs/but_sq_arr.png" alt="">申请职位</a>
+            <a track-type="jobsButtonClick" event-type="4" class="icon_b i_upline" id="132710459" target="_blank" href="//i.51job.com/userset/bounce_window_redirect.php?jobid=132710459&amp;redirect_type=2">竞争力分析</a>
+            <a track-type="jobsButtonClick" event-type="3" class="icon_b i_collect" href="javascript:void(0);" onclick="saveCollection('132710459');return false;">收藏</a>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>        <div class="tCompany_main">
+            <div class="tBorderTop_box">
+    <h2 class="prop">
+        <span class="bname">职位信息</span>
+            </h2>
+    <div class="bmsg job_msg inbox">
+        <p>1、根据业务发展需要，收集需求，协助团队后台工具搭建，以满足业务及团队发展使用；</p><p>2.有一定的数据运营能力，通过数据对业务发展进行监控、跟踪数据异常波动，发现问题及时反馈；</p><p>3、通过对业务了解及业务数据，形成分析语境，协助团队大件风控管理体系；</p><p>4、负责在部门内指导、监督、并组织实施绩效考核；</p><p>岗位要求：</p><p>1.有共享出行、外卖、配送、售后行业中工单、派单、调度类产品工作经验优先；</p><p>2.要求较高的逻辑性、数据分析和抽象能力，能够明确清楚各系统间的数据流转；</p><p>3.具备较好的抗压能力和决策能力，能够协调各方的需求，基于事实做出合理的决定；</p><p>4.具备良好的沟通能力，能够与业务部门、技术部门等进行有效的沟通；</p>
+                <div class="mt10">
+                                        <p class="fp"><span class="label">职能类别：</span><a class="el tdn" href="https://jobs.51job.com/hangzhou-yhq/shujuyunying/">数据运营</a></p>
+                                            </div>
+        <div class="share"><a track-type="jobsButtonClick" event-type="6" class="a" href="javascript:void(0);" onclick="weixinMa();">微信分享</a><div id="weixinMa_fx" style="display:none;"><img width="198" height="198" alt="二维码" org="https://jobs.51job.com/wx_qrcode.php?url=https%3A%2F%2Fm.51job.com%2Fsearch%2Fjobdetail.php%3Fjobid%3D132710459"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+    <div class="tBorderTop_box">
+        <h2><span class="bname">联系方式</span></h2>
+        <div class="bmsg inbox">
+                                                    <p class="fp"><span class="label">上班地址：</span>五洲路98号</p>
+                                    <a track-type="jobsButtonClick" event-type="7" class="icon_b i_map" href="javascript:void(0);" onclick="showMapIframe('https://search.51job.com/jobsearch/bmap/map.php?jobid=132710459', '五洲路98号');return false;">地图</a>
+                                        <div class="clear"></div>
+        </div>
+    </div>
+                                        <div class="tBorderTop_box">
+                    <h2><span class="bname">公司信息</span></h2>
+                    <div class="tmsg inbox">浙江联运环境工程股份有限公司（简称：联运环境）是一家致力于环境产业项目策划、建设、运营和维护的现代化、专业型上市企业，证券代码：839166。本公司成立于1996年，坐落在杭州市余杭区（临平）余杭经济开发区。公司于2016年11月挂牌上市。本公司是一家专业从事智能垃圾分类工程项目、技术开发、技术服务、技术咨询：计算机嵌入式设备的硬件、技术按揭网络工程技术、数据库应用技术、机电产品；计算机系统集成；环境工程施工项目、道路保洁工程项目、生活垃圾清运、城镇建筑垃圾清运、垃圾清理、河道保洁服务、物业管理服务、劳务派遣、园林绿化养护、市政下水道管网养护、市政设施维护、市政工程机械设备销售、安装及租赁等业务的公司。本公司持有国家专利120余项，项目洽谈落地安装运行售后服务。是发展健康新农村建设和生态环境环保行业的企业，公司飞速发展，诚邀各方有识之士加盟！</div>
+                </div>
+                    </div>
+                    <div class="tCompany_sidebar">
+                    <div class="tBorderTop_box">
+        <h2><span class="bname">公司信息</span></h2>
+        <div class="com_msg"><a class="com_name " href="https://jobs.51job.com/all/co4876184.html" target="_blank"><p title="浙江联运环境工程股份有限公司">浙江联运环境工程股份有限公司</p></a>
+        </div>
+        <div class="com_tag">
+            <p class="at" title="上市公司"><span class="i_flag"></span>上市公司</p>
+            <p class="at" title="5000-10000人"><span class="i_people"></span>5000-10000人</p>
+            <p class="at" title="环保">
+                <span class="i_trade"></span>
+                                    <a href="https://jobs.51job.com/hangzhou/hy20/">环保</a>
+                            </p>
+        </div>
+        <a track-type="jobsButtonClick" event-type="2" class="icon_b i_house" href="https://jobs.51job.com/all/co4876184.html?#syzw" target="_blank"><span class="icon_det"></span>查看所有职位</a>
+    </div>
+                <input type="hidden" id="sign" value="">
+                <input type="hidden" id="data" value="">
+                <input type="hidden" id="jobid" value="132710459">
+                <div class="tBorderTop_box" id="similarjob">
+                    <h2>
+    <span class="bname">相似职位</span>
+            <a class="op i_reflash" href="https://jobs.51job.com/hangzhou-yhq/tuijian/tj132710459/">+ 更多</a>
+    </h2>
+    <div class="apBtn">
+        <div class="chall">
+            <em class="check" onclick="SelectAllJobs(this)"></em>
+            <span>全选</span>
+        </div>
+        <div class="op">
+            <span class="but_sq" onclick="delivery('delivery_jobid_similar', '2', '//i.51job.com', 'c', 'https://jobs.51job.com', '01', '05', '//img04.51jobcdn.com');">
+                <i></i>一键申请
+            </span>
+        </div>
+    </div>
+    <div class="rjlist r3">
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-gsq/133824770.html?t=2&amp;s=01" title="数据运营主管（双休+六险一金+下午茶）">数据运营主管（双休+六险一金+下午茶）</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-gsq/co2633224.html" title="杭州对点人力资源管理有限公司">杭州对点人力资源管理有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-拱墅区">杭州-拱墅区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="133824770" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-gsq/133824683.html?t=2&amp;s=01" title="数据运营主管">数据运营主管</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-gsq/co5509516.html" title="杭州点辰网络科技有限公司">杭州点辰网络科技有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-拱墅区">杭州-拱墅区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="133824683" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-jgq/132236143.html?t=2&amp;s=01" title="数据运营专员/主管">数据运营专员/主管</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-jgq/co6152069.html" title="贝壳找房（杭州）科技有限公司">贝壳找房（杭州）科技有限公司</a>
+                <strong title="0.6-1.3万/月">0.6-1.3万/月</strong>
+                <span title="杭州-江干区">杭州-江干区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="132236143" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou/131182289.html?t=2&amp;s=01" title="菜鸟网络-数据运营-菜鸟乡村">菜鸟网络-数据运营-菜鸟乡村</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou/co1991749.html" title="阿里巴巴集团">阿里巴巴集团</a>
+                <strong title=""></strong>
+                <span title="杭州">杭州</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="131182289" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-bjq/131102088.html?t=2&amp;s=01" title="数据运营">数据运营</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-bjq/co6358923.html" title="余仁生健康科技（上海）有限公司">余仁生健康科技（上海）有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-滨江区">杭州-滨江区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="131102088" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-bjq/133748190.html?t=2&amp;s=01" title="数据运营专员">数据运营专员</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-bjq/coUTFSMABlBjBTNgViVDU.html" title="杭州威尔金科数据技术有限公司">杭州威尔金科数据技术有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-滨江区">杭州-滨江区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="133748190" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-gsq/133823311.html?t=2&amp;s=01" title="数据运营专员">数据运营专员</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-gsq/co5752869.html" title="国牧物流有限公司">国牧物流有限公司</a>
+                <strong title="5-8千/月">5-8千/月</strong>
+                <span title="杭州-拱墅区">杭州-拱墅区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="133823311" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-bjq/132260017.html?t=2&amp;s=01" title="数据运营专员">数据运营专员</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-bjq/co4911834.html" title="杭州美年医疗门诊部有限公司">杭州美年医疗门诊部有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-滨江区">杭州-滨江区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="132260017" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-xsq/128546289.html?t=2&amp;s=01" title="优化数据运营">优化数据运营</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-xsq/co2458899.html" title="上海安瑞信杰互动广告有限公司">上海安瑞信杰互动广告有限公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-萧山区">杭州-萧山区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="128546289" style="display:none" jt="2">
+            </div>
+                    <div class="e">
+                <a class="name" target="_blank" href="https://jobs.51job.com/hangzhou-scq/132481445.html?t=2&amp;s=01" title="城市数据运营（职能岗）">城市数据运营（职能岗）</a>
+                <a target="_blank" href="https://jobs.51job.com/hangzhou-scq/coAmJSMlI0ATYAbFM3Am8.html" title="瑞庭网络技术（上海）有限公司合肥分公司">瑞庭网络技术（上海）有限公司合肥分公司</a>
+                <strong title="6-8千/月">6-8千/月</strong>
+                <span title="杭州-上城区">杭州-上城区</span>
+                <em class="apply" name="delivery_em" onclick="emClick(this)"></em>
+                <input class="checkbox" type="checkbox" name="delivery_jobid_similar" value="132481445" style="display:none" jt="2">
+            </div>
+            </div>
+    <div class="apBtn">
+        <div class="chall">
+            <em class="check" onclick="SelectAllJobs(this)"></em>
+            <span>全选</span>
+        </div>
+        <div class="op">
+            <span class="but_sq" onclick="delivery('delivery_jobid_similar', '2', '//i.51job.com', 'c', 'https://jobs.51job.com', '01', '05', '//img04.51jobcdn.com');">
+                <i></i>一键申请
+            </span>
+        </div>
+    </div>
+            <a class="rjlist_more" target="_blank" href="https://jobs.51job.com/hangzhou-yhq/tuijian/tj132710459/">更多相似职位</a>
+                    </div>
+
+                <div class="imgDown">
+                    <div class="e"><img width="295" height="98" src="//img01.51jobcdn.com/im/2018/wechat/wechat_down_03.jpg" alt="微信服务号"></div>
+                    <div class="e"><img width="295" height="98" src="//img06.51jobcdn.com/im/2016/code/app_down.png" alt="APP"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <!--地区招聘 start -->
+            <div class="tSeach_list_bot">
+                <div id="announcement">
+    <div id="announcementbody">
+                                                                            <ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+                    <li class="st_one"><a target="_blank" href="https://jobs.51job.com/hangzhou/">杭州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/ningbo/">宁波人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/wenzhou/">温州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shaoxing/">绍兴人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/jinhua/">金华人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/jiaxing/">嘉兴人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/taizhoue/">台州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/huzhou/">湖州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/quzhou/">衢州人才网</a></li>                </ul>
+                            <ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+                    <li class="st_one"><a target="_blank" href="https://jobs.51job.com/yiwu/">义乌人才网</a></li>                </ul>
+                                                                        <ul><li style="font-size:14px;color:#666;">地区职位招聘</li>
+                            <li class="st_one"><a target="_blank" href="https://jobs.51job.com/beijing/shujuyunying/">北京数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shanghai/shujuyunying/">上海数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/guangzhou/shujuyunying/">广州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shenzhen/shujuyunying/">深圳数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/wuhan/shujuyunying/">武汉数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/xian/shujuyunying/">西安数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/hangzhou/shujuyunying/">杭州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/nanjing/shujuyunying/">南京数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/chengdu/shujuyunying/">成都数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/chongqing/shujuyunying/">重庆数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/dongguan/shujuyunying/">东莞数据运营招聘</a></li>                        </ul>
+                                            <ul><li style="font-size:14px;color:#666;">地区职位招聘</li>
+                            <li class="st_one"><a target="_blank" href="https://jobs.51job.com/dalian/shujuyunying/">大连数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shenyang/shujuyunying/">沈阳数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/suzhou/shujuyunying/">苏州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/kunming/shujuyunying/">昆明数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/changsha/shujuyunying/">长沙数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/hefei/shujuyunying/">合肥数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/ningbo/shujuyunying/">宁波数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/zhengzhou/shujuyunying/">郑州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/tianjin/shujuyunying/">天津数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/qingdao/shujuyunying/">青岛数据运营招聘</a></li>                        </ul>
+                                    			<ul><li style="font-size:14px;color:#666;">简历模板</li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/">个人简历模板</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/fengmian/">简历封面</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/biaoge/">简历表格</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/jianlifanwen/">简历范文</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/jianliyangben/">简历样本</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/gaoxiao/">高校简历</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/zhuanye/">专业简历</a></li>
+			</ul>
+    
+                                                                            <ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+                    <li class="st_one"><a target="_blank" href="https://jobs.51job.com/hangzhou/">杭州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/ningbo/">宁波人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/wenzhou/">温州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shaoxing/">绍兴人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/jinhua/">金华人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/jiaxing/">嘉兴人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/taizhoue/">台州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/huzhou/">湖州人才网</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/quzhou/">衢州人才网</a></li>                </ul>
+                            <ul><li style="font-size:14px;color:#666;">地区人才网招聘</li>
+                    <li class="st_one"><a target="_blank" href="https://jobs.51job.com/yiwu/">义乌人才网</a></li>                </ul>
+                                                                        <ul><li style="font-size:14px;color:#666;">地区职位招聘</li>
+                            <li class="st_one"><a target="_blank" href="https://jobs.51job.com/beijing/shujuyunying/">北京数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shanghai/shujuyunying/">上海数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/guangzhou/shujuyunying/">广州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shenzhen/shujuyunying/">深圳数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/wuhan/shujuyunying/">武汉数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/xian/shujuyunying/">西安数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/hangzhou/shujuyunying/">杭州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/nanjing/shujuyunying/">南京数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/chengdu/shujuyunying/">成都数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/chongqing/shujuyunying/">重庆数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/dongguan/shujuyunying/">东莞数据运营招聘</a></li>                        </ul>
+                                            <ul><li style="font-size:14px;color:#666;">地区职位招聘</li>
+                            <li class="st_one"><a target="_blank" href="https://jobs.51job.com/dalian/shujuyunying/">大连数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/shenyang/shujuyunying/">沈阳数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/suzhou/shujuyunying/">苏州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/kunming/shujuyunying/">昆明数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/changsha/shujuyunying/">长沙数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/hefei/shujuyunying/">合肥数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/ningbo/shujuyunying/">宁波数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/zhengzhou/shujuyunying/">郑州数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/tianjin/shujuyunying/">天津数据运营招聘</a></li><li class="st_one"><a target="_blank" href="https://jobs.51job.com/qingdao/shujuyunying/">青岛数据运营招聘</a></li>                        </ul>
+                                    			<ul><li style="font-size:14px;color:#666;">简历模板</li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/">个人简历模板</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/fengmian/">简历封面</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/biaoge/">简历表格</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/jianlifanwen/">简历范文</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/jianliyangben/">简历样本</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/gaoxiao/">高校简历</a></li>
+				<li class="st_one"><a target="_blank" href="https://jianli.51job.com/zhuanye/">专业简历</a></li>
+			</ul>
+    </div>
+</div>            </div>
+            <!--地区招聘 end-->
+
+            <!-- 无忧推荐 --start -->
+                <div class="wytj">
+        <p class="title">无忧推荐</p>
+        
+                    <ul>
+<li>• <a target="_blank" adid="35505274" onmousedown="return AdsClick(35505274)" title="广州嘉欣电工科技有限公司" href="https://jobs.51job.com/hot/35505274-0.html">广州嘉欣电工科技有限公司</a></li>
+<li>• <a target="_blank" adid="35521278" onmousedown="return AdsClick(35521278)" title="北京曙龙科技有限公司" href="https://jobs.51job.com/hot/35521278-0.html">北京曙龙科技有限公司</a></li>
+<li>• <a target="_blank" adid="35510576" onmousedown="return AdsClick(35510576)" title="北京至乐天下科技有限公司" href="https://jobs.51job.com/hot/35510576-0.html">北京至乐天下科技有限公司</a></li></ul>
+                <div class="clear"></div>
+
+                    <ul>
+<li><a adid="35505401" onmousedown="return AdsClick(35505401)" href="https://arts.51job.com/arts/05/449097.html" title="编辑部" style="" target="_blank">• 连朋友圈都被征用，想离职</a></li>
+<li><a adid="35505402" onmousedown="return AdsClick(35505402)" href="https://arts.51job.com/arts/05/449094.html" title="编辑部" style="" target="_blank">• 工作为了什么，不提钱太苍白</a></li>
+<li><a adid="35505403" onmousedown="return AdsClick(35505403)" href="https://arts.51job.com/arts/05/449158.html" title="编辑部" style="" target="_blank">• 跳槽四大后悔事件，你有过吗</a></li>
+<li><a adid="35505404" onmousedown="return AdsClick(35505404)" href="https://arts.51job.com/arts/05/449166.html" title="编辑部" style="" target="_blank">• 这些公司在消耗你，离职是解脱</a></li>
+<li><a adid="35505405" onmousedown="return AdsClick(35505405)" href="https://arts.51job.com/arts/05/449187.html" title="编辑部" style="" target="_blank">• 为钱跳槽成常态，裸辞意愿降低</a></li>
+<li><a adid="35505406" onmousedown="return AdsClick(35505406)" href="https://arts.51job.com/arts/05/449122.html" title="编辑部" style="" target="_blank">• 同事要你请客，怎么高情商回应</a></li>
+<li><a adid="35505407" onmousedown="return AdsClick(35505407)" href="https://arts.51job.com/arts/05/449061.html" title="编辑部" style="" target="_blank">• 那些拿高薪的，都是怎样的人</a></li>
+<li><a adid="35505408" onmousedown="return AdsClick(35505408)" href="https://arts.51job.com/arts/05/449123.html" title="编辑部" style="" target="_blank">• 同事间，千万不要透露这些信息</a></li>
+<li><a href="https://mkt.51job.com/careerpost/default_res.php" title="简历面试薪资，求职难题全攻略" target="_blank">• 简历面试薪资，求职难题全攻略</a></li></ul>
+                <div class="clear"></div>
+
+                    <ul>
+                                    <li><a href="//wenku.51job.com/article449393/" title="为什么投出去那么多简历，却一直没有面试？" style="" target="_blank">• 为什么投出去那么多简历，却一直没有面试？</a></li>
+                                    <li><a href="//wenku.51job.com/article449390/" title="职场生存法则：需要适度的“棱角”" style="" target="_blank">• 职场生存法则：需要适度的“棱角”</a></li>
+                                    <li><a href="//wenku.51job.com/article449385/" title="成人书法考级怎么报名" style="" target="_blank">• 成人书法考级怎么报名</a></li>
+                            </ul>
+                <div class="clear"></div>
+
+                <div class="clear"></div>
+    </div>
+            <!-- 无忧推荐 --end -->
+            <a href="#top" id="goTop">回到<br>顶部</a>
+            <a href="//i.51job.com/userset/advice.php?from=jobs" target="_blank" class="dw_fb">意见反馈</a>
+        </div>
+    </div>
+<!--引用js-->
+<script type="text/javascript" src="//js.51jobcdn.com/in/resource/js/2021/jobs/common.f1673a4a.js"></script>
+<script type="text/javascript" src="//js.51jobcdn.com/in/resource/js/2021/jobs/jobDetail.f244501b.js"></script>
+<div class="footer">
+    <div class="in">
+        <div class="nag">
+            <div class="e e_first">
+                <label>销售热线：</label>400-886-0051&nbsp;&nbsp;027-87810888<br>
+                <label>客服热线：</label>400-620-5100<br>
+                <label>Email：</label><a href="mailto:club@51job.com" rel="external nofollow">club@51job.com</a>（个人）<br>
+                <a href="mailto:hr@51job.com" rel="external nofollow">hr@51job.com</a>（公司）            </div>
+            <div class="e">
+                <strong>简介</strong><br>
+                <a href="//www.51job.com/bo/AboutUs.php" target="_blank">关于我们</a><br>
+                <a href="//www.51job.com/bo/service.php" target="_blank">法律协议</a><br>
+                <a href="//www.51job.com/bo/private.php" target="_blank">隐私条款</a><br>
+                <a href="https://media.51job.com/media.php" target="_blank">媒体报道</a><br>
+                <a href="https://ir.51job.com/ir/IRMain.php" target="_blank">Investor Relations</a>
+            </div>
+            <div class="e">
+                <strong>合作</strong><br>
+                <a href="//www.51job.com/bo/jobs/new_joinus.php" target="_blank">加入我们</a><br>
+                <a href="//www.51job.com/bo/contact.php" target="_blank">联系我们</a><br>
+                <a href="//www.51job.com/link.php" target="_blank">友情链接</a>            </div>
+            <div class="e">
+                <strong>帮助</strong><br>
+                <a href="https://help.51job.com/home.html" target="_blank">帮助中心</a><br>
+                <a href="https://help.51job.com/qa.html?from=b" target="_blank">常见问题</a><br>
+                <a href="https://help.51job.com/guide.html?from=d" target="_blank">新手引导</a>            </div>
+            <div class="e">
+                <strong>导航</strong><br>
+                <a href="//www.51job.com/sitemap/site_Navigate.php" target="_blank">网站地图</a><br>
+                <a href="https://search.51job.com" target="_blank">职位搜索</a><br>
+                <a href="//i.51job.com/resume/resume_center.php?lang=c">简历中心</a>            </div>
+            <div class="code c_first">
+                <img width="80" height="80" src="//img06.51jobcdn.com/im/2016/code/new_app.png" alt="APP下载">
+                <span><a href="http://app.51job.com/index.html">APP下载</a></span>
+            </div>
+            <div class="code">
+                <img width="80" height="80" src="//img04.51jobcdn.com/im/2016/code/web_fuwuhao_bottom.png" alt="微信服务号">
+                <span>微信服务号</span>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <p class="note nag">
+            <span>未经51Job同意，不得转载本网站之所有招聘信息及作品 | 无忧工作网版权所有©1999-2021</span>
+    </p>    </div>
+</div>
+
+<div id="waf_nc_block" style="display: none;"><div class="waf-nc-mask"></div><div id="WAF_NC_WRAPPER" class="waf-nc-wrapper"><img class="waf-nc-icon" src="//g.alicdn.com/sd-base/static/1.0.10/image/nocapture/robot.png" alt="" height="111" width="150"><p class="waf-nc-description">涓轰繚璇佹偍鐨勬甯歌闂紝璇疯繘琛屽涓嬮獙璇侊細</p><div id="nocaptcha"></div></div></div></body></html>

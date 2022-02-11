@@ -1,0 +1,125 @@
+<html lang="en"><head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>联池水务人才招聘</title>
+
+    <meta content="联池水务招聘 前程无忧官方网站，提供最新 联池水务招聘职位，校园招聘信息， 联池水务面试技巧等。帮助您顺利踏入联池水务的大门，与众多联池水务精英们开启一段崭新的职业生涯。" name="description">
+
+    <meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+    <meta http-equiv="expires" content="0">
+
+    <meta http-equiv="pragma" content="no-cache">
+
+    <meta http-equiv="cache-control" content="no-cache">
+
+    <meta name="format-detection" content="telephone=no">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+
+    <meta name="viewport" content="width=1280">
+
+    <meta name="robots" content="all">
+
+    <meta http-equiv="cache-control" content="no-siteapp">
+
+    <meta name="render" content="webkit|ie-comp|ie-stand">
+
+    <link rel="stylesheet" href="../css/reset.min.css">
+
+    <link rel="stylesheet" href="../css/common.css">
+
+    <link rel="stylesheet" href="../css/details.css">
+
+</head>
+
+<body>
+
+    <div style="min-width:1280px;" class="main">
+
+		<div class="header">
+
+			<div class="w">
+
+				<img src="../images/logo.png" class="logo">
+
+				<ul class="nav">
+
+					<li><a href="about.html">公司介绍</a></li>
+
+					<li class="act"><a href="about2.html">人才招聘</a></li>
+
+					<li><a href="about4.html">项目案例</a></li>
+
+					<li><a href="about3.html">企业文化</a></li>
+
+					<li><a href="http://www.zjlianchi.com/" target="_blank">公司官网</a></li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+		<div class="banner"><img src="../images/banner.jpg"></div>
+
+        <div class="content">
+
+			<div class="w">
+
+				<h2 class="tt"><img src="../images/tt3.png"></h2>
+
+				<div class="tab_box">
+
+					<div class="jobname">采购员</div>
+
+					<div class="jobinfo"><p>岗位职责：</p><div>1、根据公司审批的采购物资申请，组织采购物料和设备的询价、比价和商务谈判工作；</div><div>2、按采购计划做好原料、辅料、设备、配件等采购工作；</div><div>3、配合质检部做好物料的检验工作；</div><div>4、配合仓库人员做好对物料的入库工作；</div><div>5、协调处理供应商物料异常问题，包括质量问题、退换货问题。</div><p><br></p><div>任职资格：</div><div>1、大专以上学历，熟练操作办公软件，能看懂图纸；</div><div><span>2、具有良好的职业道德操守，廉洁奉公、不谋私利；</span></div><div><span><span>3、具有较强的责任心和团队合作意识；</span></span></div><div><span><span><span>4、熟悉公司业务流程及产品，具备良好的沟通、谈判、抗压能力、成本意识及数据分析能力；</span></span></span></div><div><span><span><span><span>5、采购过大宗物资、大型钣金件优先。</span><span></span></span></span></span></div><p><br></p><p><br></p></div>
+
+					<div class="button">
+
+						<a href="about2.html"><img src="../images/del.png"></a>
+
+						<a class="btn" href="https://jobs.51job.com/all/114685337.html" target="_blank"><img src="../images/button.png"></a>
+
+					</div>
+
+				</div>			</div>
+
+			<div class="footer">
+
+			    <p class="copyRight">
+
+			        <img src="../images/hand0.png" alt="">
+
+
+
+			        <span>未经51job.com同意,不得转载本网站之所有招聘信息及作品;无忧工作网版权所有©</span>
+
+			        <span>1999-<script>document.write(new Date().getFullYear());</script>2021</span>
+
+			    </p>
+
+			</div>
+
+		</div>
+
+    </div>
+
+	<script src="../js/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<script src="../js/details.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+</body></html>

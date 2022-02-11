@@ -1,0 +1,323 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=1259058&guid=&dType=1&jobId=97189298&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<!--Designer：[XXX] Developer：[熊健] date:2017.07.20-->
+<!--标准title代码 -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Eurofins Scientific Group 欧陆科技集团</title>
+<meta content="Eurofins Scientific Group 欧陆科技集团招聘 前程无忧官方网站，提供最新Eurofins Scientific Group 欧陆科技集团招聘职位，校园招聘信息，Eurofins Scientific Group 欧陆科技集团面试技巧等。帮助您顺利踏入Eurofins Scientific Group 欧陆科技集团的大门，与众多Eurofins Scientific Group 欧陆科技集团精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="all">
+<meta name="viewport" content="width=1280">
+<meta http-equiv="cache-control" content="no-siteapp">
+<meta name="render" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+<meta name="author" content="yuanXu">
+<!--相对路径代码 -->
+<link href="http://eurofins.51job.com/css/reset.min.css" rel="stylesheet" type="text/css">
+<link href="http://eurofins.51job.com/css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="wrap">
+    <!--头部区域-->
+    <div class="header clearfix">
+        <div class="top2 clearfix">
+           <div class="logo2"><img src="http://eurofins.51job.com/images/logo.png"></div>
+           <div class="search">
+				<form name="quicksearch" method="post" action="http://eurofins.51job.com/sc/job_list.php?begin=begin">
+	<input type="hidden" name="keywordtype" value="2">
+		<input name="keyword" value="输入职位关键字" type="text" onfocus="javascript:clearfield(this)">
+		<a class="s-btn" href="javascript:void(0)" onclick="document.quicksearch.submit()" tracename="职位搜索">职位搜索</a>
+		<select name="company">
+			<option selected="" value="0000">--请选择公司--</option>
+            <option value="2311487" title="欧陆检测技术服务（上海）有限公司">欧陆检测技术服务（上海）有限公司</option>
+<option value="4676472" title="欧陆生物科技（上海）有限公司">欧陆生物科技（上海）有限公司</option>
+<option value="4676485" title="铭陆企业管理咨询（上海）有限公司">铭陆企业管理咨询（上海）有限公司</option>
+<option value="4701619" title="欧陆检测技术服务（上海）有限公司杭州分公司">欧陆检测技术服务（上海）有限公司杭州分公司</option>
+<option value="4846940" title="欧陆检测技术（深圳）有限公司">欧陆检测技术（深圳）有限公司</option>
+<option value="4846945" title="欧陆分析技术服务（苏州）有限公司">欧陆分析技术服务（苏州）有限公司</option>
+<option value="4883425" title="欧陆分析检测技术服务（青岛）有限公司">欧陆分析检测技术服务（青岛）有限公司</option>
+<option value="4883428" title="欧陆食品检测服务（大连）有限公司">欧陆食品检测服务（大连）有限公司</option>
+<option value="4883431" title="铭陆信息咨询（上海）有限公司">铭陆信息咨询（上海）有限公司</option>
+<option value="5748055" title="欧陆电子电器检测服务（深圳）有限公司">欧陆电子电器检测服务（深圳）有限公司</option>
+<option value="5781388" title="欧陆埃文思材料科技（上海）有限公司">欧陆埃文思材料科技（上海）有限公司</option>
+<option value="6098501" title="欧陆分析测试技术服务（广州）有限公司">欧陆分析测试技术服务（广州）有限公司</option>
+<option value="6408839" title="欧陆医药科技（上海）有限公司">欧陆医药科技（上海）有限公司</option>
+		</select>
+
+		<select name="funtype">
+			<option selected="" value="0000">--请选择工作类别--</option>
+			<option value="0100" title="后端开发">后端开发</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0107" title="--软件工程师">--软件工程师</option>
+<option value="0126" title="--.NET开发工程师">--.NET开发工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0232" title="--业务拓展主管/经理">--业务拓展主管/经理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0337" title="--市场企划专员">--市场企划专员</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0403" title="--财务主管/总账主管">--财务主管/总账主管</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0422" title="--财务助理/财务文员">--财务助理/财务文员</option>
+<option value="0458" title="--财务专员">--财务专员</option>
+<option value="0500" title="工程/机械/能源">工程/机械/能源</option>
+<option value="0512" title="--实验室负责人/工程师">--实验室负责人/工程师</option>
+<option value="0514" title="--工程/设备主管">--工程/设备主管</option>
+<option value="0560" title="--工业工程师">--工业工程师</option>
+<option value="0582" title="--材料工程师">--材料工程师</option>
+<option value="0584" title="--项目管理">--项目管理</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0603" title="--人事主管">--人事主管</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0605" title="--人事助理">--人事助理</option>
+<option value="0608" title="--薪资福利专员/助理">--薪资福利专员/助理</option>
+<option value="0610" title="--培训专员/助理/培训师">--培训专员/助理/培训师</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0706" title="--其他">--其他</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1107" title="--法务助理">--法务助理</option>
+<option value="1300" title="医院/医疗/护理">医院/医疗/护理</option>
+<option value="1310" title="--医学检验">--医学检验</option>
+<option value="1317" title="--外科医生">--外科医生</option>
+<option value="1318" title="--专科医生">--专科医生</option>
+<option value="1500" title="政府/非盈利机构">政府/非盈利机构</option>
+<option value="1502" title="--志愿者/社会工作者">--志愿者/社会工作者</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1703" title="--实习生">--实习生</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2304" title="--经理助理/秘书">--经理助理/秘书</option>
+<option value="2308" title="--电脑操作员/打字员">--电脑操作员/打字员</option>
+<option value="2311" title="--文员">--文员</option>
+<option value="2600" title="技术管理">技术管理</option>
+<option value="2602" title="--技术总监/经理">--技术总监/经理</option>
+<option value="2606" title="--项目经理">--项目经理</option>
+<option value="2607" title="--项目主管">--项目主管</option>
+<option value="2608" title="--项目执行/协调人员">--项目执行/协调人员</option>
+<option value="2700" title="测试">测试</option>
+<option value="2711" title="--其他">--其他</option>
+<option value="2718" title="--功能测试">--功能测试</option>
+<option value="2723" title="--测试主管">--测试主管</option>
+<option value="2725" title="--测试工程师">--测试工程师</option>
+<option value="2900" title="电子/电器/仪器仪表">电子/电器/仪器仪表</option>
+<option value="2903" title="--电子工程师/技术员">--电子工程师/技术员</option>
+<option value="2957" title="--硬件测试工程师">--硬件测试工程师</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3004" title="--销售工程师">--销售工程师</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3012" title="--销售助理">--销售助理</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3106" title="--销售行政助理">--销售行政助理</option>
+<option value="3107" title="--其他">--其他</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3206" title="--售前/售后技术支持主管">--售前/售后技术支持主管</option>
+<option value="3207" title="--售前/售后技术支持工程师">--售前/售后技术支持工程师</option>
+<option value="3209" title="--其他">--其他</option>
+<option value="3210" title="--客户关系经理/主管">--客户关系经理/主管</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3503" title="--项目经理/主管">--项目经理/主管</option>
+<option value="3504" title="--项目工程师">--项目工程师</option>
+<option value="3511" title="--其他">--其他</option>
+<option value="3512" title="--生产文员">--生产文员</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3601" title="--质量管理/测试经理(QA/QC经理)">--质量管理/测试经理(QA/QC经理)</option>
+<option value="3602" title="--质量管理/测试主管(QA/QC主管)">--质量管理/测试主管(QA/QC主管)</option>
+<option value="3603" title="--质量管理/测试工程师(QA/QC工程师)">--质量管理/测试工程师(QA/QC工程师)</option>
+<option value="3604" title="--质检员/测试员(QC)">--质检员/测试员(QC)</option>
+<option value="3607" title="--认证工程师">--认证工程师</option>
+<option value="3610" title="--环境/健康/安全工程师（EHS）">--环境/健康/安全工程师（EHS）</option>
+<option value="3612" title="--采购材料、设备质量管理">--采购材料、设备质量管理</option>
+<option value="3613" title="--其他">--其他</option>
+<option value="3615" title="--审核员">--审核员</option>
+<option value="3700" title="技工普工">技工普工</option>
+<option value="3706" title="--电工">--电工</option>
+<option value="3800" title="服装/纺织/皮革">服装/纺织/皮革</option>
+<option value="3805" title="--服装纺织质检员(QA/QC)">--服装纺织质检员(QA/QC)</option>
+<option value="3810" title="--其他">--其他</option>
+<option value="3900" title="采购">采购</option>
+<option value="3904" title="--采购员">--采购员</option>
+<option value="3908" title="--买手">--买手</option>
+<option value="4100" title="生物/制药/医疗器械">生物/制药/医疗器械</option>
+<option value="4101" title="--生物工程/生物制药">--生物工程/生物制药</option>
+<option value="4115" title="--其他">--其他</option>
+<option value="4116" title="--化学分析测试员">--化学分析测试员</option>
+<option value="4118" title="--医疗器械生产/质量管理">--医疗器械生产/质量管理</option>
+<option value="4900" title="酒店旅游">酒店旅游</option>
+<option value="4921" title="--签证专员">--签证专员</option>
+<option value="5000" title="美容保健">美容保健</option>
+<option value="5019" title="--美容师">--美容师</option>
+<option value="5500" title="化工">化工</option>
+<option value="5501" title="--化工技术应用/化工工程师">--化工技术应用/化工工程师</option>
+<option value="5502" title="--化工实验室研究员/技术员">--化工实验室研究员/技术员</option>
+<option value="5506" title="--化妆品研发">--化妆品研发</option>
+<option value="5508" title="--其他">--其他</option>
+<option value="6700" title="半导体/芯片">半导体/芯片</option>
+<option value="6707" title="--半导体技术">--半导体技术</option>
+<option value="6746" title="--芯片销售工程师">--芯片销售工程师</option>
+<option value="6750" title="--半导体测试工程师">--半导体测试工程师</option>
+<option value="7900" title="运维/技术支持">运维/技术支持</option>
+<option value="7901" title="--运维工程师">--运维工程师</option>
+<option value="7906" title="--网络安全工程师">--网络安全工程师</option>
+<option value="7908" title="--技术支持/维护经理">--技术支持/维护经理</option>
+<option value="7914" title="--网络管理(Helpdesk)">--网络管理(Helpdesk)</option>
+<option value="8000" title="运营">运营</option>
+<option value="8049" title="--运营经理">--运营经理</option>
+		</select>
+		<select name="jobarea">
+			<option selected="" value="0000">--请选择工作地点--</option>
+			<option value="010000" title="北京">北京</option>
+<option value="010500" title="朝阳区">朝阳区</option>
+<option value="020000" title="上海">上海</option>
+<option value="020300" title="徐汇区">徐汇区</option>
+<option value="021000" title="浦东新区">浦东新区</option>
+<option value="021100" title="闵行区">闵行区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="030203" title="海珠区">海珠区</option>
+<option value="030206" title="黄埔区">黄埔区</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="040500" title="宝安区">宝安区</option>
+<option value="050000" title="天津">天津</option>
+<option value="050100" title="和平区">和平区</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070307" title="高新区">高新区</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080206" title="滨江区">滨江区</option>
+<option value="080300" title="宁波">宁波</option>
+<option value="080307" title="慈溪市">慈溪市</option>
+<option value="090000" title="四川省">四川省</option>
+<option value="090215" title="双流区">双流区</option>
+<option value="110000" title="福建省">福建省</option>
+<option value="110201" title="鼓楼区">鼓楼区</option>
+<option value="110300" title="厦门">厦门</option>
+<option value="110302" title="海沧区">海沧区</option>
+<option value="120000" title="山东省">山东省</option>
+<option value="120305" title="城阳区">城阳区</option>
+<option value="180000" title="湖北省">湖北省</option>
+<option value="180200" title="武汉">武汉</option>
+<option value="230000" title="辽宁省">辽宁省</option>
+<option value="230312" title="高新园区">高新园区</option>
+		</select>
+		<select name="issuedate">
+			<option selected="" value="0000">--请选择发布日期--</option>
+			<option value="01">近一天</option><option value="02">近二天</option><option value="03">近三天</option><option value="07">近一周</option><option value="14">近两周</option><option value="30">近一月</option><option value="42">近六周</option><option value="60">近两月</option>		</select>
+</form>
+
+
+
+<script language="javascript">
+  function clearfield(obj)
+    {
+    if (obj.value == "输入职位关键字")
+        obj.value = "";
+    }
+</script>
+               </div>
+         </div>
+    </div>
+    <!--头部区域end-->
+    
+    <div class="main">
+      <!--公司简介区域-->
+        <div class="content clearfix">
+          <div class="left">
+            <ul class="nav2">
+              <li><a href="http://eurofins.51job.com/index.php" tracename="首页">首页</a></li>
+              <li class="nav-up">关于欧陆</li>
+              <div class="nav-list">
+                <a href="http://eurofins.51job.com/company1.php" title="" tracename="公司动态">公司动态</a>
+                <a href="http://eurofins.51job.com/company.php" title="" tracename="品牌故事">品牌故事</a>
+                <a href="http://eurofins.51job.com/company2.php" title="" tracename="欧陆中国">欧陆中国</a>
+                <a href="http://eurofins.51job.com/company3.php" title="" tracename="三十周年">三十周年</a>
+              </div>
+              <li><a href="http://eurofins.51job.com/culture.php" tracename="企业文化">企业文化</a></li>
+              <li class="on nav-up">企业招聘</li>
+              <div class="nav-list" style="display: block;">
+                <a href="http://eurofins.51job.com/job.php" title="" tracename="校园招聘">校园招聘</a>
+                <a class="active" href="http://eurofins.51job.com/sc/job_list.php" title="" tracename="社会招聘">社会招聘</a>
+              </div>
+              <li><a href="http://eurofins.51job.com/contact.php" tracename="联系我们">联系我们</a></li>
+            </ul>
+            <h2>关注：</h2>
+            <img class="ewm" src="http://eurofins.51job.com/images/ewm.jpg" alt="">
+            <img src="http://eurofins.51job.com/images/ewm2.jpg" alt="">
+          </div>
+          <div class="right">
+            <div class="banner"><img src="http://eurofins.51job.com/images/banner5.jpg" alt=""></div>
+            <div class="culture">
+              <div class="title">职位详情</div>
+              <div class="jobbox clearfix">
+				                <h2 class="job-name">化学测试工程师Chemical Testing Engineer</h2>
+				<div class="senda"><a class="send" href="http://eurofins.51job.com/cv_easy/cv_log.php?jobid=97189298" tracename="立即申请">立即申请</a></div>
+                              <div class="jtag inbox">
+                <div class="t1">
+                                <span class="sp4"><em class="i1"></em>欧陆检测技术服务（上海）有限公司杭州分公司</span>
+                                              <span class="sp4"><em class="i2"></em>杭州-滨江区</span>
+                                              <span class="sp4"><em class="i3"></em>2021-08-02发布</span>
+                                              <span class="sp4"><em class="i4"></em>质检员/测试员(QC)</span>
+                                              <span class="sp4"><em class="i5"></em>8-10万/年</span>
+                                <div class="clear"></div>
+                                              <div class="clear"></div>
+                </div>
+                            <p class="t2">
+                                                                                                <span>五险一金</span>
+                                                                    <span>补充医疗保险</span>
+                                                                    <span>年终奖金</span>
+                                                                    <span>餐饮补贴</span>
+                                                                    <span>交通补贴</span>
+                                                                    <span>绩效奖金</span>
+                                                                    <span>专业培训</span>
+                                                                    <span>定期体检</span>
+                                                                
+                              </p>
+                          </div>
+                <h4>职位描述：</h4>
+                <p>Job&nbsp;Duties:<br><br><br>-&nbsp;实验操作,根据SOP或其他质量文件对样品进行预处理及有机测试。<br>Conduct&nbsp;testing&nbsp;and&nbsp;assessment&nbsp;of&nbsp;sample&nbsp;pretreatment&nbsp;for&nbsp;organic&nbsp;testing&nbsp;according&nbsp;to&nbsp;SOP&nbsp;or&nbsp;other&nbsp;quality&nbsp;documents.<br>-&nbsp;实验室设备的日常校准与维护，确保相关记录的准确与及时。<br>Ensure&nbsp;related&nbsp;record&nbsp;accurately&nbsp;and&nbsp;timely<br>-&nbsp;原始数据分析<br>Analyze&nbsp;the&nbsp;test&nbsp;result<br>-&nbsp;其他主管交待的事项<br>Achieve&nbsp;other&nbsp;tasks&nbsp;assigned&nbsp;by&nbsp;supervisor<br><br><br>任职资格：<br>Qualification:<br><br><br>-&nbsp;化学相关专业大专以上学历。<br>College&nbsp;degree&nbsp;in&nbsp;chemistry&nbsp;related.<br>-&nbsp;良好的英语读写能力。<br>Good&nbsp;written&nbsp;English.<br>-&nbsp;有扎实的仪器分析理论基础，具备基本的仪器维护及排除故障的能力，熟悉GC-MS仪器的使用优先。<br>Be&nbsp;familiar&nbsp;wirh&nbsp;basic&nbsp;theory&nbsp;of&nbsp;chemical&nbsp;analysis&nbsp;and&nbsp;instrument&nbsp;analysis,&nbsp;eg.&nbsp;GC-MS<br>-&nbsp;积极努力，有团队精神，能承受一定工作压力。<br>Initiative,&nbsp;teamwork&nbsp;spirit,&nbsp;hard-working,&nbsp;accept&nbsp;work&nbsp;overtime&nbsp;and&nbsp;under&nbsp;pressure<br>职能类别：质量检验员/测试员&nbsp;化工实验室研究员/技术员<br><br>优秀应届生亦可！</p>
+                <a class="return" href="http://eurofins.51job.com/sc/job_list.php" tracename="返回职位列表">返回职位列表</a>
+                <a class="send" href="http://eurofins.51job.com/cv_easy/cv_log.php?jobid=97189298" tracename="立即申请">立即申请</a>
+				              </div>
+            </div>  
+          </div>
+        </div> 
+      <!--公司简介区域end-->
+      <!--版权信息区域-->
+      <div class="copyright2">
+          <img src="http://eurofins.51job.com/images/hand.png" width="15" height="20">&nbsp;未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有 ©1999-
+          <script language="JavaScript">var now = new Date();var year = now.getFullYear();document.write(year);</script>2021
+      </div>
+      <!--版权信息区域end-->
+    </div>
+    
+    
+</div>
+<script type="text/javascript" src="http://eurofins.51job.com/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://eurofins.51job.com/js/my.js"></script>
+
+
+    
+<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

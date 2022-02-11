@@ -1,0 +1,450 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- 制作人信息 -->
+ <!--PM:[WH ] Designer:[WH] Developer:[WH 杨洲] date:20200107-->
+ <title>玛氏中国前程无忧官方招聘网</title>
+<meta content="***校园招聘 前程无忧官方网站，提供最新***校园招聘职位，校园招聘信息，***面试技巧等。帮助您顺利踏入***的大门，与众多***精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=1280">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta name="robots" content="all">
+
+
+<!--相对路径代码 -->
+<link href="css/reset.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/swiper.min.css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!-- 点击量 -->
+<script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+<!-- <script type="text/javascript">
+    $(function(){
+        function initView(){
+        var ua = navigator.userAgent.toLowerCase();
+        var mobile = /mobile/gi.test(ua);
+        isPC = !mobile;
+        if(isPC){}else{window.location.href="h5.html";}
+    }
+    initView();
+    })
+</script> -->
+</head>
+
+<body>
+
+<div id="wrap">
+    <!--头部区域-->
+    <div class="header">
+        <div class="top">
+            <div class="inner clearfix">
+                <!-- logo -->
+                <div class="logo">
+                        <a href="index.html" tracename="img-1-logo.png"><img src="images/logo.png" alt=""></a>
+                </div>
+                <!-- logo end -->
+                <!-- nav1 -->
+                <ul class="nav1 clearfix">
+                        <li><a href="index.html" tracename="首页">首页</a></li>
+                        <li><a href="info.html" tracename="为什么加入玛氏">为什么加入玛氏</a></li>
+                        <li class="on"><a href="social.html" tracename="社会招聘">社会招聘</a></li>
+                        <li><a href="http://www.marscampus.com.cn/" target="_blank" tracename="校园招聘">校园招聘</a></li>
+                        <li><a href="experience.html" tracename="同事体验">同事体验</a></li>
+                        <li><a href="https://chn.mars.com/" target="_blank" tracename="玛氏官网">玛氏官网</a></li>
+                        <ul class="nav_1z">
+                                <li><a href="growth.html" tracename="学习与成长">学习与成长</a></li>
+                                <li><a href="welfare.html" tracename="健康与福利">健康与福利</a></li>
+                                <li><a href="influence.html" tracename="改变与影响">改变与影响</a></li>
+                            </ul>
+                    </ul>
+               
+                <!-- nav1 end -->  
+            </div>
+        </div>
+        <!-- banner -->
+        <div class="banner">
+            <img src="images/banner6.png" alt="">
+            <div class="sousuo why">
+                <!-- <img src="images/sousuo.png" alt=""> -->
+                <h1 style="color: #def85e">社会招聘</h1>
+                <div class="xiala">
+                    <select name="funtype" id="functype" class="functype"><option value="">职能</option><option value="0200">销售管理</option><option value="0202">--销售经理</option><option value="0203">--销售主管</option><option value="0207">--渠道/分销经理</option><option value="0208">--客户经理/主管</option><option value="0220">--渠道/分销主管</option><option value="0226">--区域销售经理</option><option value="0234">--团购经理/主管</option><option value="0236">--区域销售主管</option><option value="0237">--城市经理</option><option value="0300">市场/营销</option><option value="0302">--市场/营销/拓展经理</option><option value="0305">--市场助理</option><option value="0306">--产品/品牌经理</option><option value="0308">--市场通路经理/主管</option><option value="0337">--市场企划专员</option><option value="0400">财务/审计/税务</option><option value="0402">--财务经理</option><option value="0405">--会计</option><option value="0500">工程/机械/能源</option><option value="0547">--产品工艺/制程工程师</option><option value="0600">人力资源</option><option value="0604">--人事专员</option><option value="0625">--其他</option><option value="0629">--企业文化/员工关系/工会管理</option><option value="0800">物流/仓储</option><option value="0809">--仓库管理员</option><option value="0814">--物流专员/助理</option><option value="1700">储备干部/培训生/实习生</option><option value="1702">--储备干部</option><option value="2300">行政/后勤</option><option value="2303">--行政专员/助理</option><option value="2600">技术管理</option><option value="2610">--项目助理</option><option value="2900">电子/电器/仪器仪表</option><option value="2904">--电气工程师/技术员</option><option value="2909">--电子软件开发(ARM/MCU...)</option><option value="3000">销售人员</option><option value="3001">--销售代表</option><option value="3002">--渠道/分销专员</option><option value="3003">--客户代表</option><option value="3014">--区域销售代表</option><option value="3100">销售行政及商务</option><option value="3102">--销售行政专员</option><option value="3104">--商务主管/专员</option><option value="3106">--销售行政助理</option><option value="3600">质量安全</option><option value="3602">--质量管理/测试主管(QA/QC主管)</option><option value="3603">--质量管理/测试工程师(QA/QC工程师)</option><option value="3604">--质检员/测试员(QC)</option><option value="3700">技工普工</option><option value="3701">--技工</option><option value="3706">--电工</option><option value="6300">印刷包装</option><option value="6318">--其他</option><option value="7500">数据</option><option value="7501">--数据分析师</option></select>
+                    <select name="jobarea" id="jobarea" class="jobarea"><option value="">工作地点</option><option value="010000">北京</option><option value="010100">东城区</option><option value="020000">上海</option><option value="020300">徐汇区</option><option value="021500">松江区</option><option value="030000">广东省</option><option value="030200">广州</option><option value="030204">天河区</option><option value="030400">汕头</option><option value="030800">东莞</option><option value="040000">深圳</option><option value="050000">天津</option><option value="060000">重庆</option><option value="070000">江苏省</option><option value="070300">苏州</option><option value="070400">无锡</option><option value="070800">扬州</option><option value="071100">徐州</option><option value="071300">盐城</option><option value="080000">浙江省</option><option value="080200">杭州</option><option value="080300">宁波</option><option value="080500">绍兴</option><option value="080700">嘉兴</option><option value="090000">四川省</option><option value="090200">成都</option><option value="090300">绵阳</option><option value="092300">凉山</option><option value="110000">福建省</option><option value="110500">漳州</option><option value="110800">南平</option><option value="120000">山东省</option><option value="120200">济南</option><option value="120300">青岛</option><option value="130000">江西省</option><option value="130200">南昌</option><option value="150000">安徽省</option><option value="150200">合肥</option><option value="160000">河北省</option><option value="160300">廊坊</option><option value="170000">河南省</option><option value="170200">郑州</option><option value="170500">焦作</option><option value="171200">信阳</option><option value="171500">漯河</option><option value="171600">濮阳</option><option value="171800">三门峡</option><option value="180000">湖北省</option><option value="190000">湖南省</option><option value="190200">长沙</option><option value="191100">怀化</option><option value="200000">陕西省</option><option value="200400">宝鸡</option><option value="210000">山西省</option><option value="210400">大同</option><option value="210500">临汾</option><option value="211100">忻州</option><option value="220000">黑龙江省</option><option value="220200">哈尔滨</option><option value="230000">辽宁省</option><option value="230300">大连</option><option value="230900">葫芦岛</option><option value="240000">吉林省</option><option value="260000">贵州省</option><option value="260200">贵阳</option><option value="261000">黔南</option><option value="270000">甘肃省</option><option value="270200">兰州</option><option value="280000">内蒙古</option><option value="280300">赤峰</option><option value="280800">鄂尔多斯</option><option value="300000">西藏</option><option value="300200">拉萨</option><option value="310000">新疆</option><option value="311200">昌吉</option></select>
+                    <input type="text" class="gjz keyword" name="keyword" id="keyword" value="" placeholder="搜索关键词">
+                 </div>
+                <div class="query" id="ss"><span>搜索</span></div>
+            </div>
+        </div>
+        <!-- banner end -->
+    </div>
+    <!--头部区域end-->
+    <!-- 主体区域 -->
+    <div class="main">
+        <div class="container">
+            <!-- 内容区域 -->
+            <div class="content inner3">             
+                <div class="p1">                     
+                    <div class="tit size">
+                       <h2>职位详情</h2>
+                       <span></span>
+                    </div>  
+                </div>
+                <div class="job" id="job">
+                    <div class="about">
+                        <div class="a-t">                           
+                            <div class="txt">
+                                <div class="jobxq">
+                                    <div class="jobn">玛氏箭牌-高级销售主管-杭州(TT渠道)</div>
+                                    <div class="jobdesc">
+                                        <div>招聘类型：<span class="leixing">社会招聘</span></div>
+                                        <div>工作性质：<span class="xingzhi">全职</span></div>
+                                        <div>工作地点：<span class="didian">杭州</span></div>
+                                        <div>薪资范围：<span class="zixin">0.9-1.3万/月</span></div>
+                                        <div>招聘人数：<span class="renshu">1</span>人</div>
+                                        <div>发布时间：<span class="fbtime">2021-07-30 11:00:01</span></div>
+                                    </div>
+                                    <div class="jobwz">1、负责杭州主城区传统渠道的销售与人员管理，带领团队完成公司分配的全年销量目标<br>2、管理所负责的渠道经销商客户日常工作，经销商日常管理沟通；<br>3、带领团队成员完成分销/陈列/价格/库存等市场表现目标，渠道拓展目标<br>4、与主要经销商进行定期生意计划和回顾及行动计划制定跟进；<br>5、团队管理，激励和支持团队意愿和能力的提升，打造高执行力的团队；<br><br>职位要求：<br>1、大专及以上学历，3-5年销售经验，传统渠道生意管理经验<br>2、具备良好的沟通表达能力、销售数据分析能力和谈判技巧；<br>3、良好的计算机运用能力，熟练运用Word、Excel、PPT；<br>4、熟悉当地主要消费品零售市场，良好的客户开发管理能力及客情建立；<br>5、具备积极主动, 良好的团队合作精神，优秀的政策执行能力，良好的竞争意识，具备抗压力；<br>6、积极正向，能快速融入团队，对自身职业规划清晰，具备强烈的上进心；<br>7、学习能力，快速进入工作状态<br></div>
+                                    <div class="btns">
+                                        <div class="apply nbtn">立即申请</div>
+                                        <div class="back nbtn">返回职位列表</div>
+                                    </div>
+                                </div>
+                            </div>                   
+                        </div>
+                    </div>	             
+                </div>
+                <!-- <div class="p2" >
+                    <div class="text3_2 clearfix">  
+                     <h1 class="title"><span></span>近距离了解玛氏<span></span></h1>
+                     <p class="wei">快乐！创造！探索！我们致力于让我们的工作每一在都在一个更好的环境中！想要了解更多我们的工作，文化和同事嘛？快关注我们的微信公众号吧！</p>
+                     <img src="images/ewm.png" alt="" class="center">
+                    </div>             
+             </div> -->
+ 
+            <!-- 内容区域end -->
+        </div>
+          <!--版权信息区域-->
+    <div class="copyright">
+        <img src="images/hand.png">&nbsp;未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999-<script>document.write((new Date()).getFullYear())</script>2021
+    </div>
+    <!--版权信息区域end-->
+    </div>
+    <!-- 主体区域end -->
+</div>
+<script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/img.js"></script>
+<script type="text/javascript" src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+<script src="js/job.js" type="text/javascript" charset="utf-8"></script>
+<!-- 轮播 -->
+<script>
+//     var thisURL = document.URL;
+//     var  getval =thisURL.split('?')[1];
+//     var showval= getval.split("=")[1];
+//     var  showvals = decodeURI(showval);
+
+//     // var abb = showval.split("keyword=")[1];
+//     var abbs = showvals.match(/(\S*)#/)[1]; 
+//     // var functypess = thisURL.split('functype=')[1];
+//     // var functypesw = functypess.match(/(\S*)&/)[1]; 
+//     // var jobareas = thisURL.split('jobarea=')[1];
+//     // var jobareaws = functypess.match(/(\S*)#/)[1]; 
+//     function  showvalf(){
+//         console.log(abbs);  
+//         if(abbs == undefined){
+//            document.getElementById('keyword').value=null;  
+//         }else{
+//             document.getElementById('keyword').value=abbs; 
+//         }       
+       
+//         // console.log(getval.indexOf("jobarea")) 
+//         // document.getElementById('jobarea').value=jobareas;           
+//         // document.getElementById('functype').value=functypesw;       
+//         // document.getElementById('keyword').value=abbs;  
+//         $('select').trigger("change"); //为select添加触发事件
+//     }
+    
+//   </script>
+<!--校招社招联合版-->
+<script>
+    // 只需修改obj对象内相对应的参数即可，本页面需要用到的元素只有四个
+    // 1、存放职位名称
+    // 2、存放职位详情
+    // 3、申请按钮
+    // 4、返回职位列表按钮
+    // ps: 改class名后，相应的css样式选择器需要修改
+    $(function(){
+        // 获取网址url
+        var url = window.location;
+        var Isapply=GetParam(url,'apply')
+        // 需要修改的内容容器
+        var obj = {
+            // 添加存放职位名称class名
+            position : '.jobn',
+            // 添加存放职位详情的class名
+            des : '.jobwz',
+            xingzhi: '.xingzhi',
+            didian:'.didian',
+            zixin:'.zixin',
+            renshu:'.renshu',
+            fbtime:'.fbtime',
+            // 立即申请按钮class名
+            go : '.apply',
+            // 返回职位列表按钮class名
+            back : '.back',
+            // 从url处获得的传参数据，不用修改，直接获取上一个页面传来的参数
+            jobid : GetParam(url,'jobid'),
+        };
+        // 匿名函数自执行
+        !function(){
+            var $position = $(obj.position);
+            var $des = $(obj.des);
+            var $go = $(obj.go);
+            var $back = $(obj.back);
+            var $xingzhi = $(obj.xingzhi);
+            var $didian = $(obj.didian);
+            var $zixin = $(obj.zixin);
+            var $renshu = $(obj.renshu);
+            var $fbtime = $(obj.fbtime);
+            coapi.getJobDetail(obj.jobid,function(data){
+                 console.log(data)
+                $position.text(data.resultbody.jobname);
+                $des.html(data.resultbody.jobinfo);
+                $xingzhi.html(data.resultbody.term);
+                $didian.html(data.resultbody.workareaname);
+                $zixin.html(data.resultbody.providesalarname);
+                $renshu.html(data.resultbody.jobnum);
+                $fbtime.html(data.resultbody.issuedate);
+                bold();
+            });
+            // 立即申请
+            $go.on('click',function(event) {
+                event.preventDefault();
+                $.ajax({
+                    url:"//i.51job.com/delivery/platform/delivery_api.php?jobid="+obj.jobid,
+                    type: "get",
+                    dataType: 'jsonp',
+                    jsonp:"callback", 
+                    jsonpCallback:"jobCallback",
+                    success: function (data) {
+                        var imgsrc = ''; 
+                        var tips = '';
+                        var $tipImg = $('.tipImg');
+                        var $tips = $('.tips');
+                           switch(data.status){
+                               case "1":
+                                   //tips = '申请成功！请勿重复投递';
+                                console.log(data)
+                                switch (data.result[obj.jobid].status) {
+                                   case "1":
+                                       imgsrc='images/true.png';
+                                       tips = '投递成功，七天内请勿重复投递';
+                                       console.log('投递成功')
+                                       break;
+                                   case "-100":
+                                       imgsrc='images/false.png';
+                                       tips = '职位过期，请重现选择职位';
+                                       console.log('职位过期')
+                                       break;
+                                   case "-101":
+                                       imgsrc='images/false.png';
+                                       tips = '七天内重复投递';
+                                       console.log('七天内重复投递')
+                                       break;
+                                   case "-102":
+                                       imgsrc='images/false.png';
+                                       tips = '特殊职位，2s跳转投递页面';
+
+                                       var timer = setTimeout(function(){
+                                    window.location.href=data.result[obj.jobid].result;
+                                    clearTimeout(timer);
+                                },2000);
+                                       console.log('特殊职位102，2s跳转投递页面')
+                                       break;
+                                   case "-103":
+                                       imgsrc='images/false.png';
+                                       tips = '特殊职位，2s跳转投递页面';
+                                       var timer = setTimeout(function(){
+                                    window.location.href=data.result[obj.jobid].result;
+                                    clearTimeout(timer);
+                                },2000);
+                                       console.log('特殊职位103，2s跳转投递页面')
+                                       break;
+
+                                   // PS：需要注意的是，若返回-102或者-103则为特殊职位，需要根据返回的result进行跳转。
+
+                               };
+
+                                   break;
+                            case "-1":
+                                tips = '职位传参不合法!';
+                                // window.open(data.result);
+                                break; 
+                            case "-2":
+                                tips = '未登录！ 2s后跳入登陆界面';
+                                imgsrc='images/false.png';
+                                var timer = setTimeout(function(){                     		
+                                    window.location.href=data.result+"?url="+url+"%26apply=yes";
+                                    clearTimeout(timer);
+                                },2000);
+                                  break;
+                            case "-3":
+                                tips = '简历信息不合法！2s后进入修改界面';
+                                imgsrc='images/false.png';
+                                var timer = setTimeout(function(){
+                                    window.location.href=data.result;
+                                    clearTimeout(timer);
+                                },2000);
+                                  break;
+                            case "-4":
+                                tips = '简历不完整！2s后进入填写界面';
+                                imgsrc='images/false.png';
+                                var timer = setTimeout(function(){
+                                    window.location.href=data.result;
+                                    clearTimeout(timer);
+                                },2000);
+                                  break;
+                            case "-5":
+                                tips = '无简历！2s后进入填写界面';
+                                imgsrc='images/false.png';
+                                var timer = setTimeout(function(){
+                                    window.location.href=data.result;
+                                    clearTimeout(timer);
+                                },2000);
+                                 break;
+                            case "-6":
+                                 tips = '职位数大于50！'; 
+                                 imgsrc='images/false.png';
+                                var timer = setTimeout(function(){
+                                    //window.open(data.result);
+                                    clearTimeout(timer);
+                                },2000);
+                                 break;
+                            default:
+                                break;
+                        }
+
+                        $('.tipImg').attr('src',imgsrc)
+                        $('.tips').text(tips);
+                        $('.job3').fadeIn();
+                        
+                        var timer2 = setTimeout(function(){
+                            $('.job3').fadeOut();
+                            clearTimeout(timer2);
+                        },6000);
+
+                    },
+                    error:function(data) {
+                         
+                    }
+                })
+                // window.location.href = "job4.html?jobid="+obj.jobid;
+            });
+            
+            
+            
+            // 返回职位列表
+            $back.on('click',function(event) {
+                event.preventDefault();
+                window.location.href = 'social.html#job';
+            });
+
+            $('.job3').click(function(){
+                $(this).hide()
+            })
+        }();
+
+        if (Isapply==='yes') {
+            $('.go').trigger('click')
+        }
+        // 如果p标签内容没有数字序号或#或.或、，就给字体加粗
+        // 相当于给 “任职要求：”、“岗位职责：”等加粗
+        function bold(){
+            var reg = /(\d+|#|-|\/|•)/;
+            $(obj.des).find('p').each(function(index, el) {
+                if (!reg.test($(this).text())) {
+                    $(this).css({
+                        fontWeight: 'bold',
+                        fontSize: '16px'
+                    });
+                };
+            });
+        };
+        
+
+        // 根据指定参数名获取url的参数值
+        function GetParam(url, id) {
+            url = url+ "";
+            regstr = "/(\\?|\\&)" + id + "=([^\\&]+)/";
+            //eval可以将 regstr字符串转换为 正则表达式
+            reg = eval(regstr);
+            result = url.match(reg);
+            if (result && result[2]) {
+                return result[2];
+            }
+        }
+                
+        function getUrlParam(name){
+                // 用该属性获取页面 URL 地址从问号 (?) 开始的 URL（查询部分）
+                var url = window.location.search;
+                // 正则筛选地址栏
+                var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+                // 匹配目标参数
+                var result = url.substr(1).match(reg);
+                //返回参数值
+                return result ? decodeURIComponent(result[2]) : '';
+        }
+                
+        
+        
+                
+    })
+    
+</script>
+
+<!-- 平台监测代码 -->
+<script type="text/javascript">
+    
+    // 根据指定参数名获取url的参数值
+    function GetParam(url, id) {
+        url = url+ "";
+        regstr = "/(\\?|\\&)" + id + "=([^\\&]+)/";
+        //eval可以将 regstr字符串转换为 正则表达式
+        reg = eval(regstr);
+        result = url.match(reg);
+        if (result && result[2]) {
+            return result[2];
+        }
+    }
+            
+    function getUrlParam(name){
+            // 用该属性获取页面 URL 地址从问号 (?) 开始的 URL（查询部分）
+            var url = window.location.search;
+            // 正则筛选地址栏
+            var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+            // 匹配目标参数
+            var result = url.substr(1).match(reg);
+            //返回参数值
+            return result ? decodeURIComponent(result[2]) : '';
+    }
+    
+    
+    var jobid_jobdetail=getUrlParam('jobid');
+    var _tkd = _tkd || [];
+    var param = 'webId=4&accountId=&ctmId=2857388&guid=&dType=1&jobId='+jobid_jobdetail+'&type=&urlType=3';//参数请对应查看日志传参
+
+    _tkd.push(['_setParams', param]);
+    _tkd.push(["_setAutoButtonClick", true, 'a']);
+    _tkd.push(["_setAutoPageview", true]);
+
+    document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://trace.51jingying.com/trackBigdata.js" type="text/javascript"></script>	
+
+<script src="http://trace.51jingying.com/trackBigdata.js" type="text/javascript"></script>
+
+
+</div></body></html>

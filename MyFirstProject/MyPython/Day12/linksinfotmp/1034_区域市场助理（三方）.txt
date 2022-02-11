@@ -1,0 +1,772 @@
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=178&guid=&dType=1&jobId=133120026&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!-- saved from url=(0029)http://astrazeneca.51job.com/ -->
+<title>【阿斯利康中国招聘，求职】阿斯利康中国官方招聘网站</title>
+<script language="javascript">
+function turnpage(page)
+{
+	var f1 = document.freshlist;
+	if(isNaN(page) || page<=0 || page>9)
+	{
+		alert("请正确输入页码！");
+		return false;
+	}
+	f1.page.value = page;
+	f1.submit();
+}
+function eturnpage(page)
+{
+	var f1 = document.freshlist;
+	if(isNaN(page) || page<=0 || page>9)
+	{
+		alert("Please input correct number!");
+		return false;
+	}
+	f1.page.value = page;
+	f1.submit();
+}
+</script>
+
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
+<meta name="description" content="阿斯利康中国招聘 前程无忧官方网站，提供最新阿斯利康中国招聘职位，校园招聘信息，阿斯利康中国面试技巧等。帮助您顺利踏入阿斯利康中国的大门，与众多阿斯利康中国精英们开启一段崭新的职业生涯。">
+<meta name="keywords" content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事">
+<meta content="no-cache" http-equiv="pragma">
+<meta content="no-cache, must-revalidate" http-equiv="Cache-Control">
+<meta content="0" http-equiv="expires">
+
+<style type="text/css">
+
+#wrap{display:block;width:972px; overflow:hidden;margin:0 auto;background:#fff;}
+div,ul,body,li,dl,dd,dt,span{border:none;margin:0px;padding:0px;}
+#top{display:block;width:100%;height:528px;float:left; position:relative;clear:both;overflow:hidden}
+#top .banner{display:block;width:2916px;position:relative;top:0px;left:0px;height:100%;}
+#top .banner .bb{display:block;width:972px;height:100%;float:left;position:relative;}
+#top .banner .allfont{display:block;width:580px;height:auto;position:absolute;top:400px;left:50%;color:#FFF;margin-left:-290px; text-align:left;}
+
+#top .banner .bfont{display:block;width:100%;font-size:28px;float:left;clear:both}
+#top .banner .sfont{float:left;color:#f2ab01;background:url(http://astrazeneca.51job.com/images/xx.gif) 0% 50% no-repeat; text-indent:10px;line-height:21px;}
+#top .banner .sfont a{color:#f2ab01}
+#top .banner .sfont a:link{color:#f2ab01}
+#top .banner .sfont a:visited{color:#f2ab01}
+#top .banner .sfont a:hover{color:#f2ab01; text-decoration:underline}
+
+#top .banner1{background:url(http://astrazeneca.51job.com/images/banner1.jpg) no-repeat}
+#top .banner2{background:url(http://astrazeneca.51job.com/images/banner2.jpg) no-repeat}
+#top .banner3{background:url(http://astrazeneca.51job.com/images/banner3.jpg) no-repeat}
+#top .mainnav{display:block;height:65px;position:absolute;top:0px;right:0px;background:#fff;width:790px}
+#top .mainnav #lab{display:block;position:absolute;top:5px;left:10px;background:url(http://astrazeneca.51job.com/images/lab.png) no-repeat;height:36px;width:161px;}
+#top .mainnav #lab a{display:block;float:left;width:100%;height:100%;}
+#top .mainnav ul{display:block;height:30px;width:auto;list-style:none;margin-top:65px;margin-left:10px}
+#top .mainnav ul li{display:block;float:left;height:30px;line-height:30px;color:#830051;width:72px; text-align:center;}
+#top .mainnav ul li a{display:block;float:left;width:auto;height:100%;text-decoration:none;color:#830051;font-size:14px;}
+#top .mainnav ul li a:link{color:#830051;border-top:1px solid #fff;}
+#top .mainnav ul li a:visited{color:#830051;border-top:1px solid #fff;}
+#top .mainnav ul li a:hover{color:#4b306a;border-top:1px solid #4b306a;}
+#top .mainnav ul li.corrent a{border-top:1px solid #4b306a;color:#4b306a;}
+#top .slider{display:block;height:21px;width:135px;background:#830051;position:absolute;bottom:0px;right:108px;}
+#top .slider span{display:block;width:9px;height:11px;margin-top:5px; cursor:pointer}
+#top .slider span#left{background:url(http://astrazeneca.51job.com/images/left.png) no-repeat;_background:url(http://astrazeneca.51job.com/images/left_6.png) no-repeat; float:left;margin-left:7px;}
+#top .slider span#right{background:url(http://astrazeneca.51job.com/images/right.png) no-repeat;_background:url(http://astrazeneca.51job.com/images/right_6.png) no-repeat;float:right;margin-right:7px;}
+#top .slider ul{list-style:none;margin-left:50px;}
+#top .slider ul li{float:left;width:21px;height:21px;background:url(http://astrazeneca.51job.com/images/sc.png) 50% 50% no-repeat;_background:url(http://astrazeneca.51job.com/images/sc_6.png) 50% 50% no-repeat;display:block;cursor:pointer}
+#top .slider ul li.corrent{background:url(http://astrazeneca.51job.com/images/bc_6.png) 50% 50% no-repeat;display:block;}
+BODY {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+TD {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+TH {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+BODY {
+	BACKGROUND-COLOR: #f4f3f1; MARGIN: 0px
+}
+A:link {
+	COLOR: #991058; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #991058; TEXT-DECORATION: none
+}
+A:hover {
+	
+	
+}
+A:active {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px
+}
+.unnamed1 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #333333; FONT-SIZE: 12px
+}
+.unnamed2 {
+	LINE-HEIGHT: 26px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #333333; FONT-SIZE: 12px
+}
+A.a:link {
+	COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a:visited {
+	COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A.a:hover {
+	FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A.a:active {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#m1 {height:30px; line-height:30px; text-align:left; color:#830051; font-size:14px; float:left; display:block;}
+#m1 a {color:#830051; text-decoration:none;height:30px;line-height:30px;font-size:14px;}
+#m1 a:hover {color:#4B306A; border-top:1px #4B306A solid; cursor:pointer; text-decoration:none;height:30px;line-height:30px;font-size:14px;}
+
+#m2 {height:30px; line-height:30px; text-align:left; color:#830051; font-size:14px; float:left; display:block; margin-left:20px;}
+#m2 a {color:#830051; text-decoration:none;height:30px;line-height:30px;font-size:14px;}
+#m2 a:hover {color:#4B306A; border-top:1px #4B306A solid; cursor:pointer; text-decoration:none;height:30px;line-height:30px;font-size:14px;}
+
+#m3 {height:30px; line-height:30px; text-align:left; color:#4B306A;border-top:1px #4B306A solid; font-size:14px; float:left; display:block; margin-left:20px;}
+#joblra td{ border:1px solid #cccccc; padding:0 5px; }table  {  border-collapse:collapse;  }
+</style>
+<script language="javascript" type="text/javascript" src="http://astrazeneca.51job.com/jquery-1.4.2.min.js">
+</script>
+<script language="javascript" type="text/javascript" src="http://astrazeneca.51job.com/main.js">
+</script>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+<meta name="GENERATOR" content="MSHTML 8.00.6001.18702"></head>
+<body>
+<table width="978" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center" valign="top" bgcolor="#FFFFFF"><div id="wrap">
+    	<div id="top" style="height:400px;">
+        	
+            <div class="banner">
+            <a href="http://astrazeneca.51job.com/"> <div class="banner1 bb" style="background:url(images/bantua.jpg) center top no-repeat; width:972px; height:400px;"></div></a>
+
+                <a href="http://campus.51job.com/astrazeneca/" target="_blank"> </a><div class="banner2 bb"><a href="http://campus.51job.com/astrazeneca/" target="_blank" tracename="2015校园招聘计划；携手共赢，成就不凡"><span class="allfont"><span class="bfont">2015校园招聘计划；携手共赢，成就不凡</span><span class="sfont"></span></span></a><a href="http://campus.51job.com/astrazeneca/" target="_blank"></a></div>
+            </div>
+            <div class="mainnav" style="height:61px;">
+            <div style="width:100%; float:left; margin-top:22px; overflow:hidden; margin-left:20px; position:relative; z-index:999;">
+            	<div id="m1"><a href="http://www.astrazeneca.com.cn" target="_blank" tracename="主页">主页</a></div>
+                <div id="m2"><a href="http://www.astrazeneca.com.cn/zh/about-us/" target="_blank" tracename="关于我们">关于我们</a></div>
+                <div id="m2"><a href="http://www.astrazeneca.com.cn/zh/medicines/" target="_blank" tracename="药物">药物</a></div>
+                <div id="m2"><a href="http://www.astrazeneca.com.cn/zh/research" target="_blank" tracename="研发">研发</a></div>
+                <div id="m2"><a href="http://www.astrazeneca.com.cn/zh/partnering" target="_blank" tracename="合作">合作</a></div>
+                <div id="m2"><a href="http://www.astrazeneca.com.cn/zh/responsibilty" target="_blank" tracename="责任">责任</a></div>
+                
+                
+                </div>
+          </div>
+            
+      </div>
+	</div></td>
+  </tr>
+</tbody></table><table border="0" cellspacing="0" cellpadding="0" width="978" bgcolor="#ffffff" align="center">
+  <tbody>
+  <tr>
+    <td valign="top" style="padding-top:5px; padding-left:5px;" width="176"><br><script language="javascript">
+function clearfield()
+{
+	if (document.quicksearch.keyword.value == "请输入职位关键字")
+		document.quicksearch.keyword.value = "";
+}
+</script>
+<form name="quicksearch" method="post" action="http://astrazeneca.51job.com/index.php?begin=begin" style="margin-left:20px;">
+<input type="hidden" name="keywordtype" value="2">
+<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td height="30" align="center"><select name="division" id="division" class="unnamed1" style="width:158px;">
+                  <option value="">- 请选择部门名称 -</option>
+				  <option value="(4295784)">销售行政 Sales Admin</option>
+				  <option value="(4295783)">重点客户Key Account </option>
+				  <option value="(4295782)">研发/创新中心 R&amp;D/ICC </option>
+				  <option value="(4295781)">行政/新园区 Facility/New Site</option>
+				  <option value="(4295780)">信息服务 IS </option>
+				  <option value="(4295778)">销售 Sales </option>
+				  <option value="(4295777)">市场/战略规划和业务发展 Marketing/SPBD </option>
+				  <option value="(4295776)">生产 Manufacturing</option>
+				  <option value="(4295775)">商务 Commercial </option>
+				  <option value="(4295774)">人力资源/安全健康环境 HR/SHE</option>
+				  <option value="(4295773)">其它 Others </option>
+				  <option value="(4295772)">内控合规/公关，公益和国际事务</option>
+				  <option value="(4295771)">法务 Legal/Security </option>
+				  <option value="(4295770)">采购/全球采购中心 Purchasing/ China Sourcing Center </option>
+				  <option value="(4295769)">财务 Finance </option>
+				  <option value="(4294514)">法务部 </option>
+				  <option value="(4111871)">药物研发部 </option>
+				  <option value="(4104472)">销售部 </option>
+				  <option value="(3838142)">ICC-Innovation Center China中国创新研究中心 </option>
+				  <option value="(2273114)">采购部 </option>
+				  <option value="(1528112)">政府事务部</option>
+				  <option value="(1458127)">销售培训部 </option>
+				  <option value="(1283152)">销售商务部</option>
+				  <option value="(1283148)">销售行政部</option>
+				  <option value="(151731)">市场销售部</option>
+				  <option value="(133424)">人力资源部</option>
+				  <option value="(133421)">财务部 </option>
+				  <option value="(133189)">生产基地 </option>
+				  <option value="(132533)">电脑部 </option>
+				  <option value="(132297)">销售部 </option>
+				  <option value="(132296)">市场部</option>
+  				  </select></td>
+        </tr>
+        <tr>
+          <td height="30" align="center"><select name="jobarea" class="unnamed1" style="width:158px;">
+      <option value="0000">- 请选择工作地点 -</option>
+        <option value="010000" title="北京">北京</option>
+<option value="010500" title="朝阳区">朝阳区</option>
+<option value="011100" title="通州区">通州区</option>
+<option value="011400" title="大兴区">大兴区</option>
+<option value="020000" title="上海">上海</option>
+<option value="021000" title="浦东新区">浦东新区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="030200" title="广州">广州</option>
+<option value="030203" title="海珠区">海珠区</option>
+<option value="030204" title="天河区">天河区</option>
+<option value="030300" title="惠州">惠州</option>
+<option value="030400" title="汕头">汕头</option>
+<option value="030500" title="珠海">珠海</option>
+<option value="030600" title="佛山">佛山</option>
+<option value="030603" title="南海区">南海区</option>
+<option value="030700" title="中山">中山</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="031400" title="韶关">韶关</option>
+<option value="031500" title="江门">江门</option>
+<option value="031700" title="湛江">湛江</option>
+<option value="031800" title="肇庆">肇庆</option>
+<option value="031900" title="清远">清远</option>
+<option value="032100" title="河源">河源</option>
+<option value="032300" title="茂名">茂名</option>
+<option value="032400" title="汕尾">汕尾</option>
+<option value="032600" title="梅州">梅州</option>
+<option value="032800" title="阳江">阳江</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="050000" title="天津">天津</option>
+<option value="060000" title="重庆">重庆</option>
+<option value="060100" title="渝中区">渝中区</option>
+<option value="061900" title="江津区">江津区</option>
+<option value="062500" title="璧山区">璧山区</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070200" title="南京">南京</option>
+<option value="070203" title="秦淮区">秦淮区</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070400" title="无锡">无锡</option>
+<option value="070405" title="无锡新区">无锡新区</option>
+<option value="070408" title="宜兴市">宜兴市</option>
+<option value="070409" title="江阴市">江阴市</option>
+<option value="070500" title="常州">常州</option>
+<option value="070507" title="溧阳市">溧阳市</option>
+<option value="070600" title="昆山">昆山</option>
+<option value="070800" title="扬州">扬州</option>
+<option value="070806" title="宝应县">宝应县</option>
+<option value="070900" title="南通">南通</option>
+<option value="071000" title="镇江">镇江</option>
+<option value="071005" title="扬中市">扬中市</option>
+<option value="071006" title="句容市">句容市</option>
+<option value="071100" title="徐州">徐州</option>
+<option value="071107" title="沛县">沛县</option>
+<option value="071108" title="丰县">丰县</option>
+<option value="071109" title="邳州市">邳州市</option>
+<option value="071200" title="连云港">连云港</option>
+<option value="071205" title="东海县">东海县</option>
+<option value="071300" title="盐城">盐城</option>
+<option value="071304" title="建湖县">建湖县</option>
+<option value="071400" title="张家港">张家港</option>
+<option value="071600" title="太仓">太仓</option>
+<option value="071800" title="泰州">泰州</option>
+<option value="071804" title="兴化市">兴化市</option>
+<option value="071805" title="泰兴市">泰兴市</option>
+<option value="071806" title="靖江市">靖江市</option>
+<option value="071900" title="淮安">淮安</option>
+<option value="071906" title="盱眙县">盱眙县</option>
+<option value="072000" title="宿迁">宿迁</option>
+<option value="072100" title="丹阳">丹阳</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080201" title="拱墅区">拱墅区</option>
+<option value="080211" title="建德市">建德市</option>
+<option value="080212" title="桐庐县">桐庐县</option>
+<option value="080213" title="淳安县">淳安县</option>
+<option value="080300" title="宁波">宁波</option>
+<option value="080308" title="余姚市">余姚市</option>
+<option value="080400" title="温州">温州</option>
+<option value="080500" title="绍兴">绍兴</option>
+<option value="080505" title="嵊州市">嵊州市</option>
+<option value="080506" title="诸暨市">诸暨市</option>
+<option value="080600" title="金华">金华</option>
+<option value="080700" title="嘉兴">嘉兴</option>
+<option value="080800" title="台州">台州</option>
+<option value="080900" title="湖州">湖州</option>
+<option value="081200" title="衢州">衢州</option>
+<option value="090000" title="四川省">四川省</option>
+<option value="090200" title="成都">成都</option>
+<option value="090204" title="武侯区">武侯区</option>
+<option value="090220" title="高新区">高新区</option>
+<option value="090300" title="绵阳">绵阳</option>
+<option value="090400" title="乐山">乐山</option>
+<option value="090500" title="泸州">泸州</option>
+<option value="090600" title="德阳">德阳</option>
+<option value="090700" title="宜宾">宜宾</option>
+<option value="090800" title="自贡">自贡</option>
+<option value="090900" title="内江">内江</option>
+<option value="091000" title="攀枝花">攀枝花</option>
+<option value="091100" title="南充">南充</option>
+<option value="091300" title="广安">广安</option>
+<option value="091400" title="资阳">资阳</option>
+<option value="091500" title="遂宁">遂宁</option>
+<option value="091600" title="广元">广元</option>
+<option value="091700" title="达州">达州</option>
+<option value="091900" title="西昌">西昌</option>
+<option value="092000" title="巴中">巴中</option>
+<option value="100000" title="海南省">海南省</option>
+<option value="100200" title="海口">海口</option>
+<option value="100700" title="万宁">万宁</option>
+<option value="110000" title="福建省">福建省</option>
+<option value="110200" title="福州">福州</option>
+<option value="110201" title="鼓楼区">鼓楼区</option>
+<option value="110300" title="厦门">厦门</option>
+<option value="110301" title="思明区">思明区</option>
+<option value="110400" title="泉州">泉州</option>
+<option value="110500" title="漳州">漳州</option>
+<option value="111000" title="龙岩">龙岩</option>
+<option value="120000" title="山东省">山东省</option>
+<option value="120200" title="济南">济南</option>
+<option value="120300" title="青岛">青岛</option>
+<option value="120400" title="烟台">烟台</option>
+<option value="120407" title="莱阳市">莱阳市</option>
+<option value="120412" title="海阳市">海阳市</option>
+<option value="120600" title="威海">威海</option>
+<option value="120700" title="淄博">淄博</option>
+<option value="120800" title="临沂">临沂</option>
+<option value="120900" title="济宁">济宁</option>
+<option value="121000" title="东营">东营</option>
+<option value="121100" title="泰安">泰安</option>
+<option value="121200" title="日照">日照</option>
+<option value="121500" title="滨州">滨州</option>
+<option value="121600" title="枣庄">枣庄</option>
+<option value="121700" title="聊城">聊城</option>
+<option value="130000" title="江西省">江西省</option>
+<option value="130200" title="南昌">南昌</option>
+<option value="130201" title="东湖区">东湖区</option>
+<option value="130300" title="九江">九江</option>
+<option value="130800" title="赣州">赣州</option>
+<option value="130900" title="吉安">吉安</option>
+<option value="131100" title="抚州">抚州</option>
+<option value="131200" title="上饶">上饶</option>
+<option value="140000" title="广西">广西</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="140300" title="桂林">桂林</option>
+<option value="140400" title="柳州">柳州</option>
+<option value="140500" title="北海">北海</option>
+<option value="140600" title="玉林">玉林</option>
+<option value="141000" title="贵港">贵港</option>
+<option value="141400" title="崇左">崇左</option>
+<option value="141500" title="贺州">贺州</option>
+<option value="150000" title="安徽省">安徽省</option>
+<option value="150200" title="合肥">合肥</option>
+<option value="150300" title="芜湖">芜湖</option>
+<option value="150306" title="繁昌县">繁昌县</option>
+<option value="150400" title="安庆">安庆</option>
+<option value="150600" title="蚌埠">蚌埠</option>
+<option value="150700" title="阜阳">阜阳</option>
+<option value="150800" title="铜陵">铜陵</option>
+<option value="150900" title="滁州">滁州</option>
+<option value="151000" title="黄山">黄山</option>
+<option value="151100" title="淮南">淮南</option>
+<option value="151400" title="宣城">宣城</option>
+<option value="151500" title="池州">池州</option>
+<option value="151600" title="宿州">宿州</option>
+<option value="151700" title="淮北">淮北</option>
+<option value="160000" title="河北省">河北省</option>
+<option value="160200" title="石家庄">石家庄</option>
+<option value="160300" title="廊坊">廊坊</option>
+<option value="160400" title="保定">保定</option>
+<option value="160500" title="唐山">唐山</option>
+<option value="160700" title="邯郸">邯郸</option>
+<option value="160800" title="沧州">沧州</option>
+<option value="160900" title="张家口">张家口</option>
+<option value="161100" title="邢台">邢台</option>
+<option value="161200" title="衡水">衡水</option>
+<option value="170000" title="河南省">河南省</option>
+<option value="170200" title="郑州">郑州</option>
+<option value="170300" title="洛阳">洛阳</option>
+<option value="170400" title="开封">开封</option>
+<option value="170600" title="南阳">南阳</option>
+<option value="170700" title="新乡">新乡</option>
+<option value="170800" title="周口">周口</option>
+<option value="170900" title="安阳">安阳</option>
+<option value="171000" title="平顶山">平顶山</option>
+<option value="171100" title="许昌">许昌</option>
+<option value="171200" title="信阳">信阳</option>
+<option value="171300" title="商丘">商丘</option>
+<option value="171500" title="漯河">漯河</option>
+<option value="171600" title="濮阳">濮阳</option>
+<option value="180000" title="湖北省">湖北省</option>
+<option value="180200" title="武汉">武汉</option>
+<option value="180300" title="宜昌">宜昌</option>
+<option value="180400" title="黄石">黄石</option>
+<option value="180500" title="襄阳">襄阳</option>
+<option value="180600" title="十堰">十堰</option>
+<option value="180700" title="荆州">荆州</option>
+<option value="180800" title="荆门">荆门</option>
+<option value="180900" title="孝感">孝感</option>
+<option value="181100" title="黄冈">黄冈</option>
+<option value="181500" title="潜江">潜江</option>
+<option value="181800" title="恩施">恩施</option>
+<option value="190000" title="湖南省">湖南省</option>
+<option value="190200" title="长沙">长沙</option>
+<option value="190500" title="衡阳">衡阳</option>
+<option value="190600" title="岳阳">岳阳</option>
+<option value="190700" title="常德">常德</option>
+<option value="190900" title="郴州">郴州</option>
+<option value="191000" title="邵阳">邵阳</option>
+<option value="191100" title="怀化">怀化</option>
+<option value="191400" title="张家界">张家界</option>
+<option value="200000" title="陕西省">陕西省</option>
+<option value="200200" title="西安">西安</option>
+<option value="200300" title="咸阳">咸阳</option>
+<option value="200400" title="宝鸡">宝鸡</option>
+<option value="200600" title="延安">延安</option>
+<option value="200700" title="渭南">渭南</option>
+<option value="200800" title="榆林">榆林</option>
+<option value="200900" title="汉中">汉中</option>
+<option value="201000" title="安康">安康</option>
+<option value="210000" title="山西省">山西省</option>
+<option value="210200" title="太原">太原</option>
+<option value="210400" title="大同">大同</option>
+<option value="211000" title="晋中">晋中</option>
+<option value="211100" title="忻州">忻州</option>
+<option value="211200" title="吕梁">吕梁</option>
+<option value="220000" title="黑龙江省">黑龙江省</option>
+<option value="220200" title="哈尔滨">哈尔滨</option>
+<option value="220400" title="绥化">绥化</option>
+<option value="220700" title="牡丹江">牡丹江</option>
+<option value="220800" title="佳木斯">佳木斯</option>
+<option value="220900" title="鸡西">鸡西</option>
+<option value="221100" title="双鸭山">双鸭山</option>
+<option value="221400" title="大兴安岭">大兴安岭</option>
+<option value="230000" title="辽宁省">辽宁省</option>
+<option value="230200" title="沈阳">沈阳</option>
+<option value="230300" title="大连">大连</option>
+<option value="230307" title="瓦房店市">瓦房店市</option>
+<option value="230400" title="鞍山">鞍山</option>
+<option value="230600" title="抚顺">抚顺</option>
+<option value="230700" title="锦州">锦州</option>
+<option value="230800" title="丹东">丹东</option>
+<option value="230900" title="葫芦岛">葫芦岛</option>
+<option value="231100" title="辽阳">辽阳</option>
+<option value="231400" title="朝阳">朝阳</option>
+<option value="240000" title="吉林省">吉林省</option>
+<option value="240200" title="长春">长春</option>
+<option value="240300" title="吉林">吉林</option>
+<option value="240500" title="通化">通化</option>
+<option value="240900" title="白山">白山</option>
+<option value="241100" title="延边">延边</option>
+<option value="250000" title="云南省">云南省</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="250300" title="曲靖">曲靖</option>
+<option value="251300" title="昭通">昭通</option>
+<option value="251500" title="西双版纳">西双版纳</option>
+<option value="251700" title="楚雄">楚雄</option>
+<option value="270000" title="甘肃省">甘肃省</option>
+<option value="270200" title="兰州">兰州</option>
+<option value="270207" title="永登县">永登县</option>
+<option value="270600" title="天水">天水</option>
+<option value="270800" title="白银">白银</option>
+<option value="271000" title="平凉">平凉</option>
+<option value="271100" title="定西">定西</option>
+<option value="271500" title="甘南">甘南</option>
+<option value="280000" title="内蒙古">内蒙古</option>
+<option value="280800" title="鄂尔多斯">鄂尔多斯</option>
+<option value="281000" title="乌海">乌海</option>
+<option value="281100" title="呼伦贝尔">呼伦贝尔</option>
+<option value="290000" title="宁夏">宁夏</option>
+<option value="290200" title="银川">银川</option>
+<option value="300000" title="西藏">西藏</option>
+<option value="310000" title="新疆">新疆</option>
+<option value="310400" title="喀什地区">喀什地区</option>
+<option value="310500" title="伊犁">伊犁</option>
+<option value="310600" title="阿克苏">阿克苏</option>
+<option value="311300" title="阿勒泰">阿勒泰</option>
+<option value="311500" title="塔城">塔城</option>
+<option value="311600" title="和田">和田</option>
+<option value="311700" title="克孜勒苏柯尔克孜">克孜勒苏柯尔克孜</option>
+    </select></td>
+        </tr>
+        <tr>
+          <td height="30" align="center"><select name="funtype" class="unnamed1" style="width:158px;">
+      <option value="0000">- 请选择工作类别 -</option>
+        <option value="0100" title="后端开发">后端开发</option>
+<option value="0123" title="--系统分析员">--系统分析员</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0305" title="--市场助理">--市场助理</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0330" title="--产品/品牌专员">--产品/品牌专员</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0402" title="--财务经理">--财务经理</option>
+<option value="0407" title="--财务分析员">--财务分析员</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0606" title="--招聘经理/主管">--招聘经理/主管</option>
+<option value="0608" title="--薪资福利专员/助理">--薪资福利专员/助理</option>
+<option value="0610" title="--培训专员/助理/培训师">--培训专员/助理/培训师</option>
+<option value="0626" title="--招聘专员/助理">--招聘专员/助理</option>
+<option value="0629" title="--企业文化/员工关系/工会管理">--企业文化/员工关系/工会管理</option>
+<option value="0630" title="--人力资源信息系统专员">--人力资源信息系统专员</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0703" title="--总裁助理/总经理助理">--总裁助理/总经理助理</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1110" title="--合规主管/专员">--合规主管/专员</option>
+<option value="1600" title="在校学生">在校学生</option>
+<option value="1604" title="--其他">--其他</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1703" title="--实习生">--实习生</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2304" title="--经理助理/秘书">--经理助理/秘书</option>
+<option value="2600" title="技术管理">技术管理</option>
+<option value="2610" title="--项目助理">--项目助理</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3012" title="--销售助理">--销售助理</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3104" title="--商务主管/专员">--商务主管/专员</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3106" title="--销售行政助理">--销售行政助理</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3300" title="金融/证券/期货/投资">金融/证券/期货/投资</option>
+<option value="3304" title="--金融/经济研究员">--金融/经济研究员</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3609" title="--环境/健康/安全经理/主管（EHS）">--环境/健康/安全经理/主管（EHS）</option>
+<option value="3900" title="采购">采购</option>
+<option value="3903" title="--采购主管">--采购主管</option>
+<option value="4100" title="生物/制药/医疗器械">生物/制药/医疗器械</option>
+<option value="4101" title="--生物工程/生物制药">--生物工程/生物制药</option>
+<option value="4102" title="--医药销售人员">--医药销售人员</option>
+<option value="4104" title="--医药技术研发人员">--医药技术研发人员</option>
+<option value="4105" title="--临床研究员">--临床研究员</option>
+<option value="4106" title="--临床协调员">--临床协调员</option>
+<option value="4107" title="--药品注册">--药品注册</option>
+<option value="4109" title="--药品市场推广经理">--药品市场推广经理</option>
+<option value="4110" title="--药品市场推广主管/专员">--药品市场推广主管/专员</option>
+<option value="4111" title="--医药销售经理/主管">--医药销售经理/主管</option>
+<option value="4112" title="--医药代表">--医药代表</option>
+<option value="4115" title="--其他">--其他</option>
+<option value="4121" title="--政府事务管理">--政府事务管理</option>
+<option value="4122" title="--招投标管理">--招投标管理</option>
+<option value="4126" title="--医药学术推广">--医药学术推广</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4305" title="--会务/会展主管">--会务/会展主管</option>
+<option value="7500" title="数据">数据</option>
+<option value="7504" title="--BI工程师">--BI工程师</option>
+<option value="7900" title="运维/技术支持">运维/技术支持</option>
+<option value="7902" title="--系统工程师">--系统工程师</option>
+<option value="8000" title="运营">运营</option>
+<option value="8044" title="--数据运营">--数据运营</option>
+<option value="8048" title="--运营主管">--运营主管</option>
+<option value="8053" title="--运营助理">--运营助理</option>
+    </select></td>
+        </tr>
+        <tr>
+          <td height="30" align="center"><select name="issuedate" id="issuedate" class="unnamed1" style="width:158px;">
+      <option value="0000">- 请选择发布时间 -</option>
+        <option value="01">近一天</option><option value="02">近二天</option><option value="03">近三天</option><option value="07">近一周</option><option value="14">近两周</option><option value="30">近一月</option><option value="42">近六周</option><option value="60">近两月</option>    </select></td>
+        </tr>
+        <tr>
+          <td height="25"><input type="text" class="form_txt" onfocus="javascript:clearfield();" value="请输入职位关键字" name="keyword" style="width:158px;"></td>
+        </tr>
+        <tr>
+          <td width="157" height="25">　　　　　　　　　<a href="#">
+            <input name="image" type="image" src="http://astrazeneca.51job.com/images/t2.gif" width="41" height="21" border="0">
+          </a></td>
+        </tr>
+  </tbody></table>
+<!--&nbsp;&nbsp;&nbsp;<a href="http://campus.51job.com/AstraZeneca" target="_blank"><img src="http://astrazeneca.51job.com/images/130428.gif" width="150" height="290" border="0" /></a></a><br />-->
+</form></td>
+    <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody>
+
+        <tr>
+          <td><!-- background=http://astrazeneca.51job.com/images/index_26.jpg>-->
+            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+              <tbody>
+              <tr>
+                <td valign="top" width="74%">
+                  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                    <tr>
+                      <td width="28">&nbsp;</td>
+                      <td width="561">
+                        <table class="unnamed2" border="0" cellspacing="0" cellpadding="0" width="533">
+                          <tbody>
+                          <tr>
+                            <td>&nbsp;</td></tr>
+                         
+                          <tr>
+                            <td width="100%">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="54%" align="left" style="color: #5C0035; font-weight: bold; font-size:16px;">区域市场助理（三方）</td>
+                      </tr>
+                      <tr>
+                        <td height="5" align="left"></td>
+                      </tr>
+                      <tr>
+                        <td height="26" align="left"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#cccccc" id="joblra">
+                          <tbody><tr>
+                            <td width="16%" height="25" bgcolor="#E4E4E4">发布日期：</td>
+                            <td width="20%" bgcolor="#FFFFFF">2021-08-02</td>
+                            <td width="16%" bgcolor="#E4E4E4">工作地点：</td>
+                            <td width="23%" bgcolor="#FFFFFF">杭州</td>
+                            <td width="15%" bgcolor="#E4E4E4">招聘人数：</td>
+                            <td width="10%" bgcolor="#FFFFFF">1</td>
+                            </tr>
+                          <tr>
+                            <td height="25" bgcolor="#E4E4E4">语言要求：</td>
+                            <td bgcolor="#FFFFFF">&nbsp;</td>
+                            <td bgcolor="#E4E4E4">学　　历：</td>
+                            <td bgcolor="#FFFFFF">本科</td>
+                            <td bgcolor="#E4E4E4">&nbsp;</td>
+                            <td bgcolor="#FFFFFF">&nbsp;</td>
+                            </tr>
+                          </tbody></table>
+                          <br></td>
+                      </tr>
+                      <tr>
+                        <td height="46" align="left"><strong>职位描述</strong></td>
+                      </tr>
+                      <tr>
+                        <td height="26" align="left" style="text-align:justify; text-justify:inter-ideograph;"><p></p><p><span>1</span><span>，熟练掌握办公软件，尤其是<span>ECXEL</span>，<span>PPT</span>制作，电子媒体运用等。 <span></span></span></p>    <p><span>2</span><span>，各项客户数据管理，销售数据分析和汇总，多个业务申请系统操作<span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>    <p><span>3</span><span>，会务管理：协助组织各种销售会议，团队建设项目策划，年会协调等<span>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>    <p><span>4</span><span>，沟通协调销售团队完成各项报表<span></span></span></p>    <p><span></span></p>    <p><span>要求：大学本科以上学历，不限专业—<span>-</span>英文，财务，行政管理专业优先。<span></span></span></p><br><p></p></td>
+                      </tr>
+                      <tr>
+                        <td height="30" align="left"></td>
+                      </tr>
+                      <tr>
+                        <td height="1" align="left" bgcolor="#CCCCCC"></td>
+                      </tr>
+                      <tr>
+                        <td height="30" align="left"></td>
+                      </tr>
+                      <tr>
+                        <td height="26" align="left"><h3><a href="http://astrazeneca.51job.com/cv_easy/cv_log.php?jobid=(133120026)" tracename="img-1-btn_apply.gif"><img src="http://astrazeneca.51job.com/images/btn_apply.gif" width="80" height="21" border="0"></a>　<a href="http://astrazeneca.51job.com/cv/sendjob_tofriend.php?25152&amp;jobid=133120026&amp;divid=0&amp;coid=2234812" tracename="img-2-btn_share.gif"><img src="http://astrazeneca.51job.com/images/btn_share.gif" width="80" height="21" border="0"></a></h3></td>
+                      </tr>
+                    </tbody></table>
+					                            </td></tr></tbody></table>
+                        <br><br></td></tr></tbody></table></td>
+                <td style="LINE-HEIGHT: 20px " valign="top" width="26%">
+                                  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                    <tr>
+                      <td height="10"></td>
+                      </tr>
+
+                     <!--<TR>
+                      <TD height=40><SPAN 
+                        style="COLOR: #4b306a; FONT-SIZE: 13px; FONT-WEIGHT: bold" 
+                        class=linkspanelheader>English Version</SPAN></TD>
+                      </TR>
+                    <TR>
+                      <TD><IMG src="http://astrazeneca.51job.com/images/t.gif" 
+                        width=4 height=7>&nbsp;&nbsp;<A 
+                        href="http://en.astrazeneca.com.cn/" 
+                        target=_blank>en.astrazeneca.com.cn</A></TD>
+                      </TR>
+                    <TR>
+                      <TD height=30 vAlign=bottom><IMG 
+                        src="http://astrazeneca.51job.com/images/t1.gif" width=172 
+                        height=1></TD>
+                      </TR>
+                    <TR>
+                      <TD height=10></TD>
+                      </TR>
+                    <TR>
+                     <TD>
+                        <P>&nbsp;</P>
+                        <P><a href="http://campus.51job.com/AstraZeneca/"><img border=0  src="http://astrazeneca.51job.com/images/campus1218a.jpg"    width=150 height=101 /></a></P></TD>-->
+                      
+                       <tr>
+                      <td style="padding:0; height:81px">
+                        <!--<P>&nbsp;</P>-->
+                        <p style="padding-top:17px;"><img border="0" src="http://astrazeneca.51job.com/images/top2017.png" width="180" height="81"></p></td>
+                      </tr>
+                      <tr>
+                      <td style="padding:0; height:81px">
+                        <!--<P>&nbsp;</P>-->
+                        <p style="padding-top:17px;"><img border="0" src="http://astrazeneca.51job.com/images/top2016.jpg" width="180" height="81"></p></td>
+                      </tr>
+                      <tr>
+                      <td style="padding:0; height:81px">
+                        <p>&nbsp;</p>
+                        <p><img border="0" src="http://astrazeneca.51job.com/images/top2015.jpg" width="180" height="81"></p></td>
+                      </tr>
+					<tr>
+                      <td>
+                        <p>&nbsp;</p>
+                        <p><img border="0" src="http://astrazeneca.51job.com/images/2014.jpg" width="180" height="81"></p></td>
+                      </tr>
+                      <tr>
+                      <td height="30" valign="bottom">
+                        <p>&nbsp;</p>
+                        <p><img border="0" src="http://astrazeneca.51job.com/images/campus.jpg" width="180" height="81"></p></td>
+                      </tr>
+                    <tr>
+                    </tr><tr>
+                      <td height="30" valign="bottom">
+                        <p>&nbsp;</p>
+                        <p><img border="0" src="http://astrazeneca.51job.com/images/top2012.jpg" width="180" height="81"></p></td>
+                      </tr>
+					                      <tr>
+                      <td height="30" valign="bottom">
+                        <p>&nbsp;</p>
+                        <p><img border="0" src="http://astrazeneca.51job.com/images/top2011.jpg" width="180" height="81"></p></td>
+                      </tr>
+                      
+                      
+                    <!--<TR>
+                      <TD height=30 vAlign=bottom><IMG 
+                        src="http://astrazeneca.51job.com/images/t1.gif" width=172 
+                        height=1></TD>
+                      </TR>-->
+                      
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr></tbody></table>				</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="978" align="center">
+  <tbody>
+  <tr>
+    <td height="115" valign="center" background="http://astrazeneca.51job.com/images/index_28.jpg">
+      <div id="footer">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody>
+        <tr>
+          <td width="21%">&nbsp;</td>
+          <td width="79%"><a class="a" title="法律声明" href="http://www.astrazeneca.com.cn/legalpolicy/" tracename="法律声明">法律声明</a>　<span style="COLOR: #fff">|</span>　<a class="a" title="隐私条款" href="http://www.astrazeneca.com.cn/privacy/" tracename="隐私条款">隐私条款</a>　<span style="COLOR: #fff">|</span>　<a class="a" title="版权" href="http://www.astrazeneca.com.cn/legalpolicy#copyright" tracename="版权">版权</a> 
+            <p style="COLOR: #fff; FONT-SIZE: 11px" align="left">Information 
+            contained in this site is solely intended for the use of residents 
+            of mainland 
+China.</p></td></tr></tbody></table></div></td></tr></tbody></table>
+<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

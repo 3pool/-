@@ -1,0 +1,250 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=1177620&guid=&dType=1&jobId=133628728&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	// document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<meta http-equiv="content-type" content="text/html;charset=gb2312">
+<title>【浙江泰隆银行招聘，求职】浙江泰隆银行前程无忧官方招聘网</title>
+<!--search_js-->
+<script type="text/javascript" src="http://zjtlcb.51job.com/js/jquery.min.js"></script>
+<link rel="stylesheet" href="http://zjtlcb.51job.com/css/jqtransform.css" type="text/css">
+<script type="text/javascript" src="http://zjtlcb.51job.com/js/jquery.jqtransform.js"></script>
+<script language="javascript">
+$(function(){
+	$('#form').jqTransform({imgPath:'/images/'});
+		});
+	</script>
+<!--search_js_end-->
+<!--input_in-->
+<script type="text/javascript">
+//on
+function on(clickon,word)
+{if(clickon.value==word){clickon.value="";}}
+//out 
+function out(clickout,word)
+{if(clickout.value==""||clickout.value.replace(/\s/g,"")==""){clickout.value=word;}}
+</script> 
+<!--input_out-->
+<script language="javascript" type="text/javascript">
+$(window).load(function(){
+$(".career .tbody tr:odd").css("background","#fff");					
+  })
+</script>
+<link href="http://zjtlcb.51job.com/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="main">
+ <div class="logo"><a href="http://zjtlcb.51job.com/index.php" tracename="img-1-logo.jpg"><img src="http://zjtlcb.51job.com/images/logo.jpg" width="275" height="47" border="0"></a></div>
+ <div class="inside">
+  <div class="nav"><a class="nav0" href="http://zjtlcb.51job.com/main.php"></a><a class="nav1" href="http://www.zjtlcb.com" target="_blank"></a><a class="nav2" href="http://www.zjtlcb.com/site1/i_gytl/tljj/" target="_blank"></a></div>
+  <div class="pic"><img src="http://zjtlcb.51job.com/images/index_10_1.jpg" width="961" height="363"></div>
+ 	  <div class="content">
+    <div class="left"><img src="http://zjtlcb.51job.com/images/index_12.jpg" width="201" height="33">
+    	<div id="search_hold">
+<form id="form" name="quicksearch" method="post" action="http://zjtlcb.51job.com/joblist.php?begin=begin" class="jqtransformdone">
+	<input type="hidden" name="keywordtype" value="2">
+<div class="jqTransformSelectWrapper" style="z-index: 10; width: 199px;"><div><span style="width: 120px;">按分支机构搜索</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 174px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">按分支机构搜索</a></li><li><a href="#" index="1">湖北大冶泰隆村镇银行</a></li><li><a href="#" index="2">苏州分行</a></li><li><a href="#" index="3">衢州分行</a></li><li><a href="#" index="4">上海分行</a></li><li><a href="#" index="5">金华分行</a></li><li><a href="#" index="6">宁波分行</a></li><li><a href="#" index="7">杭州分行</a></li><li><a href="#" index="8">丽水分行</a></li><li><a href="#" index="9">嘉兴分行</a></li><li><a href="#" index="10">舟山分行（筹）</a></li><li><a href="#" index="11">总行及台州区域</a></li></ul><select name="company" id="select" style="width: 120px;" class="jqTransformHidden">
+<option selected="" value="0000">按分支机构搜索</option>
+	    	<option value="2654030" title="湖北大冶泰隆村镇银行">湖北大冶泰隆村镇银行</option>	
+	<option value="2594835" title="苏州分行">苏州分行</option>	
+	<option value="2594829" title="衢州分行">衢州分行</option>	
+	<option value="2594825" title="上海分行">上海分行</option>	
+	<option value="2594823" title="金华分行">金华分行</option>	
+	<option value="2594818" title="宁波分行">宁波分行</option>	
+	<option value="2594814" title="杭州分行">杭州分行</option>	
+	<option value="2594800" title="丽水分行">丽水分行</option>	
+	<option value="2943436" title="嘉兴分行">嘉兴分行</option>	
+	<option value="3782925" title="舟山分行（筹）">舟山分行（筹）</option>	
+	<option value="2214283" title="总行及台州区域">总行及台州区域</option>	
+</select></div>
+<div class="jqTransformSelectWrapper" style="z-index: 9; width: 199px;"><div><span style="width: 120px;">按职位类别搜索</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 174px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">按职位类别搜索</a></li><li><a href="#" index="1">后端开发</a></li><li><a href="#" index="2">--高级软件工程师</a></li><li><a href="#" index="3">--软件工程师</a></li><li><a href="#" index="4">--Java开发工程师</a></li><li><a href="#" index="5">--大数据开发工程师</a></li><li><a href="#" index="6">市场/营销</a></li><li><a href="#" index="7">--市场/营销/拓展专员</a></li><li><a href="#" index="8">财务/审计/税务</a></li><li><a href="#" index="9">--财务经理</a></li><li><a href="#" index="10">--审计经理/主管</a></li><li><a href="#" index="11">--审计专员/助理</a></li><li><a href="#" index="12">--财务助理/财务文员</a></li><li><a href="#" index="13">--统计员</a></li><li><a href="#" index="14">--财务专员</a></li><li><a href="#" index="15">人力资源</a></li><li><a href="#" index="16">--人事专员</a></li><li><a href="#" index="17">--其他</a></li><li><a href="#" index="18">--绩效考核经理/主管</a></li><li><a href="#" index="19">银行</a></li><li><a href="#" index="20">--行长/副行长</a></li><li><a href="#" index="21">--资产评估/分析</a></li><li><a href="#" index="22">--风险控制</a></li><li><a href="#" index="23">--外汇交易</a></li><li><a href="#" index="24">--高级客户经理/客户经理</a></li><li><a href="#" index="25">--客户主管/专员</a></li><li><a href="#" index="26">--信贷管理</a></li><li><a href="#" index="27">--银行柜员</a></li><li><a href="#" index="28">--其他</a></li><li><a href="#" index="29">--个人业务部门经理/主管</a></li><li><a href="#" index="30">--个人业务客户经理</a></li><li><a href="#" index="31">--公司业务部门经理/主管</a></li><li><a href="#" index="32">--公司业务客户经理</a></li><li><a href="#" index="33">--综合业务经理/主管</a></li><li><a href="#" index="34">--综合业务专员</a></li><li><a href="#" index="35">--信审核查</a></li><li><a href="#" index="36">--呼叫中心客服</a></li><li><a href="#" index="37">行政/后勤</a></li><li><a href="#" index="38">--行政经理/主管/办公室主任</a></li><li><a href="#" index="39">--行政专员/助理</a></li><li><a href="#" index="40">测试</a></li><li><a href="#" index="41">--测试开发</a></li><li><a href="#" index="42">通信技术开发及应用</a></li><li><a href="#" index="43">--数据通信工程师</a></li><li><a href="#" index="44">销售人员</a></li><li><a href="#" index="45">--销售代表</a></li><li><a href="#" index="46">客服及支持</a></li><li><a href="#" index="47">--客服专员/助理</a></li><li><a href="#" index="48">金融/证券/期货/投资</a></li><li><a href="#" index="49">--证券/期货/外汇经纪人</a></li><li><a href="#" index="50">--投资/理财顾问</a></li><li><a href="#" index="51">--其他</a></li><li><a href="#" index="52">--金融产品经理</a></li><li><a href="#" index="53">--风险管理/控制</a></li><li><a href="#" index="54">--量化研究</a></li><li><a href="#" index="55">--证券交易员</a></li><li><a href="#" index="56">--投资经理</a></li><li><a href="#" index="57">--资产管理</a></li><li><a href="#" index="58">质量安全</a></li><li><a href="#" index="59">--质量管理/测试工程师(QA/QC工程师)</a></li><li><a href="#" index="60">广告</a></li><li><a href="#" index="61">--文案/策划</a></li><li><a href="#" index="62">--企业策划人员</a></li><li><a href="#" index="63">公关/媒介</a></li><li><a href="#" index="64">--活动策划</a></li><li><a href="#" index="65">产品</a></li><li><a href="#" index="66">--产品经理/主管</a></li><li><a href="#" index="67">--互联网产品经理</a></li><li><a href="#" index="68">--移动产品经理</a></li><li><a href="#" index="69">前端开发</a></li><li><a href="#" index="70">--Web前端开发</a></li><li><a href="#" index="71">数据</a></li><li><a href="#" index="72">--数据分析师</a></li><li><a href="#" index="73">--ETL开发工程师</a></li><li><a href="#" index="74">--数据仓库工程师</a></li><li><a href="#" index="75">--数据建模工程师</a></li><li><a href="#" index="76">--数据治理工程师</a></li><li><a href="#" index="77">移动开发</a></li><li><a href="#" index="78">--Android开发工程师</a></li><li><a href="#" index="79">--iOS开发工程师</a></li><li><a href="#" index="80">--移动开发工程师</a></li><li><a href="#" index="81">运维/技术支持</a></li><li><a href="#" index="82">--运维工程师</a></li><li><a href="#" index="83">--数据库工程师(DBA)</a></li><li><a href="#" index="84">--网络安全工程师</a></li><li><a href="#" index="85">--配置管理工程师</a></li><li><a href="#" index="86">--网络工程师(IT工程师)</a></li><li><a href="#" index="87">--网络管理(Helpdesk)</a></li><li><a href="#" index="88">--其他</a></li><li><a href="#" index="89">运营</a></li><li><a href="#" index="90">--活动运营</a></li><li><a href="#" index="91">--内容运营</a></li><li><a href="#" index="92">--数据运营</a></li><li><a href="#" index="93">--运营主管</a></li></ul><select name="funtype" id="select2" style="width: 120px;" class="jqTransformHidden">
+<option selected="" value="0000">按职位类别搜索</option>
+ <option value="0100" title="后端开发">后端开发</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0107" title="--软件工程师">--软件工程师</option>
+<option value="0121" title="--Java开发工程师">--Java开发工程师</option>
+<option value="0130" title="--大数据开发工程师">--大数据开发工程师</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0402" title="--财务经理">--财务经理</option>
+<option value="0410" title="--审计经理/主管">--审计经理/主管</option>
+<option value="0419" title="--审计专员/助理">--审计专员/助理</option>
+<option value="0422" title="--财务助理/财务文员">--财务助理/财务文员</option>
+<option value="0446" title="--统计员">--统计员</option>
+<option value="0458" title="--财务专员">--财务专员</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0625" title="--其他">--其他</option>
+<option value="0627" title="--绩效考核经理/主管">--绩效考核经理/主管</option>
+<option value="2200" title="银行">银行</option>
+<option value="2207" title="--行长/副行长">--行长/副行长</option>
+<option value="2208" title="--资产评估/分析">--资产评估/分析</option>
+<option value="2209" title="--风险控制">--风险控制</option>
+<option value="2212" title="--外汇交易">--外汇交易</option>
+<option value="2213" title="--高级客户经理/客户经理">--高级客户经理/客户经理</option>
+<option value="2214" title="--客户主管/专员">--客户主管/专员</option>
+<option value="2215" title="--信贷管理">--信贷管理</option>
+<option value="2216" title="--银行柜员">--银行柜员</option>
+<option value="2221" title="--其他">--其他</option>
+<option value="2223" title="--个人业务部门经理/主管">--个人业务部门经理/主管</option>
+<option value="2224" title="--个人业务客户经理">--个人业务客户经理</option>
+<option value="2225" title="--公司业务部门经理/主管">--公司业务部门经理/主管</option>
+<option value="2226" title="--公司业务客户经理">--公司业务客户经理</option>
+<option value="2227" title="--综合业务经理/主管">--综合业务经理/主管</option>
+<option value="2228" title="--综合业务专员">--综合业务专员</option>
+<option value="2229" title="--信审核查">--信审核查</option>
+<option value="2232" title="--呼叫中心客服">--呼叫中心客服</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2700" title="测试">测试</option>
+<option value="2722" title="--测试开发">--测试开发</option>
+<option value="2800" title="通信技术开发及应用">通信技术开发及应用</option>
+<option value="2805" title="--数据通信工程师">--数据通信工程师</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3300" title="金融/证券/期货/投资">金融/证券/期货/投资</option>
+<option value="3301" title="--证券/期货/外汇经纪人">--证券/期货/外汇经纪人</option>
+<option value="3306" title="--投资/理财顾问">--投资/理财顾问</option>
+<option value="3311" title="--其他">--其他</option>
+<option value="3312" title="--金融产品经理">--金融产品经理</option>
+<option value="3314" title="--风险管理/控制">--风险管理/控制</option>
+<option value="3316" title="--量化研究">--量化研究</option>
+<option value="3320" title="--证券交易员">--证券交易员</option>
+<option value="3323" title="--投资经理">--投资经理</option>
+<option value="3324" title="--资产管理">--资产管理</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3603" title="--质量管理/测试工程师(QA/QC工程师)">--质量管理/测试工程师(QA/QC工程师)</option>
+<option value="4200" title="广告">广告</option>
+<option value="4207" title="--文案/策划">--文案/策划</option>
+<option value="4209" title="--企业策划人员">--企业策划人员</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4313" title="--活动策划">--活动策划</option>
+<option value="6600" title="产品">产品</option>
+<option value="6602" title="--产品经理/主管">--产品经理/主管</option>
+<option value="6605" title="--互联网产品经理">--互联网产品经理</option>
+<option value="6606" title="--移动产品经理">--移动产品经理</option>
+<option value="7200" title="前端开发">前端开发</option>
+<option value="7201" title="--Web前端开发">--Web前端开发</option>
+<option value="7500" title="数据">数据</option>
+<option value="7501" title="--数据分析师">--数据分析师</option>
+<option value="7503" title="--ETL开发工程师">--ETL开发工程师</option>
+<option value="7505" title="--数据仓库工程师">--数据仓库工程师</option>
+<option value="7507" title="--数据建模工程师">--数据建模工程师</option>
+<option value="7508" title="--数据治理工程师">--数据治理工程师</option>
+<option value="7700" title="移动开发">移动开发</option>
+<option value="7701" title="--Android开发工程师">--Android开发工程师</option>
+<option value="7702" title="--iOS开发工程师">--iOS开发工程师</option>
+<option value="7703" title="--移动开发工程师">--移动开发工程师</option>
+<option value="7900" title="运维/技术支持">运维/技术支持</option>
+<option value="7901" title="--运维工程师">--运维工程师</option>
+<option value="7903" title="--数据库工程师(DBA)">--数据库工程师(DBA)</option>
+<option value="7906" title="--网络安全工程师">--网络安全工程师</option>
+<option value="7910" title="--配置管理工程师">--配置管理工程师</option>
+<option value="7913" title="--网络工程师(IT工程师)">--网络工程师(IT工程师)</option>
+<option value="7914" title="--网络管理(Helpdesk)">--网络管理(Helpdesk)</option>
+<option value="7919" title="--其他">--其他</option>
+<option value="8000" title="运营">运营</option>
+<option value="8042" title="--活动运营">--活动运营</option>
+<option value="8043" title="--内容运营">--内容运营</option>
+<option value="8044" title="--数据运营">--数据运营</option>
+<option value="8048" title="--运营主管">--运营主管</option>
+</select></div>
+<div class="jqTransformSelectWrapper" style="z-index: 8; width: 199px;"><div><span style="width: 120px;">按工作地点搜索</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 174px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">按工作地点搜索</a></li><li><a href="#" index="1">上海</a></li><li><a href="#" index="2">浦东新区</a></li><li><a href="#" index="3">广东省</a></li><li><a href="#" index="4">肇庆</a></li><li><a href="#" index="5">江苏省</a></li><li><a href="#" index="6">苏州</a></li><li><a href="#" index="7">工业园区</a></li><li><a href="#" index="8">昆山</a></li><li><a href="#" index="9">浙江省</a></li><li><a href="#" index="10">上城区</a></li><li><a href="#" index="11">江干区</a></li><li><a href="#" index="12">宁波</a></li><li><a href="#" index="13">鄞州区</a></li><li><a href="#" index="14">余姚市</a></li><li><a href="#" index="15">温州</a></li><li><a href="#" index="16">龙湾区</a></li><li><a href="#" index="17">瓯海区</a></li><li><a href="#" index="18">文成县</a></li><li><a href="#" index="19">绍兴</a></li><li><a href="#" index="20">金华</a></li><li><a href="#" index="21">婺城区</a></li><li><a href="#" index="22">兰溪市</a></li><li><a href="#" index="23">东阳市</a></li><li><a href="#" index="24">永康市</a></li><li><a href="#" index="25">浦江县</a></li><li><a href="#" index="26">武义县</a></li><li><a href="#" index="27">磐安县</a></li><li><a href="#" index="28">嘉兴</a></li><li><a href="#" index="29">台州</a></li><li><a href="#" index="30">湖州</a></li><li><a href="#" index="31">丽水</a></li><li><a href="#" index="32">舟山</a></li><li><a href="#" index="33">衢州</a></li><li><a href="#" index="34">义乌</a></li><li><a href="#" index="35">福建省</a></li><li><a href="#" index="36">福州</a></li><li><a href="#" index="37">福清市</a></li><li><a href="#" index="38">漳州</a></li><li><a href="#" index="39">河南省</a></li><li><a href="#" index="40">驻马店</a></li><li><a href="#" index="41">陕西省</a></li><li><a href="#" index="42">西咸新区</a></li><li><a href="#" index="43">安康</a></li></ul><select name="jobarea" id="select3" style="width: 120px;" class="jqTransformHidden">
+<option selected="" value="0000">按工作地点搜索</option>
+<option value="020000" title="上海">上海</option>
+<option value="021000" title="浦东新区">浦东新区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="031800" title="肇庆">肇庆</option>
+<option value="070000" title="江苏省">江苏省</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070306" title="工业园区">工业园区</option>
+<option value="070600" title="昆山">昆山</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080202" title="上城区">上城区</option>
+<option value="080204" title="江干区">江干区</option>
+<option value="080300" title="宁波">宁波</option>
+<option value="080306" title="鄞州区">鄞州区</option>
+<option value="080308" title="余姚市">余姚市</option>
+<option value="080400" title="温州">温州</option>
+<option value="080402" title="龙湾区">龙湾区</option>
+<option value="080403" title="瓯海区">瓯海区</option>
+<option value="080411" title="文成县">文成县</option>
+<option value="080500" title="绍兴">绍兴</option>
+<option value="080600" title="金华">金华</option>
+<option value="080601" title="婺城区">婺城区</option>
+<option value="080603" title="兰溪市">兰溪市</option>
+<option value="080605" title="东阳市">东阳市</option>
+<option value="080606" title="永康市">永康市</option>
+<option value="080607" title="浦江县">浦江县</option>
+<option value="080608" title="武义县">武义县</option>
+<option value="080609" title="磐安县">磐安县</option>
+<option value="080700" title="嘉兴">嘉兴</option>
+<option value="080800" title="台州">台州</option>
+<option value="080900" title="湖州">湖州</option>
+<option value="081000" title="丽水">丽水</option>
+<option value="081100" title="舟山">舟山</option>
+<option value="081200" title="衢州">衢州</option>
+<option value="081400" title="义乌">义乌</option>
+<option value="110000" title="福建省">福建省</option>
+<option value="110200" title="福州">福州</option>
+<option value="110212" title="福清市">福清市</option>
+<option value="110500" title="漳州">漳州</option>
+<option value="170000" title="河南省">河南省</option>
+<option value="171400" title="驻马店">驻马店</option>
+<option value="200000" title="陕西省">陕西省</option>
+<option value="200219" title="西咸新区">西咸新区</option>
+<option value="201000" title="安康">安康</option>
+</select></div>
+<div class="jqTransformSelectWrapper" style="z-index: 7; width: 199px;"><div><span style="width: 120px;">按发布时间搜索</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 174px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">按发布时间搜索</a></li><li><a href="#" index="1">近一天</a></li><li><a href="#" index="2">近二天</a></li><li><a href="#" index="3">近三天</a></li><li><a href="#" index="4">近一周</a></li><li><a href="#" index="5">近两周</a></li><li><a href="#" index="6">近一月</a></li><li><a href="#" index="7">近六周</a></li><li><a href="#" index="8">近两月</a></li></ul><select name="issuedate" id="select4" style="width: 120px;" class="jqTransformHidden">
+<option selected="" value="0000">按发布时间搜索</option>
+ <option value="01">近一天</option><option value="02">近二天</option><option value="03">近三天</option><option value="07">近一周</option><option value="14">近两周</option><option value="30">近一月</option><option value="42">近六周</option><option value="60">近两月</option></select></div>
+<div id="search_txt"><div class="jqTransformInputWrapper jqTransformSafari" style="width: 122px;"><div class="jqTransformInputInner"><div><input type="text" name="keyword" class="input jqtranformdone jqTransformInput" value="输入职位关键字" onfocus="on(this,'输入职位关键字')" onblur="out(this,'输入职位关键字')" style="width: 138px;"></div></div></div></div>
+<div class="src_btn"><input type="image" src="http://zjtlcb.51job.com/images/index_21.jpg" class="search"></div>
+</form>
+<div style="clear:both;"><a href="http://zjtlcb.51job.com/sc/cv_log.php?jobid=(51691064)" target="_blank" tracename="img-2-index_25.jpg"><img src="http://zjtlcb.51job.com/images/index_25.jpg" width="160" height="110" border="0"></a></div>
+
+</div>
+<img src="http://zjtlcb.51job.com/images/index_29.jpg" width="201" height="311">
+</div>    <div class="right">
+      
+      <img src="http://zjtlcb.51job.com/images/index_27.jpg" width="709" height="33">
+<div class="text">
+	   <strong>职位名称：</strong>数据分析师（总行信息开发部）(J11263)<div class="job_tab">
+<table width="100%" border="0" cellpadding="3" cellspacing="1">
+                        <tbody><tr>
+                          <td width="34%" height="25">发布日期： 2021-07-26 </td>
+                          <td width="33%" height="25">工作地点： 杭州-上城区<br></td>
+                          <td width="33%" height="25">招聘人数： 2</td>
+                        </tr>
+                        <tr>
+                          <td height="25">工作年限： 3-4年<br></td>
+                          <td height="25">学历： 本科</td>
+                          <td height="25"></td>
+                        </tr>
+                      </tbody></table></div>
+<strong>职位职能: </strong>数据分析师<br>
+<strong>职位描述:</strong><br>
+<p>工作职责:</p><p>1.基于大数据相关技术，应用机器学习和数据挖掘算法，进行各类业务领域的数据分析建模工作； </p><p>2.与业务部门协作，通过数据建模和快速迭代，推进数据化运营水平的提升。</p><p>任职资格:</p><p>1.数学、统计、计算机及相关专业，本科及以上学历；</p><p>2.熟悉决策树、聚类、逻辑回归、关联分析、机器学习等算法；</p><p>3.熟练掌握R语言、Python、SPSS、SAS的一种；</p><p>4.精通SQL语言，熟悉DB2、Oracle、Mysql等主流数据库的一种；</p><p>5.两年以上数据分析与挖掘方面的相关工作经验，有银行等金融行业项目经验者优先； </p><p>6.数据敏感度高，具备较强的分析总结能力和沟通表达能力。</p> <div class="btn"><a href="http://zjtlcb.51job.com/sc/cv_log.php?jobid=(133628728)" tracename="img-3-btn_3.jpg"><img src="http://zjtlcb.51job.com/images/btn_3.jpg" width="125" height="28" border="0"></a><a href="http://zjtlcb.51job.com/cv/sendjob_tofriend.php?95875&amp;jobid=133628728&amp;divid=0&amp;coid=2594814" tracename="img-4-btn_4.jpg"><img src="http://zjtlcb.51job.com/images/btn_4.jpg" width="125" height="28" border="0"></a></div>
+    </div>
+     					    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+</div>
+<div class="foot_main"><img src="http://zjtlcb.51job.com/images/hand.gif" width="15" height="20">未经 51job.com 同意，不得转载本网站之所有招聘信息及作品，无忧工作网版权所有©1999-<script language="JavaScript">var now = new Date();var year = now.getFullYear();document.write(year);</script>2021</div>
+
+
+<script src="https://trace.51jingying.com/trackBigdata.js" language="JavaScript" type="text/javascript"></script></body></html>

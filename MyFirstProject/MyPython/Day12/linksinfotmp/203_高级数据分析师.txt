@@ -1,0 +1,303 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<!-- RGVzaWduZXI6JUUzJTgwJTkwJUUzJTgwJTkxJTIwRGV2ZWxvcGVyOiVFMyU4MCU5MCVFNSVCQyVBMCVFNiVBRiU4NSVFMyU4MCU5MSUyMFBNOiVFMyU4MCU5MCVFOSVCQiU4NCVFOSU5QiVBQSVFNSVCMiU5MSVFMyU4MCU5MSUyMERhdGU6MjAyMS0wNS0yNg== -->
+
+    <title>浙江数问生物技术有限公司</title>
+
+    <meta content="浙江数问生物技术有限公司校园招聘 前程无忧官方网站，提供最新浙江数问生物技术有限公司校园招聘职位，校园招聘信息，浙江数问生物技术有限公司面试技巧等。帮助您顺利踏入浙江数问生物技术有限公司的大门，与众多浙江数问生物技术有限公司精英们开启一段崭新的职业生涯。" name="description">
+
+    <meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+
+    <meta http-equiv="Pragma" content="no-cache">
+
+    <meta http-equiv="Expires" content="0">
+
+    <meta name="viewport" content="width=1280">
+
+    <meta name="format-detection" content="telephone=no">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta http-equiv="cache-control" content="no-cache">
+
+    <meta name="robots" content="all">
+
+
+
+
+
+<!--相对路径代码 -->
+
+<link href="css/reset.min.css" rel="stylesheet" type="text/css">
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="css/swiper.min.css">
+
+<link rel="stylesheet" type="text/css" href="css/certify.css">
+
+<style>
+
+    .job-list li{
+
+        background: #a1cdea;
+
+        color: #003c7a;
+
+    }
+
+    .job-list li a{
+
+        color: #003c7a;
+
+    }
+
+</style>
+
+
+
+</head>
+
+
+
+<body ctmid="" baseurl="" jobdata="js/main.js">
+
+
+
+<div id="wrap">
+
+    <!--头部区域-->
+
+    <div class="header">
+
+        <div class="top">
+
+            <div class="inner clearfix">
+
+                <!-- logo -->
+
+                <div class="logo">
+
+                    <img src="images/logo.png" alt="">
+
+                </div>
+
+                <!-- logo end -->
+
+
+
+                <!-- nav1 -->
+
+                <ul class="nav1 clearfix">
+
+                    <li><a href="index01.html" forcheck="nav">走进数问生物</a></li>
+
+                    <li><a href="index04.html" forcheck="nav" class="on">社会招聘</a></li>
+
+
+
+                    <li><a href="index03.html" forcheck="nav">校园招聘</a></li>
+
+                    <li><a href="index02.html" forcheck="nav">企业福利</a></li>
+
+
+
+                    <li><a href="http://www.shuwendx.com" forcheck="nav">官方网站</a></li>
+
+                    <li><a href="index05.html" forcheck="nav">联系我们</a></li>
+
+
+
+                </ul>
+
+                <!-- nav1 end -->
+
+            </div>
+
+        </div>
+
+        <!-- banner -->
+
+        <div class="banner">
+
+            <img src="images/banner.jpg" alt="">
+
+        </div>
+
+        <!-- banner end -->
+
+    </div>
+
+    <!--头部区域end-->
+
+    <!-- 主体区域 -->
+
+    <div class="main">
+
+        <div class="content">
+
+            <!-- 内容区域 -->
+
+            <div class="inner clearfix">
+
+                <h1 class="col2">生物信息数据分析师</h1>
+
+                <div class="info"><p>岗位简介：&nbsp;</p><p>所招聘的生物信息数据分析师会是公司生物标志物的研发小组中的一名关键成员。该小组设立于疾病检测产品研发团队内。生物信息数据分析师将重点推动对多维分子数据（multi-dimensional&nbsp;molecular&nbsp;data）的综合分析，包括NGS和其他复杂的多重生物标志物分析以及跨领域的集成数据的整合和分析，并促进从发现到开发的转化，将分析和筛选出候选生物标志物作为关键的指标应用到疾病检测产品研发中去，以开发出高效和精准的检测产品。成功的候选人将促进研究（research）与开发（development）团队之间的密切合作，探寻候选生物标志物的分子生物学原理，并为候选生物标志物的试验验证提供数据分析方面的支持。</p><p>岗位职责：</p><p>1、参与转化基因组学和转化医学研发战略的探讨，参加以生物标志物为基础的疾病检测产品研发会议，并能提供从发现到开发的新方法；</p><p>2、应用和开发用于纵向多组学（longitudinal&nbsp;multi-omic）、生物标志物和数据整合及比较分析的计算方法，以发现针对特定疾病诊断和预后的生物标志物或生物标志物组合；</p><p>3、为从大数据和大数据集成中筛选出潜在的生物标志物而开发创新的计算策略和方法，并与疾病检测产品研发团队中科学家进行积极互动，以不断改进分析策略和方法；</p><p>4、将重要发现传达给试验团队，并将分析研究的结果及时地和检测产品的研发团队分享，并为验证候选生物标志物的试验提供设计方案；</p><p>5、对候选生物标志物的分子特征和临床变量进行探索性分析，以便更好地应用到疾病检测产品研发中去；</p><p>6、管理和维护高维度数据资源并吸取新的公共和内部数据集，以供团队成员使用。</p><p>资格要求：</p><p>? 博士学位，并拥有3年以上在生物信息学、计算生物学或数据科学领域的工作经验；</p><p>? 精通LINUX系统管理和数据库的建立，熟练的编程技巧（Python，R，SQL等），熟悉云计算服务；&nbsp;</p><p>? 具有建立和执行大数据分析管道以及跨生物标志物与临床数据进行整合分析的经验；</p><p>? 熟悉如何利用大数据推动发现工作，具有分析问题和解决问题的能力；</p><p>? 对分子生物学和转化医学应该有比较深入的了解，并非常熟悉分子生物学技术和平台（例如NGS，多组学平台等）；</p><p>? 了解SEND、SDTM和ADaM等数据标准，高度关注数据结构和细节，数据分析高度可靠，工作踏实认真；</p><p>? 上进心强，对研究进行优先排序和可靠的交付能力，也可以在快节奏的环境中独立工作，并具有出色的沟通能力</p><p>&nbsp;</p><p><br></p></div>
+
+                <div class="a-box">
+
+                    <a href="index04.html" class="back"><img src="./images/back33.png" alt=""></a>
+
+                    <a href="https://jobs.51job.com/all/131118759.html" class="apply" target="_blank"><img src="./images/apply.jpg" alt=""></a>
+
+                </div>
+
+            </div>
+
+            <br><br><br><br><br>
+
+            <!-- 内容区域end -->      
+
+        </div>
+
+    </div>
+
+    <!-- 主体区域end -->
+
+    <!--版权信息区域-->
+
+    <div class="copyright">
+
+        <img src="images/hand1.png">&nbsp;未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999-<script>document.write((new Date()).getFullYear())</script>2021
+
+    </div>
+
+    <!--版权信息区域end-->
+
+
+
+
+
+<div id="goToTop" style="display: none;"><a href="javascript:;"><img src="images/Top.png"></a></div></div>
+
+
+
+<script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+
+
+
+<!--职位数据接口-->
+
+<script type="text/javascript" src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+
+<!--职位数据接口-->
+
+
+
+<!--腾讯地图-->
+
+<!--<script charset="utf-8" src="https://map.qq.com/api/js?v=2.exp&key=BMPBZ-PW435-WRWIH-Q4K23-VKM75-45FX4"> </script>-->
+
+<!--腾讯地图-->
+
+
+
+<!--swiper轮播-->
+
+<script type="text/javascript" src="js/swiper.js"></script>
+
+<!--swiper轮播-->
+
+
+
+<!--页面滚动内容元素动画特效-->
+
+<script type="text/javascript" src="js/jquery.smoove.js"></script>
+
+<!--页面滚动内容元素动画特效-->
+
+<!-- 微信分享图片 -->
+
+<!--<script src="https://sdk.51job.com/js/jweixin-1.0.0.js"></script>-->
+
+
+
+<script type="text/javascript" src="js/main.js"></script>
+
+<script type="text/javascript">
+
+    var jobid=window.location.href.split('?jobid=')[1]
+
+    coapi.getJobDetail(jobid,function(data){
+
+        //取到数据之后的操作
+
+        console.log(data)
+
+        $('.col2').html(data.resultbody.jobname)
+
+        $('.info').html(data.resultbody.jobinfo)
+
+        $('.apply').attr('href','https://jobs.51job.com/all/'+jobid+'.html')
+
+        if(data.resultbody.poscode==01){
+
+            $('.nav1 li').eq(2).children('a').addClass('on')
+
+            $('.back').attr('href','index03.html')
+
+        }else if(data.resultbody.poscode==02){
+
+            $('.nav1 li').eq(1).children('a').addClass('on')
+
+            $('.back').attr('href','index04.html')
+
+        }
+
+    });
+
+
+
+
+
+//     var params={
+
+//     ctmid:'1836308',
+
+//     countnum: '', //总职位数
+
+//     pagesize:'8',
+
+// 	pagenum:'1',
+
+//     coid:'',
+
+//     functype:'',
+
+//     keyword:'',
+
+//     jobarea:'',
+
+// 	jobid:'',
+
+// 	poscode:'01',
+
+    
+
+// }
+
+</script>
+
+<!-- <script src="./js/post.js"></script> -->
+
+
+
+
+
+</body></html>

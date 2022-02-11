@@ -1,0 +1,228 @@
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>【红牛维他命饮料有限公司招聘，求职】红牛维他命饮料有限公司</title>
+<meta content="“红牛维他命饮料有限公司招聘 前程无忧官方网站，提供最新红牛维他命饮料有限公司招聘职位，校园招聘信息，红牛维他命饮料有限公司面试技巧等。帮助您顺利踏入红牛维他命饮料有限公司的大门，与众多红牛维他命饮料有限公司精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<script>
+function init(id1,id2,id3){
+var speed=30; 
+var srollmainbox = document.getElementById(id1);
+var scrollbox1 = document.getElementById(id2);
+var scrollbox2 = document.getElementById(id3);
+
+scrollbox2.innerHTML=scrollbox1.innerHTML 
+
+
+function Marquee(){ 
+	//当滚动至srollmainbox1与srollmainbox2交界时 
+	if(scrollbox2.offsetTop-srollmainbox.scrollTop<=0) {
+		srollmainbox.scrollTop-=scrollbox1.offsetHeight 
+		}
+	//srollmainbox跳到最顶端 
+	else{ srollmainbox.scrollTop++ } 
+} 
+var MyMar=setInterval(Marquee,speed)//设置定时器 
+
+//鼠标移上时清除定时器达到滚动停止的目的 
+   srollmainbox.onmouseover=function() {clearInterval(MyMar)} 
+
+//鼠标移开时重设定时器 
+   srollmainbox.onmouseout=function(){MyMar=setInterval(Marquee,speed)}
+
+}
+</script>
+
+<style>
+  .info p{
+      text-indent: 0 !important;
+
+  }
+</style>
+</head>
+<body>
+<div class="bg">
+  <div id="wrap">
+    <div class="logo"><img src="../images/index_02.jpg" width="1003" height="64" border="0" usemap="#Map3">
+      <map name="Map3" id="Map3">
+        <area shape="rect" coords="873,27,982,57" href="http://www.redbull.com.cn/" target="_blank">
+      </map>
+    </div>
+    <div class="nav"><img src="../images/index_04.jpg" width="1003" height="129" border="0" usemap="#Map2">
+      <map name="Map2" id="Map2">
+        <area shape="rect" coords="6,7,144,125" href="../index.html">
+        <area shape="rect" coords="151,10,286,124" href="../about.html">
+        <area shape="rect" coords="299,13,428,122" href="../sc/job_list.html">
+        <area shape="rect" coords="443,15,565,125" href="../about.html#lx">
+        <area shape="rect" coords="575,18,716,126" href="javascript:void(0);">
+        <area shape="rect" coords="726,21,856,123" href="javascript:void(0);">
+        <area shape="rect" coords="870,22,1000,122" href="http://www.redbull.com.cn/event/news/" target="_blank">
+      </map>
+    </div>
+    <div class="banner"><img src="../images/index_05.jpg" width="1003"></div>
+    <div class="leftsearch">
+      <div><img src="../images/index_06.jpg" width="232"></div>
+<div class="sousuo">
+
+	<input type="hidden" name="keywordtype" value="2">
+        <select id="jobarea" class="area">
+				
+        <option value="" selected="selected">--请选择工作地点-- </option><option value="010000">北京</option><option value="010100">东城区</option><option value="010500">朝阳区</option><option value="010600">丰台区</option><option value="010700">石景山区</option><option value="010800">海淀区</option><option value="011000">房山区</option><option value="011100">通州区</option><option value="011200">顺义区</option><option value="011300">昌平区</option><option value="011400">大兴区</option><option value="011500">怀柔区</option><option value="020000">上海</option><option value="020800">虹口区</option><option value="021000">浦东新区</option><option value="030000">广东省</option><option value="030200">广州</option><option value="030202">荔湾区</option><option value="030203">海珠区</option><option value="030205">白云区</option><option value="030209">南沙区</option><option value="030300">惠州</option><option value="030400">汕头</option><option value="030500">珠海</option><option value="030600">佛山</option><option value="030603">南海区</option><option value="030800">东莞</option><option value="030802">南城区</option><option value="030829">虎门镇</option><option value="030832">长安镇</option><option value="031502">江海区</option><option value="031504">台山市</option><option value="031505">开平市</option><option value="031700">湛江</option><option value="031702">霞山区</option><option value="031705">廉江市</option><option value="031707">吴川市</option><option value="031801">端州区</option><option value="032200">揭阳</option><option value="032400">汕尾</option><option value="032600">梅州</option><option value="032800">阳江</option><option value="040000">深圳</option><option value="040100">福田区</option><option value="050000">天津</option><option value="050300">河西区</option><option value="051100">武清区</option><option value="051300">滨海新区</option><option value="060000">重庆</option><option value="060100">渝中区</option><option value="070000">江苏省</option><option value="070408">宜兴市</option><option value="071002">润州区</option><option value="071103">云龙区</option><option value="071105">铜山区</option><option value="071106">睢宁县</option><option value="071107">沛县</option><option value="071109">邳州市</option><option value="071110">新沂市</option><option value="071202">连云区</option><option value="071206">灌南县</option><option value="071300">盐城</option><option value="071301">亭湖区</option><option value="071302">盐都区</option><option value="071306">阜宁县</option><option value="071801">海陵区</option><option value="071906">盱眙县</option><option value="071907">金湖县</option><option value="072000">宿迁</option><option value="072100">丹阳</option><option value="080000">浙江省</option><option value="080200">杭州</option><option value="080201">拱墅区</option><option value="080202">上城区</option><option value="080204">江干区</option><option value="080207">余杭区</option><option value="080208">萧山区</option><option value="080401">鹿城区</option><option value="080403">瓯海区</option><option value="080405">瑞安市</option><option value="080409">平阳县</option><option value="080600">金华</option><option value="080602">金东区</option><option value="080603">兰溪市</option><option value="080605">东阳市</option><option value="080606">永康市</option><option value="080607">浦江县</option><option value="080801">椒江区</option><option value="080808">临海市</option><option value="081200">衢州</option><option value="081400">义乌</option><option value="090000">四川省</option><option value="090204">武侯区</option><option value="090210">都江堰市</option><option value="090213">崇州市</option><option value="090215">双流区</option><option value="090216">郫都区</option><option value="090600">德阳</option><option value="090700">宜宾</option><option value="091100">南充</option><option value="091400">资阳</option><option value="091500">遂宁</option><option value="100000">海南省</option><option value="100200">海口</option><option value="100201">龙华区</option><option value="101100">定安</option><option value="110000">福建省</option><option value="110202">台江区</option><option value="110300">厦门</option><option value="110303">湖里区</option><option value="110411">晋江市</option><option value="110600">莆田</option><option value="110700">三明</option><option value="120000">山东省</option><option value="120200">济南</option><option value="120201">历下区</option><option value="120300">青岛</option><option value="120302">市北区</option><option value="120303">黄岛区</option><option value="120305">城阳区</option><option value="120307">胶州市</option><option value="120309">平度市</option><option value="120400">烟台</option><option value="120410">招远市</option><option value="120500">潍坊</option><option value="120510">安丘市</option><option value="120600">威海</option><option value="120800">临沂</option><option value="120801">兰山区</option><option value="120810">莒南县</option><option value="121100">泰安</option><option value="121200">日照</option><option value="121300">德州</option><option value="121400">菏泽</option><option value="121700">聊城</option><option value="130000">江西省</option><option value="130200">南昌</option><option value="140000">广西</option><option value="140200">南宁</option><option value="140900">钦州</option><option value="150000">安徽省</option><option value="150204">包河区</option><option value="150300">芜湖</option><option value="150400">安庆</option><option value="151000">黄山</option><option value="151500">池州</option><option value="160000">河北省</option><option value="160200">石家庄</option><option value="160203">桥西区</option><option value="160400">保定</option><option value="160600">秦皇岛</option><option value="160700">邯郸</option><option value="160800">沧州</option><option value="161100">邢台</option><option value="170000">河南省</option><option value="170200">郑州</option><option value="170204">金水区</option><option value="170300">洛阳</option><option value="170312">嵩县</option><option value="170400">开封</option><option value="170500">焦作</option><option value="170700">新乡</option><option value="170800">周口</option><option value="171000">平顶山</option><option value="171300">商丘</option><option value="171400">驻马店</option><option value="171600">濮阳</option><option value="180000">湖北省</option><option value="180200">武汉</option><option value="180208">东西湖区</option><option value="180302">伍家岗区</option><option value="180500">襄阳</option><option value="180600">十堰</option><option value="180700">荆州</option><option value="180703">公安县</option><option value="181300">咸宁</option><option value="181400">仙桃</option><option value="190000">湖南省</option><option value="190200">长沙</option><option value="190204">开福区</option><option value="190209">浏阳市</option><option value="200000">陕西省</option><option value="200214">高新技术产业开发区</option><option value="200301">秦都区</option><option value="200400">宝鸡</option><option value="200600">延安</option><option value="200800">榆林</option><option value="200900">汉中</option><option value="210000">山西省</option><option value="210200">太原</option><option value="210300">运城</option><option value="210600">长治</option><option value="210700">晋城</option><option value="230000">辽宁省</option><option value="230205">皇姑区</option><option value="230207">沈河区</option><option value="230303">沙河口区</option><option value="231400">朝阳</option><option value="240000">吉林省</option><option value="240201">朝阳区</option><option value="240300">吉林</option><option value="240500">通化</option><option value="240700">松原</option><option value="240800">延吉</option><option value="250000">云南省</option><option value="250200">昆明</option><option value="250202">盘龙区</option><option value="250204">西山区</option><option value="250300">曲靖</option><option value="250400">玉溪</option><option value="250500">大理</option><option value="250600">丽江</option><option value="251400">文山</option><option value="270000">甘肃省</option><option value="270200">兰州</option><option value="280000">内蒙古</option><option value="280200">呼和浩特</option><option value="280204">赛罕区</option><option value="280400">包头</option><option value="280800">鄂尔多斯</option><option value="280900">巴彦淖尔</option><option value="281000">乌海</option><option value="281400">锡林郭勒盟</option><option value="290000">宁夏</option><option value="290200">银川</option><option value="290600">固原</option><option value="310000">新疆</option><option value="310203">新市区</option><option value="320000">青海省</option><option value="320200">西宁</option></select>
+        <select id="funtype" class="area">
+			
+        <option value="" selected="selected">--请选择职能类别-- </option><option value="0100">后端开发</option><option value="0121">--Java开发工程师</option><option value="0200">销售管理</option><option value="0202">--销售经理</option><option value="0203">--销售主管</option><option value="0207">--渠道/分销经理</option><option value="0220">--渠道/分销主管</option><option value="0226">--区域销售经理</option><option value="0231">--其他</option><option value="0235">--大客户管理</option><option value="0300">市场/营销</option><option value="0303">--市场/营销/拓展主管</option><option value="0304">--市场/营销/拓展专员</option><option value="0305">--市场助理</option><option value="0306">--产品/品牌经理</option><option value="0307">--产品/品牌主管</option><option value="0324">--市场分析/调研人员</option><option value="0329">--其他</option><option value="0330">--产品/品牌专员</option><option value="0335">--市场通路专员</option><option value="0336">--市场企划经理/主管</option><option value="0337">--市场企划专员</option><option value="0400">财务/审计/税务</option><option value="0402">--财务经理</option><option value="0403">--财务主管/总账主管</option><option value="0404">--会计经理/会计主管</option><option value="0405">--会计</option><option value="0406">--财务分析经理/主管</option><option value="0410">--审计经理/主管</option><option value="0414">--出纳员</option><option value="0422">--财务助理/财务文员</option><option value="0446">--统计员</option><option value="0458">--财务专员</option><option value="0500">工程/机械/能源</option><option value="0539">--机械工程师</option><option value="0544">--机电工程师</option><option value="0600">人力资源</option><option value="0601">--人事总监</option><option value="0602">--人事经理</option><option value="0603">--人事主管</option><option value="0604">--人事专员</option><option value="0605">--人事助理</option><option value="0610">--培训专员/助理/培训师</option><option value="0611">--HRBP</option><option value="0700">高级管理</option><option value="0703">--总裁助理/总经理助理</option><option value="0800">物流/仓储</option><option value="0826">--供应链主管/专员</option><option value="1100">律师/法务/合规</option><option value="1102">--法务主管/专员</option><option value="1107">--法务助理</option><option value="1700">储备干部/培训生/实习生</option><option value="1701">--培训生</option><option value="1800">交通运输服务</option><option value="1810">--商务司机</option><option value="1829">--其他</option><option value="1831">--货运司机</option><option value="1900">其他</option><option value="1901">--其他</option><option value="2300">行政/后勤</option><option value="2302">--行政经理/主管/办公室主任</option><option value="2303">--行政专员/助理</option><option value="2305">--前台接待/总机/接待生</option><option value="2309">--其他</option><option value="2311">--文员</option><option value="2900">电子/电器/仪器仪表</option><option value="2920">--电子/电器维修工程师/技师</option><option value="3000">销售人员</option><option value="3001">--销售代表</option><option value="3002">--渠道/分销专员</option><option value="3003">--客户代表</option><option value="3007">--其他</option><option value="3009">--大客户销售</option><option value="3012">--销售助理</option><option value="3014">--区域销售代表</option><option value="3100">销售行政及商务</option><option value="3102">--销售行政专员</option><option value="3106">--销售行政助理</option><option value="3109">--业务分析专员/助理</option><option value="3300">金融/证券/期货/投资</option><option value="3314">--风险管理/控制</option><option value="3500">生产/营运</option><option value="3506">--营运主管</option><option value="3510">--化验员</option><option value="3600">质量安全</option><option value="3604">--质检员/测试员(QC)</option><option value="3700">技工普工</option><option value="3706">--电工</option><option value="3707">--叉车司机/铲车司机</option><option value="3710">--普工/操作工</option><option value="4300">公关/媒介</option><option value="4302">--公关主管</option><option value="4314">--活动执行</option><option value="4700">物业管理</option><option value="4712">--保洁</option><option value="5100">百货零售</option><option value="5117">--促销主管/督导/巡店</option><option value="5121">--理货员</option><option value="5123">--导购管理</option><option value="5700">培训</option><option value="5702">--培训讲师</option><option value="6100">电子商务</option><option value="6102">--电商运营</option><option value="6110">--电商经理/电商主管</option><option value="6200">机械机床</option><option value="6203">--机修工</option><option value="6600">产品</option><option value="6601">--产品专员</option><option value="6602">--产品经理/主管</option><option value="7400">视觉/交互设计</option><option value="7413">--平面设计师</option><option value="7500">数据</option><option value="7501">--数据分析师</option><option value="7507">--数据建模工程师</option><option value="7509">--其他</option><option value="7900">运维/技术支持</option><option value="7904">--系统集成工程师</option><option value="8000">运营</option><option value="8010">--新媒体运营</option><option value="8044">--数据运营</option><option value="8045">--线下运营</option></select>
+        <select id="issuedate" class="area">
+          <option value="" selected="selected">--请选择发布时间--</option>
+          <option value="01">近一天</option>
+          <option value="02">近二天</option>
+          <option value="03">近三天</option>
+          <option value="07">近一周</option>
+          <option value="14">近两周</option>
+          <option value="30">近一月</option>
+          <option value="42">近七周</option>
+			</select>
+        <input type="text" class="area" id="keyword" value="" placeholder="请输入职位关键字">
+
+      </div>
+      <div class="search"><input type="image" src="../images/index_11.jpg" width="69" height="34" id="btn"></div>
+      <div><img src="../images/index_14.jpg" width="232" height="38"></div>
+
+    <!--人才库-->
+      <div><a href="javascript: void ( 0 );"><img src="../images/index_16.jpg" width="232" height="119"></a></div>
+
+    </div>
+    <div class="rightjob">
+      <div><img src="../images/showjoblist_07.jpg" width="771" height="66"></div>
+         	        		
+    <div class="jobde"><div class="jobname">业务代表</div>
+	<table width="96%" border="0" cellpadding="0" cellspacing="0" style="padding-top:10px; padding-left:10px;" id="tj"><tbody><tr><td>职位类别：销售代表<br>  工作地点：易构大厦B座615室<br>  工作年限：无需经验<br>  外语要求：-</td><td valign="top">  发布日期：2021-08-02<br>  学　　历：大专<br>  工作性质：全职</td></tr></tbody></table>
+	<div class="require">
+    <!-- 任职要求：<br /> -->
+    <!-- <p>岗位职责：</p> -->
+    <p class="info"><p>1、进行客户拜访，及时更换过期及瘪漏产品；</p><p>2、维护良好客情关系,整理完善客户资料并及时上报；</p><p>3、确保辖区内终端的陈列标准,配合公司促销及其它推广活动的执行；</p><p>4、及时提交相关数据信息报表，协助完成数据分析；</p><p>5、对各区域实地巡查及指导，政策活动落实，及时反馈市场整体运作状况。</p><p>6、定期进行工作汇报及时准确上报各类报告及报表。</p><p><br></p><p>任职要求：</p><p>1、大专以上学历优先；</p><p>2、市场营销、经济管理等相关专业优先；</p><p>3、有一年以上快消品工作经验者优先（优秀大学毕业生也可以考虑）；</p></p>
+    <div class="buttontwo">
+      <div class="button">
+        <a href="https://jobs.51job.com/all/co1216457.html" target="_black">
+          <img src="../images/apply.png" width="97" height="33">
+        </a>
+    </div>
+    <div class="button">
+      <a href="../sc/job_list.html">
+        <img src="../images/tofr.png" width="98" height="33">
+      </a>
+    </div>
+  </div>
+</div>
+
+</div>
+                                  		    
+    </div>
+     <div class="foot"><img src="../images/hand.gif" width="15" height="20">未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©1999 -
+      <script language="JavaScript"> 
+var now = new Date();
+var year = now.getYear();
+if (year < 2000) year = year + 1900;
+document.write(year);
+</script>2021   </div>
+    </div>
+    
+    
+  </div>
+
+
+<script src="../jquery-1.7.2.js"></script>
+<script src="https://js.51jobcdn.com/in/js/2018/coapi/coapi.min.js"></script>
+<!-- <script src="../job1.js"></script> -->
+<script>
+ var url = decodeURI(location.search).substring(1); //获取页面地址栏参数
+    var urlArr = url.split('&');
+    var urlObj = {};
+    for (var i = 0; i < urlArr.length; i++) {
+        var urlArrItem = urlArr[i].split('=');
+        urlObj[urlArrItem[0]] = urlArrItem[1]
+    }
+
+  $(function(){
+    jobcondition()
+    jobdetail()
+
+ 
+
+  })
+
+
+  function jobcondition(){
+
+coapi.getJobCondition(646760,function(data){
+  //取到数据之后的操作
+  console.log(data)
+  var JobConditionlist=data.resultbody;
+   var str1='<option value="" selected="selected" >--请选择工作地点-- </option>'
+   $.each(JobConditionlist.jobarea,function(index,value){
+          str1 +='<option value="'+value.key+'">'+value.value+'</option>'   
+    });
+    $("#jobarea").append(str1)
+
+    var str2='<option value="" selected="selected" >--请选择职能类别-- </option>'
+   $.each(JobConditionlist.functype,function(index,value){
+          str2 +='<option value="'+value.key+'">'+value.value+'</option>'   
+    });
+    $("#funtype").append(str2)
+
+ });
+
+}
+
+$("#btn").click(function(){
+var keyword=$("#keyword").val();
+var jobarea=$("#jobarea").val();
+var funtype=$("#funtype").val();
+var issuedate=$("#issuedate").val()
+window.location.href='../sc/job_list.html?keyword='+keyword+'&jobarea='+jobarea+'&funtype='+funtype+'&issuedate='+issuedate;
+console.log(keyword,jobarea,funtype,issuedate)
+})
+
+function jobdetail(){
+  console.log(urlObj.jobid)
+   if(urlObj.jobid == undefined || urlObj.jobid == ""){
+     alert("职位参数不合法")
+     window.location.href="../sc/job_list.html"
+   }else{
+    coapi.getJobDetail(urlObj.jobid,function(data){
+    //取到数据之后的操作
+    var jobobj=data.resultbody
+    $(".jobname").text(jobobj.jobname)
+
+    var tr= '<tr>'+
+                '<td>职位类别：'+jobobj.funtype+'<br />'+
+                  '  工作地点：'+jobobj.address+'<br />'+
+                  '  工作年限：'+jobobj.workyearname+'<br />'+
+                  '  外语要求：'+((jobobj.language) || ("-"))+''+
+                '</td>'+
+                '<td valign="top">'+
+                  '  发布日期：'+jobobj.issuedate.split(" ")[0]+'<br />'+
+                  '  学　　历：'+jobobj.degreefrom+'<br />'+
+                  '  工作性质：'+jobobj.term+''+
+                '</td>'+
+            '</tr>'
+
+       $("#tj").html(tr)  
+       $(".info").html(jobobj.jobinfo)   
+    console.log(data)
+});
+   }
+ 
+
+
+
+}
+</script>
+
+</body></html>
